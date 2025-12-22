@@ -1,0 +1,19 @@
+{
+  "topic": "Percentage",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is 25% of 200?",
+      "options": ["40", "45", "50", "60"],
+      "answer": "50",
+      "explanation": "25% of 200 = (25/100) × 200 = 50"
+    },
+    {
+      "id": 2,
+      "question": "If a number is increased by 10%, what is the multiplying factor?",
+      "options": ["1.1", "1.01", "0.9", "10"],
+      "answer": "1.1",
+      "explanation": "Increase of 10% means factor = 1 + 10/100 = 1.1"
+    }
+  ]
+}
