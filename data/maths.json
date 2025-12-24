@@ -1,8 +1,122 @@
 [
   {
-    "question": "TEST QUESTION: 10% of 50?",
+    "question": "The present age of Ravi is 24 years. What will be his age after 6 years?",
+    "options": ["28 years", "30 years", "32 years", "34 years"],
+    "answer": "30 years",
+    "explanation": "Ravi's present age is 24. After 6 years, age = 24 + 6 = 30 years."
+  },
+  {
+    "question": "The ratio of ages of A and B is 3:5. If A is 18 years old, what is the age of B?",
+    "options": ["24 years", "30 years", "32 years", "35 years"],
+    "answer": "30 years",
+    "explanation": "3 parts = 18, so 1 part = 6. B has 5 parts, so age = 5 × 6 = 30 years."
+  },
+  {
+    "question": "Find the LCM of 12 and 18.",
+    "options": ["36", "48", "54", "72"],
+    "answer": "36",
+    "explanation": "Prime factors: 12 = 2²×3, 18 = 2×3². LCM = 2²×3² = 36."
+  },
+  {
+    "question": "Find the HCF of 24 and 36.",
+    "options": ["6", "8", "12", "18"],
+    "answer": "12",
+    "explanation": "Common factors of 24 and 36 are 1,2,3,4,6,12. Highest is 12."
+  },
+  {
+    "question": "Find the LCM of 8, 12 and 16.",
+    "options": ["24", "32", "48", "64"],
+    "answer": "48",
+    "explanation": "LCM of 8, 12 and 16 is 48."
+  },
+  {
+    "question": "Find the HCF of 15 and 20.",
     "options": ["5", "10", "15", "20"],
     "answer": "5",
-    "explanation": "10% of 50 is 5"
+    "explanation": "Common factors of 15 and 20 are 1 and 5. HCF is 5."
+  },
+  {
+    "question": "What is 20% of 250?",
+    "options": ["40", "45", "50", "60"],
+    "answer": "50",
+    "explanation": "20% of 250 = (20/100) × 250 = 50."
+  },
+  {
+    "question": "12.5% of a number is 25. Find the number.",
+    "options": ["150", "180", "200", "220"],
+    "answer": "200",
+    "explanation": "12.5% = 1/8. Number = 25 × 8 = 200."
+  },
+  {
+    "question": "A number is increased by 10%. What is the new value if original number is 200?",
+    "options": ["210", "215", "220", "230"],
+    "answer": "220",
+    "explanation": "10% of 200 = 20. New value = 200 + 20 = 220."
+  },
+  {
+    "question": "If the cost price of an article is ₹500 and profit is 10%, find the selling price.",
+    "options": ["₹540", "₹550", "₹560", "₹600"],
+    "answer": "₹550",
+    "explanation": "Profit = 10% of 500 = 50. Selling price = 500 + 50 = 550."
+  },
+  {
+    "question": "If the selling price of an article is ₹880 and loss is 12%, find the cost price.",
+    "options": ["₹950", "₹1000", "₹1100", "₹1200"],
+    "answer": "₹1000",
+    "explanation": "SP = 88% of CP. CP = 880 × 100 / 88 = 1000."
+  },
+  {
+    "question": "A shopkeeper buys an article for ₹400 and sells it for ₹480. Find the profit percentage.",
+    "options": ["15%", "18%", "20%", "25%"],
+    "answer": "20%",
+    "explanation": "Profit = 480 − 400 = 80. Profit% = (80/400) × 100 = 20%."
+  },
+  {
+    "question": "The ratio of present ages of Ram and Shyam is 4:5. If Ram is 20 years old, find Shyam's age.",
+    "options": ["22 years", "23 years", "24 years", "25 years"],
+    "answer": "25 years",
+    "explanation": "4 parts = 20, so 1 part = 5. Shyam has 5 parts, so age = 25."
+  },
+  {
+    "question": "Find the HCF of 45 and 75.",
+    "options": ["5", "10", "15", "25"],
+    "answer": "15",
+    "explanation": "Factors of 45: 1,3,5,9,15. Factors of 75: 1,3,5,15,25. HCF is 15."
+  },
+  {
+    "question": "Find the LCM of 5, 10 and 15.",
+    "options": ["15", "20", "30", "45"],
+    "answer": "30",
+    "explanation": "LCM of 5, 10 and 15 is 30."
+  },
+  {
+    "question": "What is 15% of 300?",
+    "options": ["35", "40", "45", "50"],
+    "answer": "45",
+    "explanation": "15% of 300 = (15/100) × 300 = 45."
+  },
+  {
+    "question": "A man buys an article at ₹600 and sells it at a loss of 5%. Find the selling price.",
+    "options": ["₹540", "₹560", "₹570", "₹580"],
+    "answer": "₹570",
+    "explanation": "Loss = 5% of 600 = 30. Selling price = 600 − 30 = 570."
+  },
+  {
+    "question": "The present age of a father is 40 years and his son's age is 10 years. What will be the ratio of their ages after 10 years?",
+    "options": ["3:1", "4:1", "5:2", "2:1"],
+    "answer": "5:2",
+    "explanation": "After 10 years, father's age = 50 and son's age = 20. Ratio = 50:20 = 5:2."
+  },
+  {
+    "question": "Find the HCF of 18 and 24.",
+    "options": ["3", "6", "9", "12"],
+    "answer": "6",
+    "explanation": "Common factors of 18 and 24 are 1,2,3,6. Highest is 6."
+  },
+  {
+    "question": "If the cost price is ₹800 and selling price is ₹960, find the profit percentage.",
+    "options": ["15%", "18%", "20%", "25%"],
+    "answer": "20%",
+    "explanation": "Profit = 960 − 800 = 160. Profit% = (160/800) × 100 = 20%."
   }
 ]
