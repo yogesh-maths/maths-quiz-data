@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": ["Mahatma Gandhi", "B. R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"],
+    "answer": "B. R. Ambedkar",
+    "explanation": "Dr. B. R. Ambedkar was the chairman of the drafting committee of the Indian Constitution."
+  },
+  {
+    "id": 2,
+    "question": "Which is the largest planet in the solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter",
+    "explanation": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "id": 3,
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "answer": "Canberra",
+    "explanation": "Canberra is the capital city of Australia."
+  },
+  {
+    "id": 4,
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen",
+    "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
+  },
+  {
+    "id": 5,
+    "question": "Who wrote the national anthem of India?",
+    "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
+    "answer": "Rabindranath Tagore",
+    "explanation": "Rabindranath Tagore wrote 'Jana Gana Mana'."
+  },
+  {
+    "id": 6,
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon", "Yangtze", "Nile", "Ganga"],
+    "answer": "Nile",
+    "explanation": "The Nile is traditionally considered the longest river in the world."
+  },
+  {
+    "id": 7,
+    "question": "What is the currency of Japan?",
+    "options": ["Won", "Yuan", "Yen", "Dollar"],
+    "answer": "Yen",
+    "explanation": "The official currency of Japan is the Japanese Yen."
+  },
+  {
+    "id": 8,
+    "question": "Which organ purifies blood in the human body?",
+    "options": ["Heart", "Liver", "Kidney", "Lungs"],
+    "answer": "Kidney",
+    "explanation": "Kidneys filter waste products from the blood."
+  },
+  {
+    "id": 9,
+    "question": "Who was the first President of India?",
+    "options": ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "Sardar Patel", "Dr. Radhakrishnan"],
+    "answer": "Dr. Rajendra Prasad",
+    "explanation": "Dr. Rajendra Prasad was the first President of India."
+  },
+  {
+    "id": 10,
+    "question": "Which continent is the Sahara Desert located in?",
+    "options": ["Asia", "Africa", "Australia", "Europe"],
+    "answer": "Africa",
+    "explanation": "The Sahara Desert is located in northern Africa."
+  },
+  {
+    "id": 11,
+    "question": "What is the hardest natural substance?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "answer": "Diamond",
+    "explanation": "Diamond is the hardest naturally occurring substance."
+  },
+  {
+    "id": 12,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "answer": "Mars",
+    "explanation": "Mars appears red due to iron oxide on its surface."
+  },
+  {
+    "id": 13,
+    "question": "Who invented the telephone?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Newton"],
+    "answer": "Alexander Graham Bell",
+    "explanation": "Alexander Graham Bell invented the telephone."
+  },
+  {
+    "id": 14,
+    "question": "Which is the smallest continent?",
+    "options": ["Europe", "Antarctica", "Australia", "South America"],
+    "answer": "Australia",
+    "explanation": "Australia is the smallest continent."
+  },
+  {
+    "id": 15,
+    "question": "How many players are there in a cricket team?",
+    "options": ["9", "10", "11", "12"],
+    "answer": "11",
+    "explanation": "Each cricket team has 11 players."
+  },
+  {
+    "id": 16,
+    "question": "What is the national animal of India?",
+    "options": ["Lion", "Elephant", "Tiger", "Leopard"],
+    "answer": "Tiger",
+    "explanation": "The Bengal Tiger is the national animal of India."
+  },
+  {
+    "id": 17,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Iron", "Mercury", "Aluminium", "Zinc"],
+    "answer": "Mercury",
+    "explanation": "Mercury is the only metal that is liquid at room temperature."
+  },
+  {
+    "id": 18,
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["UK", "France", "Germany", "Canada"],
+    "answer": "France",
+    "explanation": "France gifted the Statue of Liberty to the United States."
+  },
+  {
+    "id": 19,
+    "question": "Which vitamin is produced by sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D",
+    "explanation": "Vitamin D is produced when skin is exposed to sunlight."
+  },
+  {
+    "id": 20,
+    "question": "What is the national sport of India?",
+    "options": ["Cricket", "Hockey", "Football", "Kabaddi"],
+    "answer": "Hockey",
+    "explanation": "Hockey is officially considered the national sport of India."
+  }
+]
