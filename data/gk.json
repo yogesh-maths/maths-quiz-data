@@ -1,142 +1,360 @@
 [
   {
-    "id": 1,
-    "question": "Who is known as the Father of the Indian Constitution?",
-    "options": ["Mahatma Gandhi", "B. R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"],
-    "answer": "B. R. Ambedkar",
-    "explanation": "Dr. B. R. Ambedkar was the chairman of the drafting committee of the Indian Constitution."
+    "id": 51,
+    "question": "Which country is known as the Land of White Elephant?",
+    "options": ["India", "Thailand", "Sri Lanka", "Myanmar"],
+    "answer": "Thailand",
+    "explanation": "Thailand is known as the Land of White Elephant."
   },
   {
-    "id": 2,
-    "question": "Which is the largest planet in the solar system?",
-    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "id": 52,
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+    "answer": "Barometer",
+    "explanation": "Barometer measures atmospheric pressure."
+  },
+  {
+    "id": 53,
+    "question": "Which Indian state has the longest coastline?",
+    "options": ["Tamil Nadu", "Andhra Pradesh", "Gujarat", "Maharashtra"],
+    "answer": "Gujarat",
+    "explanation": "Gujarat has the longest coastline in India."
+  },
+  {
+    "id": 54,
+    "question": "Who invented the computer?",
+    "options": ["Alan Turing", "Charles Babbage", "John Von Neumann", "Bill Gates"],
+    "answer": "Charles Babbage",
+    "explanation": "Charles Babbage is known as the father of the computer."
+  },
+  {
+    "id": 55,
+    "question": "Which vitamin helps in blood clotting?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+    "answer": "Vitamin K",
+    "explanation": "Vitamin K helps in blood clotting."
+  },
+  {
+    "id": 56,
+    "question": "Which planet is known for its Great Red Spot?",
+    "options": ["Mars", "Jupiter", "Saturn", "Venus"],
     "answer": "Jupiter",
-    "explanation": "Jupiter is the largest planet in our solar system."
+    "explanation": "Jupiter has a giant storm known as the Great Red Spot."
   },
   {
-    "id": 3,
-    "question": "What is the capital of Australia?",
-    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
-    "answer": "Canberra",
-    "explanation": "Canberra is the capital city of Australia."
+    "id": 57,
+    "question": "Which Indian city is known as the Silicon Valley of India?",
+    "options": ["Hyderabad", "Pune", "Bengaluru", "Chennai"],
+    "answer": "Bengaluru",
+    "explanation": "Bengaluru is known as the Silicon Valley of India."
   },
   {
-    "id": 4,
-    "question": "Which gas is most abundant in the Earth's atmosphere?",
-    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-    "answer": "Nitrogen",
-    "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
+    "id": 58,
+    "question": "Which is the smallest bone in the human body?",
+    "options": ["Femur", "Stapes", "Ulna", "Radius"],
+    "answer": "Stapes",
+    "explanation": "Stapes is the smallest bone, located in the ear."
   },
   {
-    "id": 5,
-    "question": "Who wrote the national anthem of India?",
-    "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Sarojini Naidu", "Subhash Chandra Bose"],
-    "answer": "Rabindranath Tagore",
-    "explanation": "Rabindranath Tagore wrote 'Jana Gana Mana'."
+    "id": 59,
+    "question": "Which country is known as the Land of Midnight Sun?",
+    "options": ["Sweden", "Norway", "Finland", "Iceland"],
+    "answer": "Norway",
+    "explanation": "Norway experiences the Midnight Sun phenomenon."
   },
   {
-    "id": 6,
-    "question": "Which is the longest river in the world?",
-    "options": ["Amazon", "Yangtze", "Nile", "Ganga"],
-    "answer": "Nile",
-    "explanation": "The Nile is traditionally considered the longest river in the world."
+    "id": 60,
+    "question": "Which gas is filled in electric bulbs?",
+    "options": ["Oxygen", "Nitrogen", "Argon", "Hydrogen"],
+    "answer": "Argon",
+    "explanation": "Argon gas is filled in electric bulbs."
+  },
+
+  {
+    "id": 61,
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": ["Sarojini Naidu", "Indira Gandhi", "Pratibha Patil", "Sonia Gandhi"],
+    "answer": "Indira Gandhi",
+    "explanation": "Indira Gandhi was the first woman Prime Minister of India."
   },
   {
-    "id": 7,
-    "question": "What is the currency of Japan?",
-    "options": ["Won", "Yuan", "Yen", "Dollar"],
-    "answer": "Yen",
-    "explanation": "The official currency of Japan is the Japanese Yen."
-  },
-  {
-    "id": 8,
-    "question": "Which organ purifies blood in the human body?",
-    "options": ["Heart", "Liver", "Kidney", "Lungs"],
-    "answer": "Kidney",
-    "explanation": "Kidneys filter waste products from the blood."
-  },
-  {
-    "id": 9,
-    "question": "Who was the first President of India?",
-    "options": ["Jawaharlal Nehru", "Dr. Rajendra Prasad", "Sardar Patel", "Dr. Radhakrishnan"],
-    "answer": "Dr. Rajendra Prasad",
-    "explanation": "Dr. Rajendra Prasad was the first President of India."
-  },
-  {
-    "id": 10,
-    "question": "Which continent is the Sahara Desert located in?",
-    "options": ["Asia", "Africa", "Australia", "Europe"],
-    "answer": "Africa",
-    "explanation": "The Sahara Desert is located in northern Africa."
-  },
-  {
-    "id": 11,
-    "question": "What is the hardest natural substance?",
-    "options": ["Gold", "Iron", "Diamond", "Platinum"],
-    "answer": "Diamond",
-    "explanation": "Diamond is the hardest naturally occurring substance."
-  },
-  {
-    "id": 12,
-    "question": "Which planet is known as the Red Planet?",
-    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
-    "answer": "Mars",
-    "explanation": "Mars appears red due to iron oxide on its surface."
-  },
-  {
-    "id": 13,
-    "question": "Who invented the telephone?",
-    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Newton"],
-    "answer": "Alexander Graham Bell",
-    "explanation": "Alexander Graham Bell invented the telephone."
-  },
-  {
-    "id": 14,
-    "question": "Which is the smallest continent?",
-    "options": ["Europe", "Antarctica", "Australia", "South America"],
-    "answer": "Australia",
-    "explanation": "Australia is the smallest continent."
-  },
-  {
-    "id": 15,
-    "question": "How many players are there in a cricket team?",
-    "options": ["9", "10", "11", "12"],
-    "answer": "11",
-    "explanation": "Each cricket team has 11 players."
-  },
-  {
-    "id": 16,
-    "question": "What is the national animal of India?",
-    "options": ["Lion", "Elephant", "Tiger", "Leopard"],
-    "answer": "Tiger",
-    "explanation": "The Bengal Tiger is the national animal of India."
-  },
-  {
-    "id": 17,
-    "question": "Which metal is liquid at room temperature?",
-    "options": ["Iron", "Mercury", "Aluminium", "Zinc"],
+    "id": 62,
+    "question": "Which metal is known as quicksilver?",
+    "options": ["Silver", "Mercury", "Tin", "Lead"],
     "answer": "Mercury",
-    "explanation": "Mercury is the only metal that is liquid at room temperature."
+    "explanation": "Mercury is also known as quicksilver."
   },
   {
-    "id": 18,
-    "question": "Which country gifted the Statue of Liberty to the USA?",
-    "options": ["UK", "France", "Germany", "Canada"],
-    "answer": "France",
-    "explanation": "France gifted the Statue of Liberty to the United States."
+    "id": 63,
+    "question": "Which continent has the most countries?",
+    "options": ["Asia", "Europe", "Africa", "South America"],
+    "answer": "Africa",
+    "explanation": "Africa has the highest number of countries."
   },
   {
-    "id": 19,
-    "question": "Which vitamin is produced by sunlight?",
+    "id": 64,
+    "question": "What is the study of earthquakes called?",
+    "options": ["Meteorology", "Geology", "Seismology", "Ecology"],
+    "answer": "Seismology",
+    "explanation": "Seismology is the study of earthquakes."
+  },
+  {
+    "id": 65,
+    "question": "Which Indian freedom fighter is known as Netaji?",
+    "options": ["Bhagat Singh", "Chandrashekhar Azad", "Subhash Chandra Bose", "Lala Lajpat Rai"],
+    "answer": "Subhash Chandra Bose",
+    "explanation": "Subhash Chandra Bose was popularly known as Netaji."
+  },
+
+  {
+    "id": 66,
+    "question": "Which organ controls all activities of the body?",
+    "options": ["Heart", "Brain", "Liver", "Kidney"],
+    "answer": "Brain",
+    "explanation": "The brain controls all body activities."
+  },
+  {
+    "id": 67,
+    "question": "Which is the largest island in the world?",
+    "options": ["Australia", "Greenland", "Madagascar", "Borneo"],
+    "answer": "Greenland",
+    "explanation": "Greenland is the largest island in the world."
+  },
+  {
+    "id": 68,
+    "question": "Which country is known as the Sugar Bowl of the World?",
+    "options": ["India", "Brazil", "Cuba", "Mexico"],
+    "answer": "Cuba",
+    "explanation": "Cuba is known as the Sugar Bowl of the World."
+  },
+  {
+    "id": 69,
+    "question": "Which blood group is universal recipient?",
+    "options": ["A", "B", "AB", "O"],
+    "answer": "AB",
+    "explanation": "Blood group AB is universal recipient."
+  },
+  {
+    "id": 70,
+    "question": "Which Indian river is called the Ganga of the South?",
+    "options": ["Kaveri", "Godavari", "Krishna", "Narmada"],
+    "answer": "Godavari",
+    "explanation": "Godavari is called the Ganga of the South."
+  },
+
+  {
+    "id": 71,
+    "question": "Which vitamin is essential for vision?",
     "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
-    "answer": "Vitamin D",
-    "explanation": "Vitamin D is produced when skin is exposed to sunlight."
+    "answer": "Vitamin A",
+    "explanation": "Vitamin A is essential for good vision."
   },
   {
-    "id": 20,
-    "question": "What is the national sport of India?",
-    "options": ["Cricket", "Hockey", "Football", "Kabaddi"],
-    "answer": "Hockey",
-    "explanation": "Hockey is officially considered the national sport of India."
+    "id": 72,
+    "question": "Which planet rotates on its side?",
+    "options": ["Neptune", "Uranus", "Saturn", "Mars"],
+    "answer": "Uranus",
+    "explanation": "Uranus rotates on its side."
+  },
+  {
+    "id": 73,
+    "question": "Which country is famous for pyramids?",
+    "options": ["Mexico", "Egypt", "Peru", "Sudan"],
+    "answer": "Egypt",
+    "explanation": "Egypt is famous for its pyramids."
+  },
+  {
+    "id": 74,
+    "question": "What is the national sport of India (officially)?",
+    "options": ["Cricket", "Hockey", "Kabaddi", "None"],
+    "answer": "None",
+    "explanation": "India has no officially declared national sport."
+  },
+  {
+    "id": 75,
+    "question": "Which is the largest internal organ in the human body?",
+    "options": ["Heart", "Lungs", "Liver", "Kidney"],
+    "answer": "Liver",
+    "explanation": "Liver is the largest internal organ."
+  },
+
+  {
+    "id": 76,
+    "question": "Which device converts AC to DC?",
+    "options": ["Transformer", "Rectifier", "Generator", "Capacitor"],
+    "answer": "Rectifier",
+    "explanation": "Rectifier converts AC to DC."
+  },
+  {
+    "id": 77,
+    "question": "Which Indian state is known as the Spice Garden of India?",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+    "answer": "Kerala",
+    "explanation": "Kerala is known as the Spice Garden of India."
+  },
+  {
+    "id": 78,
+    "question": "Which is the largest gland in the human body?",
+    "options": ["Thyroid", "Liver", "Pancreas", "Adrenal"],
+    "answer": "Liver",
+    "explanation": "Liver is the largest gland in the human body."
+  },
+  {
+    "id": 79,
+    "question": "Who wrote 'Vande Mataram'?",
+    "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Subhash Bose", "Sarojini Naidu"],
+    "answer": "Bankim Chandra Chatterjee",
+    "explanation": "Vande Mataram was written by Bankim Chandra Chatterjee."
+  },
+  {
+    "id": 80,
+    "question": "Which planet has the longest day?",
+    "options": ["Earth", "Venus", "Mercury", "Mars"],
+    "answer": "Venus",
+    "explanation": "Venus has the longest day."
+  },
+
+  {
+    "id": 81,
+    "question": "Which Indian festival is called the Festival of Colors?",
+    "options": ["Diwali", "Holi", "Navratri", "Raksha Bandhan"],
+    "answer": "Holi",
+    "explanation": "Holi is known as the Festival of Colors."
+  },
+  {
+    "id": 82,
+    "question": "Which metal is used in galvanization?",
+    "options": ["Copper", "Iron", "Zinc", "Aluminium"],
+    "answer": "Zinc",
+    "explanation": "Zinc is used in galvanization."
+  },
+  {
+    "id": 83,
+    "question": "Which organ produces insulin?",
+    "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
+    "answer": "Pancreas",
+    "explanation": "Pancreas produces insulin."
+  },
+  {
+    "id": 84,
+    "question": "Which country invented paper?",
+    "options": ["India", "China", "Egypt", "Greece"],
+    "answer": "China",
+    "explanation": "Paper was invented in China."
+  },
+  {
+    "id": 85,
+    "question": "Which planet is known as the Morning Star?",
+    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+    "answer": "Venus",
+    "explanation": "Venus is called the Morning Star."
+  },
+
+  {
+    "id": 86,
+    "question": "Which Indian city is called the Pink City?",
+    "options": ["Jaipur", "Udaipur", "Jodhpur", "Bikaner"],
+    "answer": "Jaipur",
+    "explanation": "Jaipur is known as the Pink City."
+  },
+  {
+    "id": 87,
+    "question": "Which gas is essential for respiration?",
+    "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "answer": "Oxygen",
+    "explanation": "Oxygen is essential for respiration."
+  },
+  {
+    "id": 88,
+    "question": "Which is the longest railway platform in India?",
+    "options": ["Kharagpur", "Gorakhpur", "Howrah", "Delhi"],
+    "answer": "Gorakhpur",
+    "explanation": "Gorakhpur has the longest railway platform."
+  },
+  {
+    "id": 89,
+    "question": "Which scientist proposed the theory of relativity?",
+    "options": ["Newton", "Einstein", "Galileo", "Bohr"],
+    "answer": "Einstein",
+    "explanation": "Albert Einstein proposed the theory of relativity."
+  },
+  {
+    "id": 90,
+    "question": "Which is the coldest place on Earth?",
+    "options": ["Greenland", "Siberia", "Antarctica", "Alaska"],
+    "answer": "Antarctica",
+    "explanation": "Antarctica is the coldest place on Earth."
+  },
+
+  {
+    "id": 91,
+    "question": "Which Indian state has the highest literacy rate?",
+    "options": ["Goa", "Kerala", "Tamil Nadu", "Maharashtra"],
+    "answer": "Kerala",
+    "explanation": "Kerala has the highest literacy rate in India."
+  },
+  {
+    "id": 92,
+    "question": "Which device measures wind speed?",
+    "options": ["Barometer", "Anemometer", "Hygrometer", "Thermometer"],
+    "answer": "Anemometer",
+    "explanation": "Anemometer measures wind speed."
+  },
+  {
+    "id": 93,
+    "question": "Which planet has the most moons?",
+    "options": ["Jupiter", "Saturn", "Mars", "Neptune"],
+    "answer": "Saturn",
+    "explanation": "Saturn has the most moons."
+  },
+  {
+    "id": 94,
+    "question": "Who is known as the Father of the Nation (India)?",
+    "options": ["Jawaharlal Nehru", "Subhash Bose", "Mahatma Gandhi", "Ambedkar"],
+    "answer": "Mahatma Gandhi",
+    "explanation": "Mahatma Gandhi is known as the Father of the Nation."
+  },
+  {
+    "id": 95,
+    "question": "Which metal is used to make coins?",
+    "options": ["Gold", "Copper", "Nickel", "All of these"],
+    "answer": "All of these",
+    "explanation": "Coins can be made using different metals."
+  },
+
+  {
+    "id": 96,
+    "question": "Which Indian dam is the largest?",
+    "options": ["Bhakra Nangal", "Hirakud", "Tehri", "Sardar Sarovar"],
+    "answer": "Hirakud",
+    "explanation": "Hirakud Dam is the largest dam in India."
+  },
+  {
+    "id": 97,
+    "question": "Which planet is farthest from the Sun?",
+    "options": ["Neptune", "Uranus", "Pluto", "Saturn"],
+    "answer": "Neptune",
+    "explanation": "Neptune is the farthest planet from the Sun."
+  },
+  {
+    "id": 98,
+    "question": "Which organ stores bile?",
+    "options": ["Liver", "Pancreas", "Gall bladder", "Stomach"],
+    "answer": "Gall bladder",
+    "explanation": "Gall bladder stores bile."
+  },
+  {
+    "id": 99,
+    "question": "Which Indian state is famous for tea gardens?",
+    "options": ["Kerala", "Assam", "West Bengal", "Tamil Nadu"],
+    "answer": "Assam",
+    "explanation": "Assam is famous for tea gardens."
+  },
+  {
+    "id": 100,
+    "question": "Which gas is known as laughing gas?",
+    "options": ["Nitrogen", "Oxygen", "Nitrous Oxide", "Carbon Monoxide"],
+    "answer": "Nitrous Oxide",
+    "explanation": "Nitrous Oxide is known as laughing gas."
   }
 ]
