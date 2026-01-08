@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "question": "What is 25% of 200?",
+    "options": ["25", "40", "50", "60"],
+    "answer": "50",
+    "explanation": "25% of 200 = (25/100) × 200 = 50"
+  },
+  {
+    "id": 2,
+    "question": "If the ratio of two numbers is 3 : 5 and their sum is 64, what is the larger number?",
+    "options": ["24", "32", "40", "48"],
+    "answer": "40",
+    "explanation": "Sum of ratio = 8 → One part = 64 ÷ 8 = 8 → Larger number = 5 × 8 = 40"
+  },
+  {
+    "id": 3,
+    "question": "A man buys an article for ₹800 and sells it for ₹920. What is the profit percentage?",
+    "options": ["12%", "15%", "18%", "20%"],
+    "answer": "15%",
+    "explanation": "Profit = 920 − 800 = 120 → Profit % = (120/800) × 100 = 15%"
+  },
+  {
+    "id": 4,
+    "question": "Find the simple interest on ₹1000 at 10% per annum for 2 years.",
+    "options": ["₹100", "₹150", "₹200", "₹250"],
+    "answer": "₹200",
+    "explanation": "SI = (P × R × T)/100 = (1000 × 10 × 2)/100 = ₹200"
+  },
+  {
+    "id": 5,
+    "question": "The average of 5 numbers is 20. What is their sum?",
+    "options": ["80", "90", "100", "120"],
+    "answer": "100",
+    "explanation": "Sum = Average × Number = 20 × 5 = 100"
+  },
+
+  {
+    "id": 6,
+    "question": "If 12 workers can complete a work in 10 days, how many days will 6 workers take?",
+    "options": ["10", "15", "20", "25"],
+    "answer": "20",
+    "explanation": "Workers and days are inversely proportional → (12 × 10)/6 = 20 days"
+  },
+  {
+    "id": 7,
+    "question": "What is the value of (8 + 2) × 5 ÷ 2?",
+    "options": ["20", "25", "30", "40"],
+    "answer": "25",
+    "explanation": "(8+2)=10 → 10×5=50 → 50÷2=25"
+  },
+  {
+    "id": 8,
+    "question": "A train travels 120 km in 2 hours. What is its speed?",
+    "options": ["40 km/h", "50 km/h", "60 km/h", "70 km/h"],
+    "answer": "60 km/h",
+    "explanation": "Speed = Distance ÷ Time = 120 ÷ 2 = 60 km/h"
+  },
+  {
+    "id": 9,
+    "question": "If the cost price is ₹500 and loss is 10%, what is the selling price?",
+    "options": ["₹450", "₹460", "₹480", "₹490"],
+    "answer": "₹450",
+    "explanation": "Loss = 10% of 500 = 50 → SP = 500 − 50 = ₹450"
+  },
+  {
+    "id": 10,
+    "question": "What number must be added to 40 to make it divisible by 6?",
+    "options": ["2", "4", "6", "8"],
+    "answer": "2",
+    "explanation": "40 ÷ 6 leaves remainder 4 → Add 2 to make it divisible"
+  }
+]
