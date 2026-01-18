@@ -1,6 +1,8 @@
-{
-  "question": "Simplify: $x^2$",
-  "options": ["$1$", "$x$", "$x^2$"],
-  "correctAnswer": 2,
-  "explanation": "Because $x^2$ remains $x^2$"
-}
+[
+  {
+    "question": "Simplify: $x^2$",
+    "options": ["$1$", "$x$", "$x^2$"],
+    "correctAnswer": 2,
+    "explanation": "Because $x^2$ remains $x^2$"
+  }
+]
