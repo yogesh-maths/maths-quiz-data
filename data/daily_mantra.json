@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Value of π (Pi) is approximately 3.142.",
+    "type": "math"
+  },
+  {
+    "id": 2,
+    "text": "If bases are same, add the powers: xᵃ × xᵇ = xᵃ⁺ᵇ.",
+    "type": "math"
+  },
+  {
+    "id": 3,
+    "text": "Every mistake strengthens long-term memory.",
+    "type": "motivation"
+  },
+  {
+    "id": 4,
+    "text": "A power of 1/2 means square root.",
+    "type": "math"
+  },
+  {
+    "id": 5,
+    "text": "Practice daily beats studying once a week.",
+    "type": "motivation"
+  }
+]
