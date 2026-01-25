@@ -9,7 +9,175 @@
     {
       "id": 2,
       "title": "Daily GK Mantra",
-      "text": "Consistency beats talent.",
+      "text": "The Great Barrier Reef is the world's largest coral reef system.",
+      "type": "text"
+    },
+    {
+      "id": 3,
+      "title": "Daily Science Mantra",
+      "text": "Photosynthesis: $6CO_2 + 6H_2O \\rightarrow C_6H_{12}O_6 + 6O_2$",
+      "type": "latex"
+    },
+    {
+      "id": 4,
+      "title": "Daily Maths Mantra",
+      "text": "Area of a Circle: $A = \\pi r^2$",
+      "type": "latex"
+    },
+    {
+      "id": 5,
+      "title": "Daily GK Mantra",
+      "text": "The Nile is generally considered the longest river in the world.",
+      "type": "text"
+    },
+    {
+      "id": 6,
+      "title": "Daily Maths Mantra",
+      "text": "Pythagorean Theorem: $a^2 + b^2 = c^2$",
+      "type": "latex"
+    },
+    {
+      "id": 7,
+      "title": "Daily Science Mantra",
+      "text": "Light travels at approximately 299,792,458 meters per second.",
+      "type": "text"
+    },
+    {
+      "id": 8,
+      "title": "Daily Maths Mantra",
+      "text": "Quadratic Formula: $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
+      "type": "latex"
+    },
+    {
+      "id": 9,
+      "title": "Daily GK Mantra",
+      "text": "Mount Everest is the highest mountain above sea level.",
+      "type": "text"
+    },
+    {
+      "id": 10,
+      "title": "Daily Science Mantra",
+      "text": "Einstein's Mass-Energy Equivalence: $E = mc^2$",
+      "type": "latex"
+    },
+    {
+      "id": 11,
+      "title": "Daily Maths Mantra",
+      "text": "$\log_b(xy) = \log_b(x) + \log_b(y)$",
+      "type": "latex"
+    },
+    {
+      "id": 12,
+      "title": "Daily GK Mantra",
+      "text": "The United Nations was founded in 1945.",
+      "type": "text"
+    },
+    {
+      "id": 13,
+      "title": "Daily Science Mantra",
+      "text": "Newton's Second Law: $F = ma$",
+      "type": "latex"
+    },
+    {
+      "id": 14,
+      "title": "Daily Maths Mantra",
+      "text": "Euler's Identity: $e^{i\\pi} + 1 = 0$",
+      "type": "latex"
+    },
+    {
+      "id": 15,
+      "title": "Daily GK Mantra",
+      "text": "The Amazon Rainforest produces 20% of the world's oxygen.",
+      "type": "text"
+    },
+    {
+      "id": 16,
+      "title": "Daily Science Mantra",
+      "text": "Water's chemical formula is $H_2O$.",
+      "type": "latex"
+    },
+    {
+      "id": 17,
+      "title": "Daily Maths Mantra",
+      "text": "Slope of a line: $m = \\frac{y_2 - y_1}{x_2 - x_1}$",
+      "type": "latex"
+    },
+    {
+      "id": 18,
+      "title": "Daily GK Mantra",
+      "text": "The Renaissance began in Italy during the 14th century.",
+      "type": "text"
+    },
+    {
+      "id": 19,
+      "title": "Daily Science Mantra",
+      "text": "The human body has 206 bones in adulthood.",
+      "type": "text"
+    },
+    {
+      "id": 20,
+      "title": "Daily Maths Mantra",
+      "text": "$\sin^2\\theta + \cos^2\\theta = 1$",
+      "type": "latex"
+    },
+    {
+      "id": 21,
+      "title": "Daily GK Mantra",
+      "text": "The Magna Carta was signed in 1215.",
+      "type": "text"
+    },
+    {
+      "id": 22,
+      "title": "Daily Science Mantra",
+      "text": "Ideal Gas Law: $PV = nRT$",
+      "type": "latex"
+    },
+    {
+      "id": 23,
+      "title": "Daily Maths Mantra",
+      "text": "Volume of a Sphere: $V = \\frac{4}{3}\\pi r^3$",
+      "type": "latex"
+    },
+    {
+      "id": 24,
+      "title": "Daily GK Mantra",
+      "text": "Tokyo is the most populous metropolitan area in the world.",
+      "type": "text"
+    },
+    {
+      "id": 25,
+      "title": "Daily Science Mantra",
+      "text": "Gravity on Earth is approximately $9.81 m/s^2$.",
+      "type": "latex"
+    },
+    {
+      "id": 26,
+      "title": "Daily Maths Mantra",
+      "text": "Derivative of $x^n$: $\\frac{d}{dx}x^n = nx^{n-1}$",
+      "type": "latex"
+    },
+    {
+      "id": 27,
+      "title": "Daily GK Mantra",
+      "text": "The Eiffel Tower was completed in 1889.",
+      "type": "text"
+    },
+    {
+      "id": 28,
+      "title": "Daily Science Mantra",
+      "text": "The speed of sound in air is roughly 343 m/s.",
+      "type": "text"
+    },
+    {
+      "id": 29,
+      "title": "Daily Maths Mantra",
+      "text": "Sum of interior angles of a polygon: $(n-2) \\times 180^{\\circ}$",
+      "type": "latex"
+    },
+    {
+      "id": 30,
+      "title": "Daily GK Mantra",
+      "text": "Leonardo da Vinci painted the Mona Lisa.",
       "type": "text"
     }
   ]
