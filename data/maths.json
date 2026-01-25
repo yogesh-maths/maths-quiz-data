@@ -10,7 +10,7 @@
   {
     "id": 2,
     "question": "Simplify: $(3^2)^4$",
-    "options": ["$3^6$", "$3^8$", "$9^4$", "$3^{16}$"],
+    "options": ["$3^6$", "$3^8$", "$9^4$", "$3^16$"],
     "correctIndex": 1,
     "correctText": "$3^8$",
     "explanation": "Apply the power of a power rule: $(a^m)^n = a^{m \\times n}$, so $2 \\times 4 = 8$."
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "question": "Evaluate: $2^{-3}$",
-    "options": ["$-8$", "$-6$", "$\\frac{1}{8}$", "$\\frac{1}{6}$"],
+    "options": ["$-8$", "$-6$", "1/8", "1/6"],
     "correctIndex": 2,
     "correctText": "$\\frac{1}{8}$",
     "explanation": "A negative exponent indicates a reciprocal: $2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$."
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "question": "Simplify: $\\frac{y^9}{y^3}$",
-    "options": ["$y^3$", "$y^6$", "$y^{12}$", "$y^{27}$"],
+    "options": ["$y^3$", "$y^6$", "$y^12$", "$y^27$"],
     "correctIndex": 1,
     "correctText": "$y^6$",
     "explanation": "When dividing terms with the same base, subtract the exponents: $9 - 3 = 6$."
