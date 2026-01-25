@@ -2,7 +2,7 @@
   {
     "id": 1,
     "question": "Simplify: $5^2 \\times 5^4$",
-    "options": ["$5^8$", "$5^6$", "$25^6$", "$5^{10}$"],
+    "options": ["$5^8$", "$5^6$", "$25^6$", "$5^(10)$"],
     "correctIndex": 1,
     "correctText": "$5^6$",
     "explanation": "When multiplying terms with the same base, add the exponents: $2 + 4 = 6$."
