@@ -114,7 +114,7 @@
   {
     "id": 15,
     "question": "Simplify: $x^m \\cdot x^n$",
-    "options": ["$x^(m-n)$", "$x^{mn}$", "$x^{m+n}$", "$2x^{m+n}$"],
+    "options": ["$x^m-n$", "$x^{mn}$", "$x^{m+n}$", "$2x^{m+n}$"],
     "correctIndex": 2,
     "correctText": "$x^{m+n}$",
     "explanation": "The product rule for exponents states you add the powers when bases are the same."
