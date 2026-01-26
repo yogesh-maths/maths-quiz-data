@@ -63,7 +63,8 @@
     {
       "id": 11,
       "title": "Daily Maths Mantra",
-      "text": "$\log_b(xy) = \log_b(x) + \log_b(y)$",
+     "text": "$\\log_b(xy) = \\log_b(x) + \\log_b(y)$",
+
       "type": "latex"
     },
     {
@@ -117,7 +118,8 @@
     {
       "id": 20,
       "title": "Daily Maths Mantra",
-      "text": "$\sin^2\\theta + \cos^2\\theta = 1$",
+      "text": "$\\sin^2\\theta + \\cos^2\\theta = 1$",
+
       "type": "latex"
     },
     {
