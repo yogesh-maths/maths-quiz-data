@@ -173,7 +173,8 @@
     {
       "id": 29,
       "title": "Daily Maths Mantra",
-      "text": "Sum of interior angles of a polygon: $(n-2) \\times 180°$",
+      "Sum of interior angles of a polygon: $(n-2) \\times 180^{\\circ}$",
+,
 
       "type": "latex"
     },
