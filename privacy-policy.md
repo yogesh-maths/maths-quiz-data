@@ -55,7 +55,7 @@ We may update this Privacy Policy if the app features change. Any updates will b
 If you have any questions about this Privacy Policy, you may contact us at:
 
 Developer Name: Qmantra Solutions
-Email: qmantrasolutions@gmail.com
+Email: se09335@gmail.com
 
 PLAY STORE DATA SAFETY DECLARATION
 
