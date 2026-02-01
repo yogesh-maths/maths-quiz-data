@@ -1,162 +1,162 @@
 [
   {
     "id": 1,
-    "question": "Simplify: $5^2 \\times 5^4$",
-    "options": ["$5^8$", "$5^6$", "$25^6$", "$5^10$"],
-    "correctIndex": 1,
-    "correctText": "$5^6$",
-    "explanation": "When multiplying terms with the same base, add the exponents: $2 + 4 = 6$."
+    "question": "Simplify: $x^7 \\cdot x^3$",
+    "options": ["$x^{10}$", "$x^4$", "$x^{21}$", "$x^7$"],
+    "correctIndex": 0,
+    "correctText": "$x^{10}$",
+    "explanation": "According to the Product Rule, $x^a \\cdot x^b = x^{a+b}$. Therefore, $x^7 \\cdot x^3 = x^{7+3} = x^{10}$."
   },
   {
     "id": 2,
-    "question": "Simplify: $(3^2)^4$",
-    "options": ["$3^6$", "$3^8$", "$9^4$", "$3^16$"],
+    "question": "Evaluate: $10^{-2}$",
+    "options": ["$-20$", "$0.01$", "$0.02$", "$-100$"],
     "correctIndex": 1,
-    "correctText": "$3^8$",
-    "explanation": "Apply the power of a power rule: $(a^m)^n = a^{m \\times n}$, so $2 \\times 4 = 8$."
+    "correctText": "$0.01$",
+    "explanation": "Using the Negative Exponent Rule, $x^{-n} = \\frac{1}{x^n}$. Thus, $10^{-2} = \\frac{1}{10^2} = \\frac{1}{100} = 0.01$."
   },
   {
     "id": 3,
-    "question": "Evaluate: $2^{-3}$",
-    "options": ["$-8$", "$-6$", "1/8", "1/6"],
-    "correctIndex": 2,
-    "correctText": "$\\frac{1}{8}$",
-    "explanation": "A negative exponent indicates a reciprocal: $2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}$."
+    "question": "Simplify: $(a^5)^3$",
+    "options": ["$a^8$", "$a^{15}$", "$a^2$", "$a^{125}$"],
+    "correctIndex": 1,
+    "correctText": "$a^{15}$",
+    "explanation": "The Power of a Power Rule states $(x^a)^b = x^{a \\cdot b}$. So, $(a^5)^3 = a^{5 \\cdot 3} = a^{15}$."
   },
   {
     "id": 4,
-    "question": "Simplify: $\\frac{y^9}{y^3}$",
-    "options": ["$y^3$", "$y^6$", "$y^12$", "$y^27$"],
-    "correctIndex": 1,
-    "correctText": "$y^6$",
-    "explanation": "When dividing terms with the same base, subtract the exponents: $9 - 3 = 6$."
+    "question": "Evaluate: $16^{1/2}$",
+    "options": ["$8$", "$32$", "$4$", "$2$"],
+    "correctIndex": 2,
+    "correctText": "$4$",
+    "explanation": "The Fractional Exponent Rule states $x^{1/n} = \\sqrt[n]{x}$. Therefore, $16^{1/2} = \\sqrt{16} = 4$."
   },
   {
     "id": 5,
-    "question": "Evaluate: $25^{1/2}$",
-    "options": ["$12.5$", "$50$", "$5$", "$2.5$"],
-    "correctIndex": 2,
-    "correctText": "$5$",
-    "explanation": "An exponent of $1/2$ is equivalent to the square root: $\\sqrt{25} = 5$."
+    "question": "Simplify: $\\frac{b^8}{b^2}$",
+    "options": ["$b^4$", "$b^6$", "$b^{10}$", "$b^{16}$"],
+    "correctIndex": 1,
+    "correctText": "$b^6$",
+    "explanation": "The Quotient Rule states $\\frac{x^a}{x^b} = x^{a-b}$. Thus, $\\frac{b^8}{b^2} = b^{8-2} = b^6$."
   },
   {
     "id": 6,
-    "question": "Simplify: $(2x)^3$",
-    "options": ["$2x^3$", "$6x^3$", "$8x^3$", "$8x$"],
+    "question": "Simplify: $(3y)^2$",
+    "options": ["$3y^2$", "$6y^2$", "$9y^2$", "$9y$"],
     "correctIndex": 2,
-    "correctText": "$8x^3$",
-    "explanation": "Raise both the coefficient and the variable to the power: $2^3 \\times x^3 = 8x^3$."
+    "correctText": "$9y^2$",
+    "explanation": "The Power of a Product Rule states $(xy)^a = x^a y^a$. Applying this, $(3y)^2 = 3^2 \\cdot y^2 = 9y^2$."
   },
   {
     "id": 7,
-    "question": "Evaluate: $8^{2/3}$",
-    "options": ["$4$", "$2$", "$16$", "$64$"],
-    "correctIndex": 0,
+    "question": "Evaluate: $64^{1/3}$",
+    "options": ["$8$", "$4$", "$21.3$", "$2$"],
+    "correctIndex": 1,
     "correctText": "$4$",
-    "explanation": "Find the cube root of 8, then square it: $(\\sqrt[3]{8})^2 = 2^2 = 4$."
+    "explanation": "Using the rule $x^{1/n} = \\sqrt[n]{x}$, $64^{1/3} = \\sqrt[3]{64} = 4$ because $4^3 = 64$."
   },
   {
     "id": 8,
-    "question": "Simplify: $x^5 \\cdot x^{-2}$",
-    "options": ["$x^{-10}$", "$x^7$", "$x^3$", "$x^{2.5}$"],
+    "question": "Simplify: $z^0$",
+    "options": ["$0$", "$z$", "$1$", "$-1$"],
     "correctIndex": 2,
-    "correctText": "$x^3$",
-    "explanation": "Add the exponents: $5 + (-2) = 3$."
+    "correctText": "$1$",
+    "explanation": "The Zero Exponent Rule states that for any non-zero base, $x^0 = 1$."
   },
   {
     "id": 9,
-    "question": "Find the value of: $(-4)^0$",
-    "options": ["$1$", "$-4$", "$0$", "$-1$"],
-    "correctIndex": 0,
-    "correctText": "$1$",
-    "explanation": "Any non-zero base raised to the power of $0$ is $1$."
+    "question": "Simplify: $2x^2 \\cdot 3x^4$",
+    "options": ["$5x^6$", "$6x^8$", "$6x^6$", "$5x^8$"],
+    "correctIndex": 2,
+    "correctText": "$6x^6$",
+    "explanation": "Multiply coefficients and use the Product Rule ($x^a \\cdot x^b = x^{a+b}$): $(2 \\cdot 3)x^{2+4} = 6x^6$."
   },
   {
     "id": 10,
-    "question": "Simplify: $\\frac{10^5}{10^5}$",
-    "options": ["$10$", "$0$", "$1$", "$100$"],
-    "correctIndex": 2,
-    "correctText": "$1$",
-    "explanation": "Any non-zero number divided by itself is $1$, or $10^{5-5} = 10^0 = 1$."
+    "question": "Evaluate: $8^{-1/3}$",
+    "options": ["$-2$", "$1/2$", "$1/4$", "$-1/2$"],
+    "correctIndex": 1,
+    "correctText": "$1/2$",
+    "explanation": "Combine rules $x^{-a} = \\frac{1}{x^a}$ and $x^{1/n} = \\sqrt[n]{x}$. $8^{-1/3} = \\frac{1}{8^{1/3}} = \\frac{1}{\\sqrt[3]{8}} = \\frac{1}{2}$."
   },
   {
     "id": 11,
-    "question": "Evaluate: $4^{-1/2}$",
-    "options": ["$2$", "$-2$", "$\\frac{1}{2}$", "$\\frac{1}{4}$"],
-    "correctIndex": 2,
-    "correctText": "$\\frac{1}{2}$",
-    "explanation": "$4^{-1/2} = \\frac{1}{4^{1/2}} = \\frac{1}{\\sqrt{4}} = \\frac{1}{2}$."
+    "question": "Simplify: $\\frac{12k^5}{3k^5}$",
+    "options": ["$4$", "$4k$", "$9$", "$4k^{10}$"],
+    "correctIndex": 0,
+    "correctText": "$4$",
+    "explanation": "Using the Quotient Rule: $\\frac{12}{3} \\cdot k^{5-5} = 4k^0$. Since $k^0 = 1$, the result is $4(1) = 4$."
   },
   {
     "id": 12,
-    "question": "Simplify: $(a^2 b^3)^2$",
-    "options": ["$a^4 b^6$", "$a^4 b^5$", "$a^2 b^6$", "$a^4 b^9$"],
-    "correctIndex": 0,
-    "correctText": "$a^4 b^6$",
-    "explanation": "Multiply the outer exponent by each internal exponent: $a^{2\\times2}b^{3\\times2}$."
+    "question": "Simplify: $(x^{-2})^4$",
+    "options": ["$x^2$", "$x^{-6}$", "$x^{-8}$", "$x^8$"],
+    "correctIndex": 2,
+    "correctText": "$x^{-8}$",
+    "explanation": "Apply the Power of a Power Rule $(x^a)^b = x^{ab}$: $x^{-2 \\cdot 4} = x^{-8}$."
   },
   {
     "id": 13,
-    "question": "Simplify: $\\frac{6x^4}{2x^2}$",
-    "options": ["$4x^2$", "$3x^2$", "$3x^6$", "$12x^2$"],
-    "correctIndex": 1,
-    "correctText": "$3x^2$",
-    "explanation": "Divide the coefficients (6/2) and subtract the exponents (4-2)."
+    "question": "Evaluate: $(\\frac{1}{2})^{-2}$",
+    "options": ["$1/4$", "$-4$", "$4$", "$-1/4$"],
+    "correctIndex": 2,
+    "correctText": "$4$",
+    "explanation": "Using the rule $(\\frac{a}{b})^{-n} = (\\frac{b}{a})^n$, we get $(\\frac{1}{2})^{-2} = (\\frac{2}{1})^2 = 4$."
   },
   {
     "id": 14,
-    "question": "Evaluate: $27^{1/3}$",
-    "options": ["$9$", "$3$", "$13.5$", "$81$"],
-    "correctIndex": 1,
-    "correctText": "$3$",
-    "explanation": "A power of $1/3$ is a cube root: $\\sqrt[3]{27} = 3$."
+    "question": "Simplify: $m^2 \\cdot m^{-5}$",
+    "options": ["$m^{-3}$", "$m^7$", "$m^{-10}$", "$m^3$"],
+    "correctIndex": 0,
+    "correctText": "$m^{-3}$",
+    "explanation": "Apply the Product Rule $x^a \\cdot x^b = x^{a+b}$: $m^{2 + (-5)} = m^{-3}$."
   },
   {
     "id": 15,
-    "question": "Simplify: $x^m \\cdot x^n$",
-    "options": ["$x^m-n$", "$x^{mn}$", "$x^{m+n}$", "$2x^{m+n}$"],
-    "correctIndex": 2,
-    "correctText": "$x^{m+n}$",
-    "explanation": "The product rule for exponents states you add the powers when bases are the same."
+    "question": "Simplify: $\\frac{p^4}{p^{-2}}$",
+    "options": ["$p^2$", "$p^6$", "$p^{-2}$", "$p^{-6}$"],
+    "correctIndex": 1,
+    "correctText": "$p^6$",
+    "explanation": "Using the Quotient Rule $\\frac{x^a}{x^b} = x^{a-b}$: $p^{4 - (-2)} = p^{4+2} = p^6$."
   },
   {
     "id": 16,
-    "question": "Simplify: $(x^2 y)^0$",
-    "options": ["$x^2 y$", "$0$", "$1$", "$x y$"],
-    "correctIndex": 2,
-    "correctText": "$1$",
-    "explanation": "Regardless of the terms inside, any non-zero expression raised to the power of 0 is 1."
+    "question": "Simplify: $(a^2b^4)^3$",
+    "options": ["$a^5b^7$", "$a^6b^{12}$", "$a^6b^7$", "$a^5b^{12}$"],
+    "correctIndex": 1,
+    "correctText": "$a^6b^{12}$",
+    "explanation": "Using the rule $(x^ay^b)^c = x^{ac}y^{bc}$: $a^{2 \\cdot 3}b^{4 \\cdot 3} = a^6b^{12}$."
   },
   {
     "id": 17,
-    "question": "Evaluate: $(\\frac{2}{3})^2$",
-    "options": ["$\\frac{4}{9}$", "$\\frac{4}{3}$", "$\\frac{2}{9}$", "$\\frac{6}{9}$"],
+    "question": "Evaluate: $9^{3/2}$",
+    "options": ["$27$", "$13.5$", "$81$", "$3$"],
     "correctIndex": 0,
-    "correctText": "$\\frac{4}{9}$",
-    "explanation": "Square both the numerator and the denominator: $2^2 / 3^2 = 4/9$."
+    "correctText": "$27$",
+    "explanation": "Apply $x^{m/n} = (\\sqrt[n]{x})^m$. Thus, $9^{3/2} = (\\sqrt{9})^3 = 3^3 = 27$."
   },
   {
     "id": 18,
-    "question": "Simplify: $\\frac{x^{-2}}{x^{-5}}$",
-    "options": ["$x^3$", "$x^{-7}$", "$x^7$", "$x^{-3}$"],
-    "correctIndex": 0,
-    "correctText": "$x^3$",
-    "explanation": "Subtract the exponents: $-2 - (-5) = -2 + 5 = 3$."
+    "question": "Simplify: $(4x^0)^2$",
+    "options": ["$16x^2$", "$1$", "$16$", "$8$"],
+    "correctIndex": 2,
+    "correctText": "$16$",
+    "explanation": "Since $x^0 = 1$ (Zero Exponent Rule), the expression is $(4 \\cdot 1)^2 = 4^2 = 16$."
   },
   {
     "id": 19,
-    "question": "Evaluate: $1000^{1/3}$",
-    "options": ["$100$", "$10$", "$33.3$", "$300$"],
+    "question": "Simplify: $\\frac{(x^2)^3}{x^4}$",
+    "options": ["$x^1$", "$x^2$", "$x^5$", "$x^{10}$"],
     "correctIndex": 1,
-    "correctText": "$10$",
-    "explanation": "The cube root of 1000 is 10, because $10 \\times 10 \\times 10 = 1000$."
+    "correctText": "$x^2$",
+    "explanation": "First use Power Rule $(x^a)^b = x^{ab}$ to get $x^6$, then Quotient Rule $\\frac{x^a}{x^b} = x^{a-b}$ to get $x^{6-4} = x^2$."
   },
   {
     "id": 20,
-    "question": "Simplify: $4^3 \\div 4^1$",
-    "options": ["$4^4$", "$4^3$", "$4^2$", "$16^2$"],
+    "question": "Evaluate: $1^{100}$",
+    "options": ["$100$", "$0$", "$1$", "$Infinity$"],
     "correctIndex": 2,
-    "correctText": "$4^2$",
-    "explanation": "Subtract the exponents: $3 - 1 = 2$."
+    "correctText": "$1$",
+    "explanation": "The rule $1^n = 1$ applies for any value of $n$."
   }
 ]
