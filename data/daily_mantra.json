@@ -2,182 +2,182 @@
   "mantras": [
     {
       "id": 1,
-      "title": "Daily Maths Mantra",
-      "text": "Law of exponents: x power a multiplied by x power b equals x power (a + b).",
+      "title": "Maths: The Power of Zero",
+      "text": "Any number multiplied by 0 is always 0. Any number (except 0) raised to the power of 0 is always 1!",
       "type": "text"
     },
     {
       "id": 2,
-      "title": "Daily GK Mantra",
-      "text": "The Great Barrier Reef is the world's largest coral reef system.",
+      "title": "Science: Space Silence",
+      "text": "Sound needs air to travel. Since there is no air in space, it is completely silent, no matter how loud an explosion is.",
       "type": "text"
     },
     {
       "id": 3,
-      "title": "Daily Science Mantra",
-      "text": "Photosynthesis converts carbon dioxide and water into glucose and oxygen.",
+      "title": "Maths: Prime Number Fact",
+      "text": "The number 2 is very special—it is the only even prime number in the entire universe. Every other prime number is odd.",
       "type": "text"
     },
     {
       "id": 4,
-      "title": "Daily Maths Mantra",
-      "text": "Area of a circle is pi multiplied by radius squared.",
+      "title": "Science: The Blue Sky",
+      "text": "The sky is blue because Earth's atmosphere scatters blue light from the sun more than other colors.",
       "type": "text"
     },
     {
       "id": 5,
-      "title": "Daily GK Mantra",
-      "text": "The Nile is generally considered the longest river in the world.",
+      "title": "Maths: Palindrome Numbers",
+      "text": "A palindrome is a number that reads the same backward and forward, like 121 or 1331.",
       "type": "text"
     },
     {
       "id": 6,
-      "title": "Daily Maths Mantra",
-      "text": "Pythagorean theorem states that a squared plus b squared equals c squared.",
+      "title": "Science: Water's Three States",
+      "text": "Water is the only substance on Earth that naturally exists as a solid (ice), liquid (water), and gas (steam).",
       "type": "text"
     },
     {
       "id": 7,
-      "title": "Daily Science Mantra",
-      "text": "Light travels at approximately 299,792,458 meters per second.",
+      "title": "Maths: Multiplying by 10",
+      "text": "The easiest trick in math: to multiply a whole number by 10, just stick a 0 at the end of it!",
       "type": "text"
     },
     {
       "id": 8,
-      "title": "Daily Maths Mantra",
-      "text": "Quadratic formula gives the roots of a quadratic equation.",
+      "title": "Science: Octopus Hearts",
+      "text": "An octopus has three hearts! Two pump blood to the gills, and one pumps it to the rest of the body.",
       "type": "text"
     },
     {
       "id": 9,
-      "title": "Daily GK Mantra",
-      "text": "Mount Everest is the highest mountain above sea level.",
+      "title": "Maths: Shape Sides",
+      "text": "A hexagon has 6 sides, an octagon has 8, and a decagon has 10. Think of an 'Octo'-pus to remember 8!",
       "type": "text"
     },
     {
       "id": 10,
-      "title": "Daily Science Mantra",
-      "text": "Einstein explained that energy equals mass multiplied by the square of the speed of light.",
+      "title": "Science: Hot Water Freeze",
+      "text": "Surprisingly, hot water can sometimes freeze faster than cold water. This is called the Mpemba effect.",
       "type": "text"
     },
     {
       "id": 11,
-      "title": "Daily Maths Mantra",
-      "text": "Logarithm of a product equals the sum of logarithms.",
+      "title": "Maths: Roman Numerals",
+      "text": "The Romans didn't have a symbol for zero. They used letters like I (1), V (5), X (10), L (50), and C (100).",
       "type": "text"
     },
     {
       "id": 12,
-      "title": "Daily GK Mantra",
-      "text": "The United Nations was founded in 1945.",
+      "title": "Science: Gravity on Moon",
+      "text": "Gravity on the Moon is only about 1/6th as strong as on Earth. You could jump 6 times higher there!",
       "type": "text"
     },
     {
       "id": 13,
-      "title": "Daily Science Mantra",
-      "text": "Newton's second law states that force equals mass multiplied by acceleration.",
+      "title": "Maths: Magic of 9",
+      "text": "Multiply 9 by any number from 1 to 10, and the digits of the answer will always add up to 9. (Example: 9x5=45, 4+5=9).",
       "type": "text"
     },
     {
       "id": 14,
-      "title": "Daily Maths Mantra",
-      "text": "Euler's identity connects exponential, imaginary, and trigonometric functions.",
+      "title": "Science: Plant Breathing",
+      "text": "Plants 'breathe' in Carbon Dioxide and 'breathe' out Oxygen, which is exactly the opposite of what humans do.",
       "type": "text"
     },
     {
       "id": 15,
-      "title": "Daily GK Mantra",
-      "text": "The Amazon Rainforest is often called the lungs of the Earth.",
+      "title": "Maths: The Number 'Pi'",
+      "text": "Pi (3.14...) is the ratio of a circle's circumference to its diameter. It is an infinite number that never ends!",
       "type": "text"
     },
     {
       "id": 16,
-      "title": "Daily Science Mantra",
-      "text": "Water is made up of two hydrogen atoms and one oxygen atom.",
+      "title": "Science: Lightning Heat",
+      "text": "A bolt of lightning is 5 times hotter than the surface of the sun!",
       "type": "text"
     },
     {
       "id": 17,
-      "title": "Daily Maths Mantra",
-      "text": "Slope of a line is change in y divided by change in x.",
+      "title": "Maths: Even and Odd",
+      "text": "Even + Even = Even. Odd + Odd = Even. But Even + Odd is always Odd!",
       "type": "text"
     },
     {
       "id": 18,
-      "title": "Daily GK Mantra",
-      "text": "The Renaissance began in Italy during the 14th century.",
+      "title": "Science: Banana DNA",
+      "text": "Humans share about 50% of their DNA with bananas. We are more related to fruit than we think!",
       "type": "text"
     },
     {
       "id": 19,
-      "title": "Daily Science Mantra",
-      "text": "The human body has 206 bones in adulthood.",
+      "title": "Maths: Centi, Milli, Kilo",
+      "text": "Centi means 100, Milli means 1,000, and Kilo also means 1,000. 1 Kilogram is 1,000 grams.",
       "type": "text"
     },
     {
       "id": 20,
-      "title": "Daily Maths Mantra",
-      "text": "Square of sine plus square of cosine of an angle equals one.",
+      "title": "Science: Heavy Clouds",
+      "text": "Even though they float, an average white fluffy cloud weighs about 1 million pounds (the weight of 100 elephants)!",
       "type": "text"
     },
     {
       "id": 21,
-      "title": "Daily GK Mantra",
-      "text": "The Magna Carta was signed in 1215.",
+      "title": "Maths: Triangle Angles",
+      "text": "If you add up the three inside angles of any triangle, they will always equal exactly 180 degrees.",
       "type": "text"
     },
     {
       "id": 22,
-      "title": "Daily Science Mantra",
-      "text": "Ideal gas law relates pressure, volume, temperature, and amount of gas.",
+      "title": "Science: No Stomach?",
+      "text": "Platypuses do not have stomachs. Their food goes straight from the esophagus to their intestines.",
       "type": "text"
     },
     {
       "id": 23,
-      "title": "Daily Maths Mantra",
-      "text": "Volume of a sphere is four by three pi times radius cubed.",
+      "title": "Maths: Dividing by 2",
+      "text": "Any number that ends in 0, 2, 4, 6, or 8 is even and can always be divided by 2 without a remainder.",
       "type": "text"
     },
     {
       "id": 24,
-      "title": "Daily GK Mantra",
-      "text": "Tokyo is the most populous metropolitan area in the world.",
+      "title": "Science: Rusting Iron",
+      "text": "Iron rusts when it reacts with both water and oxygen. Without one of those, it won't rust!",
       "type": "text"
     },
     {
       "id": 25,
-      "title": "Daily Science Mantra",
-      "text": "Gravity on Earth is approximately 9.8 meters per second squared.",
+      "title": "Maths: Hours in a Year",
+      "text": "There are 8,760 hours in a normal year and 8,784 hours in a leap year.",
       "type": "text"
     },
     {
       "id": 26,
-      "title": "Daily Maths Mantra",
-      "text": "Derivative of x power n is n multiplied by x power n minus one.",
+      "title": "Science: Solar System King",
+      "text": "Jupiter is so big that all the other planets in the solar system could fit inside it twice!",
       "type": "text"
     },
     {
       "id": 27,
-      "title": "Daily GK Mantra",
-      "text": "The Eiffel Tower was completed in 1889.",
+      "title": "Maths: Square Numbers",
+      "text": "A square number is what you get when you multiply a number by itself. 3x3=9, so 9 is a square number.",
       "type": "text"
     },
     {
       "id": 28,
-      "title": "Daily Science Mantra",
-      "text": "The speed of sound in air is roughly 343 meters per second.",
+      "title": "Science: Human Teeth",
+      "text": "Human teeth are just as strong as shark teeth! However, we can't regrow them as fast as sharks can.",
       "type": "text"
     },
     {
       "id": 29,
-      "title": "Daily Maths Mantra",
-      "text": "Sum of interior angles of a polygon equals (n minus 2) multiplied by 180 degrees.",
+      "title": "Maths: Clock Math",
+      "text": "A circle has 360 degrees. Since a clock is a circle, each minute represents a 6-degree turn for the minute hand.",
       "type": "text"
     },
     {
       "id": 30,
-      "title": "Daily GK Mantra",
-      "text": "Leonardo da Vinci painted the Mona Lisa.",
+      "title": "Science: Speed of Earth",
+      "text": "Earth is spinning at about 1,000 miles per hour and orbiting the sun at 67,000 miles per hour, but we can't feel it!",
       "type": "text"
     }
   ]
