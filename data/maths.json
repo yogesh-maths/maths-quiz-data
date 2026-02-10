@@ -5,7 +5,7 @@
     "options": ["$15$", "$20$", "$25$", "$30$"],
     "correctIndex": 1,
     "correctText": "$20$",
-    "explanation": "$25\\%$ is equivalent to $\\frac{25}{100}$ or $\\frac{1}{4}$. Thus, $\\frac{1}{4} \\times 80 = 20$."
+    "explanation": "$25\\% = \\frac{1}{4}$. Thus, $\\frac{1}{4} \\times 80 = 20$."
   },
   {
     "id": 42,
@@ -13,7 +13,7 @@
     "options": ["$20\\%$", "$25\\%$", "$30\\%$", "$35\\%$"],
     "correctIndex": 1,
     "correctText": "$25\\%$",
-    "explanation": "To find the percentage: $(\\frac{15}{60}) \\times 100 = \\frac{1}{4} \\times 100 = 25\\%$."
+    "explanation": "$(\\frac{15}{60}) \\times 100 = 25\\%$."
   },
   {
     "id": 43,
@@ -21,7 +21,7 @@
     "options": ["$55$", "$60$", "$65$", "$70$"],
     "correctIndex": 1,
     "correctText": "$60$",
-    "explanation": "$20\\%$ of $50$ is $10$. Adding that to the original value: $50 + 10 = 60$."
+    "explanation": "$20\\%$ of $50 = 10$. $50 + 10 = 60$."
   },
   {
     "id": 44,
@@ -29,7 +29,7 @@
     "options": ["$\\$12$", "$\\$28$", "$\\$30$", "$\\$32$"],
     "correctIndex": 1,
     "correctText": "$\\$28$",
-    "explanation": "Discount = $0.30 \\times 40 = 12$. Sale price = $40 - 12 = 28$."
+    "explanation": "Discount = $12$. Sale price = $40 - 12 = 28$."
   },
   {
     "id": 45,
@@ -37,7 +37,7 @@
     "options": ["$55$", "$60$", "$65$", "$70$"],
     "correctIndex": 1,
     "correctText": "$60$",
-    "explanation": "$120\\% = \\frac{120}{100} = 1.2$. Thus, $1.2 \\times 50 = 60$."
+    "explanation": "$1.2 \\times 50 = 60$."
   },
   {
     "id": 46,
@@ -45,7 +45,7 @@
     "options": ["$20\\%$", "$25\\%$", "$30\\%$", "$33.3\\%$"],
     "correctIndex": 1,
     "correctText": "$25\\%$",
-    "explanation": "Decrease = $80 - 60 = 20$. Percentage decrease = $(\\frac{20}{80}) \\times 100 = 25\\%$."
+    "explanation": "$(\\frac{20}{80}) \\times 100 = 25\\%$."
   },
   {
     "id": 47,
@@ -61,7 +61,7 @@
     "options": ["$20\\%$", "$25\\%$", "$30\\%$", "$15\\%$"],
     "correctIndex": 1,
     "correctText": "$25\\%$",
-    "explanation": "Profit = $25$. Profit percentage = $(\\frac{25}{100}) \\times 100 = 25\\%$."
+    "explanation": "$(\\frac{25}{100}) \\times 100 = 25\\%$."
   },
   {
     "id": 49,
@@ -69,7 +69,7 @@
     "options": ["$10$", "$1$", "$0.1$", "$0.01$"],
     "correctIndex": 1,
     "correctText": "$1$",
-    "explanation": "$10\\%$ of $100 = 10$. Then $10\\%$ of $10 = 1$."
+    "explanation": "$10\\%$ of $100 = 10$, then $10\\%$ of $10 = 1$."
   },
   {
     "id": 50,
@@ -79,15 +79,324 @@
     "correctText": "$400$",
     "explanation": "$0.40x = 160 \\Rightarrow x = 400$."
   },
-
-  ... (IDs 51–89 unchanged and correct)
-
+  {
+    "id": 51,
+    "question": "A student scored $45$ out of $60$. What is the percentage?",
+    "options": ["$65\\%$", "$70\\%$", "$75\\%$", "$80\\%$"],
+    "correctIndex": 2,
+    "correctText": "$75\\%$",
+    "explanation": "$(\\frac{45}{60}) \\times 100 = 75\\%$."
+  },
+  {
+    "id": 52,
+    "question": "What is the decimal equivalent of $3.5\\%$?",
+    "options": ["$0.35$", "$0.035$", "$3.5$", "$0.0035$"],
+    "correctIndex": 1,
+    "correctText": "$0.035$",
+    "explanation": "$3.5\\% = 0.035$."
+  },
+  {
+    "id": 53,
+    "question": "A population increases from $2000$ to $2500$. Find the percentage increase.",
+    "options": ["$20\\%$", "$25\\%$", "$30\\%$", "$50\\%$"],
+    "correctIndex": 1,
+    "correctText": "$25\\%$",
+    "explanation": "$(\\frac{500}{2000}) \\times 100 = 25\\%$."
+  },
+  {
+    "id": 54,
+    "question": "What is $5\\%$ of $\\$200$?",
+    "options": ["$\\$1$", "$\\$5$", "$\\$10$", "$\\$20$"],
+    "correctIndex": 2,
+    "correctText": "$\\$10$",
+    "explanation": "$0.05 \\times 200 = 10$."
+  },
+  {
+    "id": 55,
+    "question": "If you save $\\$30$ on a $\\$150$ purchase, what percentage did you save?",
+    "options": ["$15\\%$", "$20\\%$", "$25\\%$", "$30\\%$"],
+    "correctIndex": 1,
+    "correctText": "$20\\%$",
+    "explanation": "$(\\frac{30}{150}) \\times 100 = 20\\%$."
+  },
+  {
+    "id": 56,
+    "question": "What is $33.33\\%$ of $90$?",
+    "options": ["$20$", "$30$", "$40$", "$45$"],
+    "correctIndex": 1,
+    "correctText": "$30$",
+    "explanation": "$\\frac{1}{3} \\times 90 = 30$."
+  },
+  {
+    "id": 57,
+    "question": "A car's value drops by $15\\%$. If it is worth $\\$20,000$, what is its value after one year?",
+    "options": ["$\\$17,000$", "$\\$18,000$", "$\\$18,500$", "$\\$19,000$"],
+    "correctIndex": 0,
+    "correctText": "$\\$17,000$",
+    "explanation": "$15\\%$ of $20,000 = 3,000$. $20,000 - 3,000 = 17,000$."
+  },
+  {
+    "id": 58,
+    "question": "If $x$ is $20\\%$ of $50$ and $y$ is $50\\%$ of $20$, which is larger?",
+    "options": ["$x$ is larger", "$y$ is larger", "They are equal", "Cannot be determined"],
+    "correctIndex": 2,
+    "correctText": "They are equal",
+    "explanation": "$x = 10$, $y = 10$."
+  },
+  {
+    "id": 59,
+    "question": "Find $150\\%$ of $20$.",
+    "options": ["$25$", "$30$", "$35$", "$40$"],
+    "correctIndex": 1,
+    "correctText": "$30$",
+    "explanation": "$1.5 \\times 20 = 30$."
+  },
+  {
+    "id": 60,
+    "question": "A laptop price increases from $\\$800$ to $\\$1000$. Find the percentage increase.",
+    "options": ["$20\\%$", "$25\\%$", "$30\\%$", "$22.5\\%$"],
+    "correctIndex": 1,
+    "correctText": "$25\\%$",
+    "explanation": "$(\\frac{200}{800}) \\times 100 = 25\\%$."
+  },
+  {
+    "id": 61,
+    "question": "What is $\\frac{1}{2}\\%$ written as a decimal?",
+    "options": ["$0.5$", "$0.05$", "$0.005$", "$5$"],
+    "correctIndex": 2,
+    "correctText": "$0.005$",
+    "explanation": "$0.5\\% = 0.005$."
+  },
+  {
+    "id": 62,
+    "question": "A fruit seller has $400$ apples. $15\\%$ are rotten. How many good apples are there?",
+    "options": ["$60$", "$340$", "$350$", "$360$"],
+    "correctIndex": 1,
+    "correctText": "$340$",
+    "explanation": "$400 - 60 = 340$."
+  },
+  {
+    "id": 63,
+    "question": "A book is bought for $\\$20$ and sold for $\\$18$. What is the loss percentage?",
+    "options": ["$5\\%$", "$10\\%$", "$15\\%$", "$20\\%$"],
+    "correctIndex": 1,
+    "correctText": "$10\\%$",
+    "explanation": "$(\\frac{2}{20}) \\times 100 = 10\\%$."
+  },
+  {
+    "id": 64,
+    "question": "What is $0.5\\%$ of $2000$?",
+    "options": ["$1$", "$10$", "$100$", "$1000$"],
+    "correctIndex": 1,
+    "correctText": "$10$",
+    "explanation": "$0.005 \\times 2000 = 10$."
+  },
+  {
+    "id": 65,
+    "question": "A worker's salary of $\\$2000$ is increased by $10\\%$. What is the new salary?",
+    "options": ["$\\$2100$", "$\\$2200$", "$\\$2300$", "$\\$2400$"],
+    "correctIndex": 1,
+    "correctText": "$\\$2200$",
+    "explanation": "$2000 + 200 = 2200$."
+  },
+  {
+    "id": 66,
+    "question": "If $25\\%$ of $x = 50$, find $x$.",
+    "options": ["$100$", "$150$", "$200$", "$250$"],
+    "correctIndex": 2,
+    "correctText": "$200$",
+    "explanation": "$x = 200$."
+  },
+  {
+    "id": 67,
+    "question": "Express $4/5$ as a percentage.",
+    "options": ["$40\\%$", "$60\\%$", "$80\\%$", "$90\\%$"],
+    "correctIndex": 2,
+    "correctText": "$80\\%$",
+    "explanation": "$0.8 \\times 100 = 80\\%$."
+  },
+  {
+    "id": 68,
+    "question": "A tank is $60\\%$ full and contains $300$ liters. What is the total capacity?",
+    "options": ["$400$ L", "$500$ L", "$600$ L", "$700$ L"],
+    "correctIndex": 1,
+    "correctText": "$500$ L",
+    "explanation": "$300 \\div 0.6 = 500$."
+  },
+  {
+    "id": 69,
+    "question": "What is $200\\%$ of $45$?",
+    "options": ["$45$", "$90$", "$135$", "$180$"],
+    "correctIndex": 1,
+    "correctText": "$90$",
+    "explanation": "$2 \\times 45 = 90$."
+  },
+  {
+    "id": 70,
+    "question": "If sales tax is $8\\%$, what is the total cost of a $\\$50$ item?",
+    "options": ["$\\$52$", "$\\$54$", "$\\$56$", "$\\$58$"],
+    "correctIndex": 1,
+    "correctText": "$\\$54$",
+    "explanation": "$50 + 4 = 54$."
+  },
+  {
+    "id": 71,
+    "question": "Which is greater: $50\\%$ of $40$ or $25\\%$ of $100$?",
+    "options": ["$50\\%$ of $40$", "$25\\%$ of $100$", "They are equal", "Cannot be determined"],
+    "correctIndex": 1,
+    "correctText": "$25\\%$ of $100$",
+    "explanation": "$25 > 20$."
+  },
+  {
+    "id": 72,
+    "question": "A number is increased by $10\\%$ and then decreased by $10\\%$. Net change is:",
+    "options": ["No change", "$1\\%$ increase", "$1\\%$ decrease", "$2\\%$ decrease"],
+    "correctIndex": 2,
+    "correctText": "$1\\%$ decrease",
+    "explanation": "$100 \\to 110 \\to 99$."
+  },
+  {
+    "id": 73,
+    "question": "What is $75\\%$ of $1$ hour in minutes?",
+    "options": ["$30$", "$40$", "$45$", "$50$"],
+    "correctIndex": 2,
+    "correctText": "$45$",
+    "explanation": "$0.75 \\times 60 = 45$."
+  },
+  {
+    "id": 74,
+    "question": "If $x\\%$ of $50 = 10$, find $x$.",
+    "options": ["$10$", "$20$", "$30$", "$40$"],
+    "correctIndex": 1,
+    "correctText": "$20$",
+    "explanation": "$x = 20$."
+  },
+  {
+    "id": 75,
+    "question": "A toy price reduces from $\\$25$ to $\\$20$. Find the discount percentage.",
+    "options": ["$10\\%$", "$15\\%$", "$20\\%$", "$25\\%$"],
+    "correctIndex": 2,
+    "correctText": "$20\\%$",
+    "explanation": "$(\\frac{5}{25}) \\times 100 = 20\\%$."
+  },
+  {
+    "id": 76,
+    "question": "Convert $1/8$ to percentage.",
+    "options": ["$10\\%$", "$12.5\\%$", "$15\\%$", "$20\\%$"],
+    "correctIndex": 1,
+    "correctText": "$12.5\\%$",
+    "explanation": "$0.125 \\times 100 = 12.5\\%$."
+  },
+  {
+    "id": 77,
+    "question": "What is $40\\%$ of $200$ plus $20\\%$ of $100$?",
+    "options": ["$80$", "$100$", "$120$", "$140$"],
+    "correctIndex": 1,
+    "correctText": "$100$",
+    "explanation": "$80 + 20 = 100$."
+  },
+  {
+    "id": 78,
+    "question": "In a class of $50$, $40\\%$ are girls. How many boys are there?",
+    "options": ["$20$", "$25$", "$30$", "$35$"],
+    "correctIndex": 2,
+    "correctText": "$30$",
+    "explanation": "$50 - 20 = 30$."
+  },
+  {
+    "id": 79,
+    "question": "If income is $\\$5000$ and rent is $\\$1500$, what percentage is rent?",
+    "options": ["$20\\%$", "$25\\%$", "$30\\%$", "$35\\%$"],
+    "correctIndex": 2,
+    "correctText": "$30\\%$",
+    "explanation": "$(\\frac{1500}{5000}) \\times 100 = 30\\%$."
+  },
+  {
+    "id": 80,
+    "question": "What is $250\\%$ of $20$?",
+    "options": ["$40$", "$50$", "$60$", "$100$"],
+    "correctIndex": 1,
+    "correctText": "$50$",
+    "explanation": "$2.5 \\times 20 = 50$."
+  },
+  {
+    "id": 81,
+    "question": "A pair of shoes costs $\\$60$. A $10\\%$ discount and then $5\\%$ tax is applied. Final price?",
+    "options": ["$\\$56.70$", "$\\$57.00$", "$\\$58.20$", "$\\$54.00$"],
+    "correctIndex": 0,
+    "correctText": "$\\$56.70$",
+    "explanation": "$54 + 2.70 = 56.70$."
+  },
+  {
+    "id": 82,
+    "question": "If $20\\%$ of $a = b$, then $b\\%$ of $20$ equals:",
+    "options": ["$4\\%$ of $a$", "$5\\%$ of $a$", "$20\\%$ of $a$", "None"],
+    "correctIndex": 0,
+    "correctText": "$4\\%$ of $a$",
+    "explanation": "$0.04a$."
+  },
+  {
+    "id": 83,
+    "question": "What is $0.01\\%$ of $1000$?",
+    "options": ["$0.01$", "$0.1$", "$1$", "$10$"],
+    "correctIndex": 1,
+    "correctText": "$0.1$",
+    "explanation": "$0.0001 \\times 1000 = 0.1$."
+  },
+  {
+    "id": 84,
+    "question": "A student needs $40\\%$ to pass. He gets $178$ and fails by $22$. Maximum marks?",
+    "options": ["$400$", "$500$", "$600$", "$800$"],
+    "correctIndex": 1,
+    "correctText": "$500$",
+    "explanation": "$200 = 40\\% \\Rightarrow Max = 500$."
+  },
+  {
+    "id": 85,
+    "question": "Price increases by $25\\%$. By what percent should consumption be reduced to keep expense same?",
+    "options": ["$20\\%$", "$25\\%$", "$15\\%$", "$33.3\\%$"],
+    "correctIndex": 0,
+    "correctText": "$20\\%$",
+    "explanation": "$\\frac{25}{125} \\times 100 = 20\\%$."
+  },
+  {
+    "id": 86,
+    "question": "What is $15\\%$ of $200$?",
+    "options": ["$15$", "$30$", "$45$", "$60$"],
+    "correctIndex": 1,
+    "correctText": "$30$",
+    "explanation": "$0.15 \\times 200 = 30$."
+  },
+  {
+    "id": 87,
+    "question": "A number increased by $20\\%$ becomes $72$. Find the number.",
+    "options": ["$50$", "$60$", "$65$", "$70$"],
+    "correctIndex": 1,
+    "correctText": "$60$",
+    "explanation": "$72 \\div 1.2 = 60$."
+  },
+  {
+    "id": 88,
+    "question": "What is $12.5\\%$ of $80$?",
+    "options": ["$8$", "$10$", "$12$", "$15$"],
+    "correctIndex": 1,
+    "correctText": "$10$",
+    "explanation": "$\\frac{1}{8} \\times 80 = 10$."
+  },
+  {
+    "id": 89,
+    "question": "A person saves $20\\%$ of income. If savings are $\\$500$, what is income?",
+    "options": ["$\\$2000$", "$\\$2500$", "$\\$3000$", "$\\$5000$"],
+    "correctIndex": 1,
+    "correctText": "$\\$2500$",
+    "explanation": "$500 \\div 0.2 = 2500$."
+  },
   {
     "id": 90,
-    "question": "Which fraction is equal to $37.5\\%$?",
+    "question": "Which fraction equals $37.5\\%$?",
     "options": ["$1/4$", "$3/8$", "$1/2$", "$5/8$"],
     "correctIndex": 1,
     "correctText": "$3/8$",
-    "explanation": "$37.5\\% = \\frac{37.5}{100} = \\frac{375}{1000} = \\frac{3}{8}$."
+    "explanation": "$37.5\\% = \\frac{3}{8}$."
   }
 ]
