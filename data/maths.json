@@ -1,162 +1,162 @@
 [
   {
-    "id": 101,
-    "question": "Solve for $x$: $x - 12 = -5$",
-    "options": ["$-17$", "$17$", "$7$", "$-7$"],
-    "correctIndex": 2,
-    "correctText": "$7$",
-    "explanation": "Add $12$ to both sides: $x = -5 + 12 = 7$."
-  },
-  {
-    "id": 102,
-    "question": "Solve for $p$: $\\frac{p}{3} = 12$",
-    "options": ["$4$", "$9$", "$15$", "$36$"],
-    "correctIndex": 3,
-    "correctText": "$36$",
-    "explanation": "Multiply both sides by $3$: $p = 12 \\cdot 3 = 36$."
-  },
-  {
-    "id": 103,
-    "question": "Solve for $z$: $7z = 0$",
-    "options": ["$7$", "$0$", "$-7$", "Undefined"],
-    "correctIndex": 1,
-    "correctText": "$0$",
-    "explanation": "Divide by $7$: $z = 0 / 7 = 0$."
-  },
-  {
-    "id": 104,
-    "question": "Solve for $x$: $2x + 10 = 2$",
-    "options": ["$4$", "$-4$", "$6$", "$-6$"],
-    "correctIndex": 1,
-    "correctText": "$-4$",
-    "explanation": "Subtract $10$ ($2x = -8$), then divide by $2$ to get $x = -4$."
-  },
-  {
-    "id": 105,
-    "question": "What is the slope of the line $y = 5x - 3$?",
-    "options": ["$5$", "$-3$", "$3$", "$-5$"],
+    "id": 201,
+    "question": "A merchant buys a watch for $50 and sells it for $70. What is the profit?",
+    "options": ["$20", "$120", "$30", "$10"],
     "correctIndex": 0,
-    "correctText": "$5$",
-    "explanation": "In $y = mx + b$, the slope is $m$. Here $m = 5$."
+    "correctText": "$20",
+    "explanation": "Profit = Selling Price (SP) - Cost Price (CP). $70 - $50 = $20."
   },
   {
-    "id": 106,
-    "question": "Solve for $y$: $15 - y = 8$",
-    "options": ["$23$", "$7$", "$-7$", "$8$"],
+    "id": 202,
+    "question": "If an item cost $100 and is sold at a 20% profit, what is the selling price?",
+    "options": ["$80", "$120", "$110", "$105"],
     "correctIndex": 1,
-    "correctText": "$7$",
-    "explanation": "Subtract $15$ from both sides ($-y = -7$), so $y = 7$."
+    "correctText": "$120",
+    "explanation": "Profit = 20% of $100 = $20. SP = CP + Profit = $100 + $20 = $120."
   },
   {
-    "id": 107,
-    "question": "Solve for $x$: $4(x - 1) = 12$",
-    "options": ["$3$", "$2$", "$4$", "$5$"],
+    "id": 203,
+    "question": "An item bought for $80 is sold for $60. What is the loss percentage?",
+    "options": ["20%", "25%", "15%", "30%"],
+    "correctIndex": 1,
+    "correctText": "25%",
+    "explanation": "Loss = $80 - $60 = $20. Loss % = (Loss / CP) * 100 = (20 / 80) * 100 = 25%."
+  },
+  {
+    "id": 204,
+    "question": "A chair is sold for $450 at a loss of $50. Find the cost price.",
+    "options": ["$400", "$550", "$500", "$450"],
     "correctIndex": 2,
-    "correctText": "$4$",
-    "explanation": "Divide by $4$ ($x - 1 = 3$), then add $1$ to get $x = 4$."
+    "correctText": "$500",
+    "explanation": "CP = SP + Loss. $450 + $50 = $500."
   },
   {
-    "id": 108,
-    "question": "Identify the $y$-intercept in $y = \\frac{1}{2}x$",
-    "options": ["$1/2$", "$2$", "$0$", "$1$"],
-    "correctIndex": 2,
-    "correctText": "$0$",
-    "explanation": "Since there is no constant added, $b = 0$."
-  },
-  {
-    "id": 109,
-    "question": "Solve for $k$: $k/2 + 5 = 11$",
-    "options": ["$12$", "$3$", "$8$", "$32$"],
+    "id": 205,
+    "question": "By selling a book for $18, a shopkeeper loses 10%. Find the cost price.",
+    "options": ["$20", "$19.80", "$21", "$22"],
     "correctIndex": 0,
-    "correctText": "$12$",
-    "explanation": "Subtract $5$ ($k/2 = 6$), then multiply by $2$ to get $k = 12$."
+    "correctText": "$20",
+    "explanation": "SP = 90% of CP. So, CP = 18 / 0.9 = $20."
   },
   {
-    "id": 110,
-    "question": "Solve for $x$: $9x = 3x + 18$",
-    "options": ["$2$", "$3$", "$6$", "$1$"],
+    "id": 206,
+    "question": "What is the formula for Profit Percentage?",
+    "options": ["(Profit/SP)*100", "(Profit/CP)*100", "(CP/Profit)*100", "(Loss/CP)*100"],
     "correctIndex": 1,
-    "correctText": "$3$",
-    "explanation": "Subtract $3x$ from both sides ($6x = 18$), then divide by $6$ to get $x = 3$."
+    "correctText": "(Profit/CP)*100",
+    "explanation": "Profit or Loss percentage is always calculated on the Cost Price (CP)."
   },
   {
-    "id": 111,
-    "question": "Solve for $m$: $-3m = 21$",
-    "options": ["$7$", "$-7$", "$18$", "$-63$"],
-    "correctIndex": 1,
-    "correctText": "$-7$",
-    "explanation": "Divide by $-3$: $m = 21 / -3 = -7$."
-  },
-  {
-    "id": 112,
-    "question": "Find $x$ if $2x - 4 = x + 5$",
-    "options": ["$1$", "$9$", "$-1$", "$4$"],
-    "correctIndex": 1,
-    "correctText": "$9$",
-    "explanation": "Subtract $x$ from both sides ($x - 4 = 5$), then add $4$ to get $x = 9$."
-  },
-  {
-    "id": 113,
-    "question": "What is the value of $y$ if $x=2$ in $y = 3x + 1$?",
-    "options": ["$5$", "$6$", "$7$", "$4$"],
+    "id": 207,
+    "question": "If CP = $200 and SP = $250, what is the profit percentage?",
+    "options": ["50%", "20%", "25%", "10%"],
     "correctIndex": 2,
-    "correctText": "$7$",
-    "explanation": "$y = 3(2) + 1 = 6 + 1 = 7$."
+    "correctText": "25%",
+    "explanation": "Profit = $50. Profit % = (50 / 200) * 100 = 25%."
   },
   {
-    "id": 114,
-    "question": "Solve for $x$: $\\frac{2}{3}x = 10$",
-    "options": ["$15$", "$6.6$", "$30$", "$20$"],
+    "id": 208,
+    "question": "A bicycle bought for $1000 is sold at a loss of 15%. Find the selling price.",
+    "options": ["$850", "$1150", "$985", "$750"],
     "correctIndex": 0,
-    "correctText": "$15$",
-    "explanation": "Multiply by $3/2$: $x = 10 \\cdot 3 / 2 = 15$."
+    "correctText": "$850",
+    "explanation": "Loss = 15% of 1000 = $150. SP = 1000 - 150 = $850."
   },
   {
-    "id": 115,
-    "question": "Solve for $n$: $10 - 2n = 0$",
-    "options": ["$10$", "$-5$", "$5$", "$2$"],
-    "correctIndex": 2,
-    "correctText": "$5$",
-    "explanation": "Subtract $10$ ($-2n = -10$), then divide by $-2$ to get $n = 5$."
-  },
-  {
-    "id": 116,
-    "question": "Which point $(x, y)$ satisfies $y = x + 5$?",
-    "options": ["$(1, 4)$", "$(2, 7)$", "$(0, 5)$", "$(5, 0)$"],
-    "correctIndex": 2,
-    "correctText": "$(0, 5)$",
-    "explanation": "Plug in $x=0$: $y = 0 + 5 = 5$. So $(0, 5)$ works."
-  },
-  {
-    "id": 117,
-    "question": "Solve for $x$: $5x + 3 = 3x + 11$",
-    "options": ["$2$", "$4$", "$8$", "$14$"],
+    "id": 209,
+    "question": "If the cost price of 10 pens is equal to the selling price of 8 pens, what is the profit percentage?",
+    "options": ["20%", "25%", "10%", "30%"],
     "correctIndex": 1,
-    "correctText": "$4$",
-    "explanation": "Subtract $3x$ ($2x + 3 = 11$), subtract $3$ ($2x = 8$), divide by $2$ to get $x = 4$."
+    "correctText": "25%",
+    "explanation": "Profit = 2 pens. Profit % = (2 / 8) * 100 = 25%."
   },
   {
-    "id": 118,
-    "question": "Solve for $b$: $b/4 - 1 = 2$",
-    "options": ["$4$", "$8$", "$12$", "$16$"],
-    "correctIndex": 2,
-    "correctText": "$12$",
-    "explanation": "Add $1$ ($b/4 = 3$), then multiply by $4$ to get $b = 12$."
+    "id": 210,
+    "question": "A table is sold at a profit of 10%. If the CP is $500, what is the profit amount?",
+    "options": ["$50", "$10", "$550", "$5"],
+    "correctIndex": 0,
+    "correctText": "$50",
+    "explanation": "Profit = 10% of $500 = 0.10 * 500 = $50."
   },
   {
-    "id": 119,
-    "question": "What is the slope of a horizontal line?",
-    "options": ["$1$", "Undefined", "$0$", "$-1$"],
-    "correctIndex": 2,
-    "correctText": "$0$",
-    "explanation": "A horizontal line has no 'rise', so the slope ($rise/run$) is $0$."
-  },
-  {
-    "id": 120,
-    "question": "Solve for $x$: $0.5x = 10$",
-    "options": ["$5$", "$20$", "$15$", "$100$"],
+    "id": 211,
+    "question": "An article is sold for $120 with a profit of $20. What was the CP?",
+    "options": ["$140", "$100", "$110", "$120"],
     "correctIndex": 1,
-    "correctText": "$20$",
-    "explanation": "Divide by $0.5$ (which is the same as multiplying by $2$): $x = 20$."
+    "correctText": "$100",
+    "explanation": "CP = SP - Profit. $120 - $20 = $100."
+  },
+  {
+    "id": 212,
+    "question": "If SP is $72 and loss is 10%, what is the CP?",
+    "options": ["$80", "$64.80", "$82", "$75"],
+    "correctIndex": 0,
+    "correctText": "$80",
+    "explanation": "SP = 90% of CP. CP = 72 / 0.9 = $80."
+  },
+  {
+    "id": 213,
+    "question": "A shopkeeper sells a toy for $96 at a profit of 20%. Find the CP.",
+    "options": ["$80", "$76", "$115.20", "$85"],
+    "correctIndex": 0,
+    "correctText": "$80",
+    "explanation": "SP = 120% of CP. CP = 96 / 1.2 = $80."
+  },
+  {
+    "id": 214,
+    "question": "If a man loses 1/5 of his CP by selling an item, what is his loss percentage?",
+    "options": ["5%", "25%", "20%", "10%"],
+    "correctIndex": 2,
+    "correctText": "20%",
+    "explanation": "1/5 as a percentage is (1/5) * 100 = 20%."
+  },
+  {
+    "id": 215,
+    "question": "A radio is bought for $500 and sold for $480. Find the loss percentage.",
+    "options": ["4%", "5%", "20%", "10%"],
+    "correctIndex": 0,
+    "correctText": "4%",
+    "explanation": "Loss = $20. Loss % = (20 / 500) * 100 = 4%."
+  },
+  {
+    "id": 216,
+    "question": "If CP = $40 and SP = $40, what is the result?",
+    "options": ["10% Profit", "10% Loss", "No Profit No Loss", "Undefined"],
+    "correctIndex": 2,
+    "correctText": "No Profit No Loss",
+    "explanation": "When CP = SP, there is neither profit nor loss."
+  },
+  {
+    "id": 217,
+    "question": "A fruit seller buys lemons at 2 for $1 and sells them at 5 for $3. What is his profit percentage?",
+    "options": ["10%", "15%", "20%", "25%"],
+    "correctIndex": 2,
+    "correctText": "20%",
+    "explanation": "CP of 10 lemons = $5. SP of 10 lemons = $6. Profit % = (1/5)*100 = 20%."
+  },
+  {
+    "id": 218,
+    "question": "Find the SP if CP = $60 and profit = 5%.",
+    "options": ["$65", "$63", "$57", "$60.50"],
+    "correctIndex": 1,
+    "correctText": "$63",
+    "explanation": "Profit = 5% of $60 = $3. SP = $60 + $3 = $63."
+  },
+  {
+    "id": 219,
+    "question": "The percentage of profit when an item is sold for $75 (CP was $60) is:",
+    "options": ["15%", "20%", "25%", "30%"],
+    "correctIndex": 2,
+    "correctText": "25%",
+    "explanation": "Profit = $15. Profit % = (15/60)*100 = 25%."
+  },
+  {
+    "id": 220,
+    "question": "If an item is sold at a loss of 100%, what is the SP?",
+    "options": ["$100", "Equal to CP", "$0", "Negative"],
+    "correctIndex": 2,
+    "correctText": "$0",
+    "explanation": "A 100% loss means the entire value is lost, so the selling price is zero."
   }
 ]
