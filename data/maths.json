@@ -129,11 +129,11 @@
   },
   {
     "id": 217,
-    "question": "A fruit seller buys lemons at 2 for $1 and sells them at 5 for $3. What is his profit percentage?",
+    "question": "A fruit seller buys lemons at 2 for Rs1 and sells them at 5 for Rs3. What is his profit percentage?",
     "options": ["10%", "15%", "20%", "25%"],
     "correctIndex": 2,
     "correctText": "20%",
-    "explanation": "CP of 10 lemons = $5. SP of 10 lemons = $6. Profit % = (1/5)*100 = 20%."
+    "explanation": "CP of 10 lemons = Rs5. SP of 10 lemons = Rs6. Profit % = (1/5)*100 = 20%."
   },
   {
     "id": 218,
