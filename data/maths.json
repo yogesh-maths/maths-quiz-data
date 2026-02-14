@@ -1,162 +1,162 @@
 [
-  {
-    "id": 301,
-    "question": "What is 25% of 400?",
-    "options": ["100", "75", "125", "150"],
-    "correctIndex": 0,
-    "correctText": "100",
-    "explanation": "25% of 400 = (25/100) × 400 = 100."
-  },
-  {
-    "id": 302,
-    "question": "A man buys an item for Rs. 400 and sells it for Rs. 500. Profit %?",
-    "options": ["20%", "25%", "30%", "15%"],
-    "correctIndex": 1,
-    "correctText": "25%",
-    "explanation": "Profit = 100. Profit% = (100/400) × 100 = 25%."
-  },
-  {
-    "id": 303,
-    "question": "Average of 10, 20, 30 is?",
-    "options": ["20", "25", "15", "60"],
-    "correctIndex": 0,
-    "correctText": "20",
-    "explanation": "(10 + 20 + 30) / 3 = 20."
-  },
-  {
-    "id": 304,
-    "question": "Simplify: 2 + 3 × 4 - 1?",
-    "options": ["15", "13", "9", "20"],
-    "correctIndex": 1,
-    "correctText": "13",
-    "explanation": "Using BODMAS: 2 + 12 - 1 = 13."
-  },
-  {
-    "id": 305,
-    "question": "LCM of 12, 18, 24?",
-    "options": ["72", "36", "48", "24"],
-    "correctIndex": 0,
-    "correctText": "72",
-    "explanation": "LCM(12, 18, 24) = 72."
-  },
-  {
-    "id": 306,
-    "question": "A train 100 m long at 36 km/h crosses a pole in?",
-    "options": ["10 sec", "5 sec", "20 sec", "15 sec"],
-    "correctIndex": 0,
-    "correctText": "10 sec",
-    "explanation": "36 km/h = 10 m/s. Time = 100 / 10 = 10 sec."
-  },
-  {
-    "id": 307,
-    "question": "Simple Interest on Rs. 1000 at 5% for 2 years?",
-    "options": ["Rs.100", "Rs.200", "Rs.50", "Rs.150"],
-    "correctIndex": 0,
-    "correctText": "Rs.100",
-    "explanation": "SI = (1000 × 5 × 2) / 100 = 100."
-  },
-  {
-    "id": 308,
-    "question": "Ratio 2:3, sum 50. Larger part?",
-    "options": ["30", "20", "25", "35"],
-    "correctIndex": 0,
-    "correctText": "30",
-    "explanation": "Total parts = 5. Larger part = (3/5) × 50 = 30."
-  },
-  {
-    "id": 309,
-    "question": "Number × 3 + 5 = 20. Number?",
-    "options": ["5", "4", "6", "7"],
-    "correctIndex": 0,
-    "correctText": "5",
-    "explanation": "3x + 5 = 20 → 3x = 15 → x = 5."
-  },
-  {
-    "id": 310,
-    "question": "20% discount on Rs. 500. Sale price?",
-    "options": ["Rs.400", "Rs.450", "Rs.600", "Rs.300"],
-    "correctIndex": 0,
-    "correctText": "Rs.400",
-    "explanation": "Discount = 100. Sale price = 500 − 100 = 400."
-  },
-  {
-    "id": 311,
-    "question": "A:B = 3:2, B = 20. A = ?",
-    "options": ["30", "25", "35", "40"],
-    "correctIndex": 0,
-    "correctText": "30",
-    "explanation": "A = (3/2) × 20 = 30."
-  },
-  {
-    "id": 312,
-    "question": "HCF of 18, 24?",
-    "options": ["6", "3", "9", "12"],
-    "correctIndex": 0,
-    "correctText": "6",
-    "explanation": "HCF(18, 24) = 6."
-  },
-  {
-    "id": 313,
-    "question": "Speed 60 km/h = ? m/s",
-    "options": ["16.67", "20", "15", "18"],
-    "correctIndex": 0,
-    "correctText": "16.67",
-    "explanation": "(60 × 5) / 18 = 16.67 m/s."
-  },
-  {
-    "id": 314,
-    "question": "Profit 20% on CP Rs. 250. SP?",
-    "options": ["Rs.300", "Rs.200", "Rs.270", "Rs.320"],
-    "correctIndex": 0,
-    "correctText": "Rs.300",
-    "explanation": "Profit = 50. SP = 250 + 50 = 300."
-  },
-  {
-    "id": 315,
-    "question": "1/4 + 1/2 + 1/5 = ?",
-    "options": ["19/20", "1", "1/2", "3/4"],
-    "correctIndex": 0,
-    "correctText": "19/20",
-    "explanation": "LCM = 20 → (5 + 10 + 4) / 20 = 19/20."
-  },
-  {
-    "id": 316,
-    "question": "If 20% of A = 30% of B, then A:B = ?",
-    "options": ["3:2", "2:3", "5:3", "3:5"],
-    "correctIndex": 0,
-    "correctText": "3:2",
-    "explanation": "0.2A = 0.3B → A/B = 3/2."
-  },
- {
-  "id": 317,
-  "question": "A can complete a work in 12 days and B can complete it in 18 days. In how many days will they finish the work together?",
-  "options": ["6 days", "7.2 days", "8 days", "9 days"],
-  "correctIndex": 1,
-  "correctText": "7.2 days",
-  "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Together = (1/12 + 1/18) = (3+2)/36 = 5/36. Total time = 36/5 = 7.2 days."
+  {
+    "id": 301,
+    "question": "What is 25% of 400?",
+    "options": ["100", "75", "125", "150"],
+    "correctIndex": 0,
+    "correctText": "100",
+    "explanation": "25% of 400 = (25/100) × 400 = 100."
+  },
+  {
+    "id": 302,
+    "question": "A man buys an item for Rs. 400 and sells it for Rs. 500. Profit %?",
+    "options": ["20%", "25%", "30%", "15%"],
+    "correctIndex": 1,
+    "correctText": "25%",
+    "explanation": "Profit = 100. Profit% = (100/400) × 100 = 25%."
+  },
+  {
+    "id": 303,
+    "question": "Average of 10, 20, 30 is?",
+    "options": ["20", "25", "15", "60"],
+    "correctIndex": 0,
+    "correctText": "20",
+    "explanation": "(10 + 20 + 30) / 3 = 20."
+  },
+  {
+    "id": 304,
+    "question": "Simplify: 2 + 3 × 4 - 1?",
+    "options": ["15", "13", "9", "20"],
+    "correctIndex": 1,
+    "correctText": "13",
+    "explanation": "Using BODMAS: 2 + 12 - 1 = 13."
+  },
+  {
+    "id": 305,
+    "question": "LCM of 12, 18, 24?",
+    "options": ["72", "36", "48", "24"],
+    "correctIndex": 0,
+    "correctText": "72",
+    "explanation": "LCM(12, 18, 24) = 72."
+  },
+  {
+    "id": 306,
+    "question": "A train 100 m long at 36 km/h crosses a pole in?",
+    "options": ["10 sec", "5 sec", "20 sec", "15 sec"],
+    "correctIndex": 0,
+    "correctText": "10 sec",
+    "explanation": "36 km/h = 10 m/s. Time = 100 / 10 = 10 sec."
+  },
+  {
+    "id": 307,
+    "question": "Simple Interest on Rs. 1000 at 5% for 2 years?",
+    "options": ["Rs.100", "Rs.200", "Rs.50", "Rs.150"],
+    "correctIndex": 0,
+    "correctText": "Rs.100",
+    "explanation": "SI = (1000 × 5 × 2) / 100 = 100."
+  },
+  {
+    "id": 308,
+    "question": "Ratio 2:3, sum 50. Larger part?",
+    "options": ["30", "20", "25", "35"],
+    "correctIndex": 0,
+    "correctText": "30",
+    "explanation": "Total parts = 5. Larger part = (3/5) × 50 = 30."
+  },
+  {
+    "id": 309,
+    "question": "Number × 3 + 5 = 20. Number?",
+    "options": ["5", "4", "6", "7"],
+    "correctIndex": 0,
+    "correctText": "5",
+    "explanation": "3x + 5 = 20 → 3x = 15 → x = 5."
+  },
+  {
+    "id": 310,
+    "question": "20% discount on Rs. 500. Sale price?",
+    "options": ["Rs.400", "Rs.450", "Rs.600", "Rs.300"],
+    "correctIndex": 0,
+    "correctText": "Rs.400",
+    "explanation": "Discount = 100. Sale price = 500 − 100 = 400."
+  },
+  {
+    "id": 311,
+    "question": "A:B = 3:2, B = 20. A = ?",
+    "options": ["30", "25", "35", "40"],
+    "correctIndex": 0,
+    "correctText": "30",
+    "explanation": "A = (3/2) × 20 = 30."
+  },
+  {
+    "id": 312,
+    "question": "HCF of 18, 24?",
+    "options": ["6", "3", "9", "12"],
+    "correctIndex": 0,
+    "correctText": "6",
+    "explanation": "HCF(18, 24) = 6."
+  },
+  {
+    "id": 313,
+    "question": "Speed 60 km/h = ? m/s",
+    "options": ["16.67", "20", "15", "18"],
+    "correctIndex": 0,
+    "correctText": "16.67",
+    "explanation": "(60 × 5) / 18 = 16.67 m/s."
+  },
+  {
+    "id": 314,
+    "question": "Profit 20% on CP Rs. 250. SP?",
+    "options": ["Rs.300", "Rs.200", "Rs.270", "Rs.320"],
+    "correctIndex": 0,
+    "correctText": "Rs.300",
+    "explanation": "Profit = 50. SP = 250 + 50 = 300."
+  },
+  {
+    "id": 315,
+    "question": "1/4 + 1/2 + 1/5 = ?",
+    "options": ["19/20", "1", "1/2", "3/4"],
+    "correctIndex": 0,
+    "correctText": "19/20",
+    "explanation": "LCM = 20 → (5 + 10 + 4) / 20 = 19/20."
+  },
+  {
+    "id": 316,
+    "question": "If 20% of A = 30% of B, then A:B = ?",
+    "options": ["3:2", "2:3", "5:3", "3:5"],
+    "correctIndex": 0,
+    "correctText": "3:2",
+    "explanation": "0.2A = 0.3B → A/B = 3/2."
+  },
+ {
+  "id": 317,
+  "question": "A can complete a work in 12 days and B can complete it in 18 days. In how many days will they finish the work together?",
+  "options": ["6 days", "7.2 days", "8 days", "9 days"],
+  "correctIndex": 1,
+  "correctText": "7.2 days",
+  "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Together = (1/12 + 1/18) = (3+2)/36 = 5/36. Total time = 36/5 = 7.2 days."
 },
-  {
-    "id": 318,
-    "question": "Successive 10%, 20% increase on 100. Final value?",
-    "options": ["120", "132", "130", "110"],
-    "correctIndex": 1,
-    "correctText": "132",
-    "explanation": "100 × 1.1 × 1.2 = 132."
-  },
-  {
-    "id": 319,
-    "question": "Two numbers' sum = 15, product = 56. Smaller number?",
-    "options": ["4", "7", "8", "11"],
-    "correctIndex": 1,
-    "correctText": "7",
-    "explanation": "x² − 15x + 56 = 0 → roots are 7 and 8."
-  },
-  {
-    "id": 320,
-    "question": "Area of circle, radius 7 cm (π = 22/7)?",
-    "options": ["154 cm²", "144 cm²", "150 cm²", "160 cm²"],
-    "correctIndex": 0,
-    "correctText": "154 cm²",
-    "explanation": "πr² = (22/7) × 49 = 154 cm²."
-  }
+  {
+    "id": 318,
+    "question": "Successive 10%, 20% increase on 100. Final value?",
+    "options": ["120", "132", "130", "110"],
+    "correctIndex": 1,
+    "correctText": "132",
+    "explanation": "100 × 1.1 × 1.2 = 132."
+  },
+  {
+    "id": 319,
+    "question": "Two numbers' sum = 15, product = 56. Smaller number?",
+    "options": ["4", "7", "8", "11"],
+    "correctIndex": 1,
+    "correctText": "7",
+    "explanation": "x² − 15x + 56 = 0 → roots are 7 and 8."
+  },
+  {
+    "id": 320,
+    "question": "Area of circle, radius 7 cm (π = 22/7)?",
+    "options": ["154 cm²", "144 cm²", "150 cm²", "160 cm²"],
+    "correctIndex": 0,
+    "correctText": "154 cm²",
+    "explanation": "πr² = (22/7) × 49 = 154 cm²."
+  }
 ]
