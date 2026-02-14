@@ -1,3 +1,8 @@
+{
+  "title": "Arithmetic Practice Test – Level 1",
+  "description": "Mixed arithmetic questions covering percentage, ratio, profit & loss, time & work.",
+  "totalQuestions": 20,
+  "questions":
 [
   {
     "id": 301,
