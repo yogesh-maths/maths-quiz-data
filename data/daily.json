@@ -1,162 +1,402 @@
 [
   {
-    "id": 301,
-    "question": "What is 25% of 400?",
-    "options": ["100", "75", "125", "150"],
-    "correctIndex": 0,
-    "correctText": "100",
-    "explanation": "25% of 400 = (25/100) × 400 = 100."
-  },
-  {
-    "id": 302,
-    "question": "A man buys an item for Rs. 400 and sells it for Rs. 500. Profit %?",
-    "options": ["20%", "25%", "30%", "15%"],
+    "id": 401,
+    "question": "Which gas do plants primarily use for photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
     "correctIndex": 1,
-    "correctText": "25%",
-    "explanation": "Profit = 100. Profit% = (100/400) × 100 = 25%."
+    "correctText": "Carbon Dioxide",
+    "explanation": "Plants take in carbon dioxide and water to produce food (glucose) and release oxygen."
   },
   {
-    "id": 303,
-    "question": "Average of 10, 20, 30 is?",
-    "options": ["20", "25", "15", "60"],
-    "correctIndex": 0,
-    "correctText": "20",
-    "explanation": "(10 + 20 + 30) / 3 = 20."
-  },
-  {
-    "id": 304,
-    "question": "Simplify: 2 + 3 × 4 - 1?",
-    "options": ["15", "13", "9", "20"],
+    "id": 402,
+    "question": "What is the boiling point of water at standard sea level?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
     "correctIndex": 1,
-    "correctText": "13",
-    "explanation": "Using BODMAS: 2 + 12 - 1 = 13."
+    "correctText": "100°C",
+    "explanation": "At sea level, pure water boils at 100°C (212°F)."
   },
   {
-    "id": 305,
-    "question": "LCM of 12, 18, 24?",
-    "options": ["72", "36", "48", "24"],
-    "correctIndex": 0,
-    "correctText": "72",
-    "explanation": "LCM(12, 18, 24) = 72."
-  },
-  {
-    "id": 306,
-    "question": "A train 100 m long at 36 km/h crosses a pole in?",
-    "options": ["10 sec", "5 sec", "20 sec", "15 sec"],
-    "correctIndex": 0,
-    "correctText": "10 sec",
-    "explanation": "36 km/h = 10 m/s. Time = 100 / 10 = 10 sec."
-  },
-  {
-    "id": 307,
-    "question": "Simple Interest on Rs. 1000 at 5% for 2 years?",
-    "options": ["Rs.100", "Rs.200", "Rs.50", "Rs.150"],
-    "correctIndex": 0,
-    "correctText": "Rs.100",
-    "explanation": "SI = (1000 × 5 × 2) / 100 = 100."
-  },
-  {
-    "id": 308,
-    "question": "Ratio 2:3, sum 50. Larger part?",
-    "options": ["30", "20", "25", "35"],
-    "correctIndex": 0,
-    "correctText": "30",
-    "explanation": "Total parts = 5. Larger part = (3/5) × 50 = 30."
-  },
-  {
-    "id": 309,
-    "question": "Number × 3 + 5 = 20. Number?",
-    "options": ["5", "4", "6", "7"],
-    "correctIndex": 0,
-    "correctText": "5",
-    "explanation": "3x + 5 = 20 → 3x = 15 → x = 5."
-  },
-  {
-    "id": 310,
-    "question": "20% discount on Rs. 500. Sale price?",
-    "options": ["Rs.400", "Rs.450", "Rs.600", "Rs.300"],
-    "correctIndex": 0,
-    "correctText": "Rs.400",
-    "explanation": "Discount = 100. Sale price = 500 − 100 = 400."
-  },
-  {
-    "id": 311,
-    "question": "A:B = 3:2, B = 20. A = ?",
-    "options": ["30", "25", "35", "40"],
-    "correctIndex": 0,
-    "correctText": "30",
-    "explanation": "A = (3/2) × 20 = 30."
-  },
-  {
-    "id": 312,
-    "question": "HCF of 18, 24?",
-    "options": ["6", "3", "9", "12"],
-    "correctIndex": 0,
-    "correctText": "6",
-    "explanation": "HCF(18, 24) = 6."
-  },
-  {
-    "id": 313,
-    "question": "Speed 60 km/h = ? m/s",
-    "options": ["16.67", "20", "15", "18"],
-    "correctIndex": 0,
-    "correctText": "16.67",
-    "explanation": "(60 × 5) / 18 = 16.67 m/s."
-  },
-  {
-    "id": 314,
-    "question": "Profit 20% on CP Rs. 250. SP?",
-    "options": ["Rs.300", "Rs.200", "Rs.270", "Rs.320"],
-    "correctIndex": 0,
-    "correctText": "Rs.300",
-    "explanation": "Profit = 50. SP = 250 + 50 = 300."
-  },
-  {
-    "id": 315,
-    "question": "1/4 + 1/2 + 1/5 = ?",
-    "options": ["19/20", "1", "1/2", "3/4"],
-    "correctIndex": 0,
-    "correctText": "19/20",
-    "explanation": "LCM = 20 → (5 + 10 + 4) / 20 = 19/20."
-  },
-  {
-    "id": 316,
-    "question": "If 20% of A = 30% of B, then A:B = ?",
-    "options": ["3:2", "2:3", "5:3", "3:5"],
-    "correctIndex": 0,
-    "correctText": "3:2",
-    "explanation": "0.2A = 0.3B → A/B = 3/2."
-  },
- {
-  "id": 317,
-  "question": "A can complete a work in 12 days and B can complete it in 18 days. In how many days will they finish the work together?",
-  "options": ["6 days", "7.2 days", "8 days", "9 days"],
-  "correctIndex": 1,
-  "correctText": "7.2 days",
-  "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Together = (1/12 + 1/18) = (3+2)/36 = 5/36. Total time = 36/5 = 7.2 days."
-},
-  {
-    "id": 318,
-    "question": "Successive 10%, 20% increase on 100. Final value?",
-    "options": ["120", "132", "130", "110"],
+    "id": 403,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
     "correctIndex": 1,
-    "correctText": "132",
-    "explanation": "100 × 1.1 × 1.2 = 132."
+    "correctText": "Mars",
+    "explanation": "Mars appears red because of iron oxide (rust) on its surface."
   },
   {
-    "id": 319,
-    "question": "Two numbers' sum = 15, product = 56. Smaller number?",
-    "options": ["4", "7", "8", "11"],
+    "id": 404,
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Gd", "Ag", "Au", "Fe"],
+    "correctIndex": 2,
+    "correctText": "Au",
+    "explanation": "The symbol 'Au' comes from the Latin word for gold, 'Aurum'."
+  },
+  {
+    "id": 405,
+    "question": "Which organ is responsible for pumping blood throughout the body?",
+    "options": ["Lungs", "Brain", "Liver", "Heart"],
+    "correctIndex": 3,
+    "correctText": "Heart",
+    "explanation": "The heart is a muscular organ that acts as a pump for the circulatory system."
+  },
+  {
+    "id": 406,
+    "question": "Which part of the plant is responsible for absorbing water?",
+    "options": ["Leaves", "Stem", "Roots", "Flower"],
+    "correctIndex": 2,
+    "correctText": "Roots",
+    "explanation": "Roots anchor the plant and absorb water and minerals from the soil."
+  },
+  {
+    "id": 407,
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+    "correctIndex": 2,
+    "correctText": "Mitochondria",
+    "explanation": "Mitochondria generate chemical energy (ATP) for the cell."
+  },
+  {
+    "id": 408,
+    "question": "Which mirror is used as a rear-view mirror in vehicles?",
+    "options": ["Plane Mirror", "Concave Mirror", "Convex Mirror", "Cylindrical Mirror"],
+    "correctIndex": 2,
+    "correctText": "Convex Mirror",
+    "explanation": "Convex mirrors provide a wider field of view, helping drivers see more traffic."
+  },
+  {
+    "id": 409,
+    "question": "What is the SI unit of Force?",
+    "options": ["Joule", "Watt", "Newton", "Pascal"],
+    "correctIndex": 2,
+    "correctText": "Newton",
+    "explanation": "Force is measured in Newtons (N), named after Sir Isaac Newton."
+  },
+  {
+    "id": 410,
+    "question": "Which acid is found in lemons?",
+    "options": ["Acetic Acid", "Citric Acid", "Lactic Acid", "Hydrochloric Acid"],
     "correctIndex": 1,
+    "correctText": "Citric Acid",
+    "explanation": "Citrus fruits like lemons and oranges are rich in Citric Acid."
+  },
+  {
+    "id": 411,
+    "question": "Which vitamin is synthesized in the body using sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctIndex": 3,
+    "correctText": "Vitamin D",
+    "explanation": "The skin produces Vitamin D when exposed to ultraviolet (UV) rays from the sun."
+  },
+  {
+    "id": 412,
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Graphite"],
+    "correctIndex": 2,
+    "correctText": "Diamond",
+    "explanation": "Diamond is a form of carbon with an extremely strong crystal structure."
+  },
+  {
+    "id": 413,
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "correctIndex": 2,
+    "correctText": "Nitrogen",
+    "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
+  },
+  {
+    "id": 414,
+    "question": "The process of a liquid turning into a gas is called?",
+    "options": ["Freezing", "Condensation", "Evaporation", "Sublimation"],
+    "correctIndex": 2,
+    "correctText": "Evaporation",
+    "explanation": "Evaporation is the phase transition from liquid to vapor."
+  },
+  {
+    "id": 415,
+    "question": "Which component of blood helps in clotting?",
+    "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+    "correctIndex": 2,
+    "correctText": "Platelets",
+    "explanation": "Platelets clump together to plug leaks in blood vessels and stop bleeding."
+  },
+  {
+    "id": 416,
+    "question": "How many bones are there in an adult human body?",
+    "options": ["206", "210", "300", "195"],
+    "correctIndex": 0,
+    "correctText": "206",
+    "explanation": "An adult human has 206 bones, though babies are born with more that fuse together."
+  },
+  {
+    "id": 417,
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Ammeter", "Hygrometer"],
+    "correctIndex": 1,
+    "correctText": "Barometer",
+    "explanation": "A barometer measures the pressure exerted by the weight of the air."
+  },
+  {
+    "id": 418,
+    "question": "What is the chemical formula for common salt?",
+    "options": ["HCl", "NaOH", "NaCl", "KCl"],
+    "correctIndex": 2,
+    "correctText": "NaCl",
+    "explanation": "Common salt is Sodium Chloride (NaCl)."
+  },
+  {
+    "id": 419,
+    "question": "Which part of the eye controls the amount of light entering?",
+    "options": ["Retina", "Cornea", "Iris", "Lens"],
+    "correctIndex": 2,
+    "correctText": "Iris",
+    "explanation": "The iris adjusts the size of the pupil to regulate light entry."
+  },
+  {
+    "id": 420,
+    "question": "Which planet is the smallest in our solar system?",
+    "options": ["Mars", "Mercury", "Venus", "Neptune"],
+    "correctIndex": 1,
+    "correctText": "Mercury",
+    "explanation": "Mercury is the closest planet to the sun and the smallest in the solar system."
+  },
+  {
+    "id": 421,
+    "question": "Sound cannot travel through which of the following?",
+    "options": ["Water", "Air", "Steel", "Vacuum"],
+    "correctIndex": 3,
+    "correctText": "Vacuum",
+    "explanation": "Sound requires a medium (solid, liquid, or gas) to travel."
+  },
+  {
+    "id": 422,
+    "question": "What is the primary function of White Blood Cells?",
+    "options": ["Carry Oxygen", "Fight Infections", "Help Clotting", "Transport Food"],
+    "correctIndex": 1,
+    "correctText": "Fight Infections",
+    "explanation": "WBCs are part of the immune system and protect the body against pathogens."
+  },
+  {
+    "id": 423,
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Silver", "Aluminum", "Copper"],
+    "correctIndex": 0,
+    "correctText": "Mercury",
+    "explanation": "Mercury is the only metal that remains liquid at standard room temperature."
+  },
+  {
+    "id": 424,
+    "question": "Which layer of Earth's atmosphere contains the Ozone layer?",
+    "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+    "correctIndex": 1,
+    "correctText": "Stratosphere",
+    "explanation": "The Ozone layer is located in the stratosphere and absorbs harmful UV radiation."
+  },
+  {
+    "id": 425,
+    "question": "What is the pH value of pure water?",
+    "options": ["1", "5", "7", "10"],
+    "correctIndex": 2,
     "correctText": "7",
-    "explanation": "x² − 15x + 56 = 0 → roots are 7 and 8."
+    "explanation": "Pure water is neutral, which is represented by a pH of 7."
   },
   {
-    "id": 320,
-    "question": "Area of circle, radius 7 cm (π = 22/7)?",
-    "options": ["154 cm²", "144 cm²", "150 cm²", "160 cm²"],
+    "id": 426,
+    "question": "Which nutrient is the main source of energy for our body?",
+    "options": ["Proteins", "Vitamins", "Carbohydrates", "Minerals"],
+    "correctIndex": 2,
+    "correctText": "Carbohydrates",
+    "explanation": "Carbohydrates are broken down into glucose to provide energy for bodily functions."
+  },
+  {
+    "id": 427,
+    "question": "What is the name of the process by which plants lose water through leaves?",
+    "options": ["Photosynthesis", "Respiration", "Transpiration", "Absorption"],
+    "correctIndex": 2,
+    "correctText": "Transpiration",
+    "explanation": "Transpiration is the evaporation of water from plant surfaces, mostly through stomata."
+  },
+  {
+    "id": 428,
+    "question": "Which of the following is a renewable source of energy?",
+    "options": ["Coal", "Natural Gas", "Solar Energy", "Petroleum"],
+    "correctIndex": 2,
+    "correctText": "Solar Energy",
+    "explanation": "Solar energy is replenished naturally and does not run out."
+  },
+  {
+    "id": 429,
+    "question": "What is the study of living organisms called?",
+    "options": ["Physics", "Geology", "Biology", "Astronomy"],
+    "correctIndex": 2,
+    "correctText": "Biology",
+    "explanation": "Biology is the branch of science that deals with life and living organisms."
+  },
+  {
+    "id": 430,
+    "question": "Which force pulls everything towards the center of the Earth?",
+    "options": ["Magnetic Force", "Frictional Force", "Gravitational Force", "Electrostatic Force"],
+    "correctIndex": 2,
+    "correctText": "Gravitational Force",
+    "explanation": "Gravity is the force of attraction between all masses in the universe."
+  },
+  {
+    "id": 431,
+    "question": "Which organ in the human body produces bile?",
+    "options": ["Stomach", "Liver", "Pancreas", "Kidney"],
+    "correctIndex": 1,
+    "correctText": "Liver",
+    "explanation": "The liver produces bile, which helps in the digestion of fats."
+  },
+  {
+    "id": 432,
+    "question": "What is the percentage of Oxygen in the air?",
+    "options": ["78%", "21%", "1%", "0.03%"],
+    "correctIndex": 1,
+    "correctText": "21%",
+    "explanation": "Oxygen makes up approximately 21% of Earth's atmosphere."
+  },
+  {
+    "id": 433,
+    "question": "Which vitamin is found abundantly in citrus fruits like oranges?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+    "correctIndex": 2,
+    "correctText": "Vitamin C",
+    "explanation": "Citrus fruits are excellent sources of ascorbic acid, also known as Vitamin C."
+  },
+  {
+    "id": 434,
+    "question": "Which instrument is used to measure electric current?",
+    "options": ["Voltmeter", "Ammeter", "Galvanometer", "Multimeter"],
+    "correctIndex": 1,
+    "correctText": "Ammeter",
+    "explanation": "An ammeter is the standard instrument used to measure electric current in Amperes. While a galvanometer can detect small currents, an ammeter is specifically designed and calibrated for measuring current in electrical circuits."
+  },
+  {
+    "id": 435,
+    "question": "What is the center of an atom called?",
+    "options": ["Electron", "Proton", "Nucleus", "Neutron"],
+    "correctIndex": 2,
+    "correctText": "Nucleus",
+    "explanation": "The nucleus is the small, dense region at the center of an atom containing protons and neutrons."
+  },
+  {
+    "id": 436,
+    "question": "Which animal is known to have three hearts?",
+    "options": ["Whale", "Octopus", "Shark", "Dolphin"],
+    "correctIndex": 1,
+    "correctText": "Octopus",
+    "explanation": "An octopus has one main systemic heart and two smaller branchial hearts."
+  },
+  {
+    "id": 437,
+    "question": "What is the largest organ in the human body?",
+    "options": ["Liver", "Brain", "Skin", "Small Intestine"],
+    "correctIndex": 2,
+    "correctText": "Skin",
+    "explanation": "The skin is the largest organ of the body, covering the entire external surface."
+  },
+  {
+    "id": 438,
+    "question": "Which gas is used in electric bulbs to prevent the filament from burning?",
+    "options": ["Oxygen", "Hydrogen", "Argon", "Carbon Dioxide"],
+    "correctIndex": 2,
+    "correctText": "Argon",
+    "explanation": "Argon is an inert gas that prevents the tungsten filament from oxidizing."
+  },
+  {
+    "id": 439,
+    "question": "What is the change of state from gas directly to solid called?",
+    "options": ["Sublimation", "Deposition", "Condensation", "Melting"],
+    "correctIndex": 1,
+    "correctText": "Deposition",
+    "explanation": "Deposition is the reverse of sublimation, where gas turns to solid without becoming liquid."
+  },
+  {
+    "id": 440,
+    "question": "Which deficiency causes Scurvy?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctIndex": 2,
+    "correctText": "Vitamin C",
+    "explanation": "Scurvy is caused by a severe lack of Vitamin C in the diet."
+  },
+  {
+    "id": 441,
+    "question": "Which of these is a conductor of electricity?",
+    "options": ["Rubber", "Wood", "Copper", "Plastic"],
+    "correctIndex": 2,
+    "correctText": "Copper",
+    "explanation": "Metals like copper allow electricity to flow through them easily."
+  },
+  {
+    "id": 442,
+    "question": "What is the frequency of human hearing range?",
+    "options": ["20 Hz to 20,000 Hz", "10 Hz to 10,000 Hz", "50 Hz to 50,000 Hz", "100 Hz to 1,000 Hz"],
     "correctIndex": 0,
-    "correctText": "154 cm²",
-    "explanation": "πr² = (22/7) × 49 = 154 cm²."
+    "correctText": "20 Hz to 20,000 Hz",
+    "explanation": "Humans can generally hear sounds with frequencies between 20 Hertz and 20 kiloHertz."
+  },
+  {
+    "id": 443,
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["A+", "B+", "AB+", "O-"],
+    "correctIndex": 3,
+    "correctText": "O-",
+    "explanation": "O negative blood can be given to patients of any blood type in emergencies."
+  },
+  {
+    "id": 444,
+    "question": "What is the boiling point of Mercury?",
+    "options": ["100°C", "356.7°C", "250°C", "500°C"],
+    "correctIndex": 1,
+    "correctText": "356.7°C",
+    "explanation": "Mercury has a high boiling point compared to many other liquids."
+  },
+  {
+    "id": 445,
+    "question": "Which lens is used to correct Myopia (Nearsightedness)?",
+    "options": ["Convex Lens", "Concave Lens", "Bifocal Lens", "Cylindrical Lens"],
+    "correctIndex": 1,
+    "correctText": "Concave Lens",
+    "explanation": "A concave (diverging) lens helps focus light properly on the retina for nearsighted people."
+  },
+  {
+    "id": 446,
+    "question": "What is the chemical name of Baking Soda?",
+    "options": ["Sodium Carbonate", "Sodium Bicarbonate", "Calcium Carbonate", "Sodium Chloride"],
+    "correctIndex": 1,
+    "correctText": "Sodium Bicarbonate",
+    "explanation": "Baking soda is Sodium Bicarbonate ($NaHCO_3$)."
+  },
+  {
+    "id": 447,
+    "question": "Which planet has the most visible rings?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correctIndex": 1,
+    "correctText": "Saturn",
+    "explanation": "Saturn is famous for its extensive and bright ring system made of ice and rock."
+  },
+  {
+    "id": 448,
+    "question": "What is the function of the ribosome in a cell?",
+    "options": ["Energy Production", "Protein Synthesis", "Waste Disposal", "Store DNA"],
+    "correctIndex": 1,
+    "correctText": "Protein Synthesis",
+    "explanation": "Ribosomes are the sites where proteins are made in the cell."
+  },
+  {
+    "id": 449,
+    "question": "Which hormone controls blood sugar levels?",
+    "options": ["Adrenaline", "Insulin", "Thyroxine", "Estrogen"],
+    "correctIndex": 1,
+    "correctText": "Insulin",
+    "explanation": "Insulin, produced by the pancreas, helps regulate the amount of glucose in the blood."
+  },
+  {
+    "id": 450,
+    "question": "What is the speed of light in a vacuum?",
+    "options": ["300,000 km/s", "150,000 km/s", "1,000,000 km/s", "500,000 km/s"],
+    "correctIndex": 0,
+    "correctText": "300,000 km/s",
+    "explanation": "Light travels at approximately $3 \\times 10^8$ meters per second in a vacuum."
   }
-]                   
+]
