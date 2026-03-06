@@ -2,7 +2,12 @@
   {
     "id": 501,
     "question": "3, 7, 11, 15, ?, 23",
-    "options": ["17", "18", "19", "20"],
+    "options": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
     "correctIndex": 2,
     "correctText": "19",
     "explanation": "Each term increases by 4 (AP with d=4). 15+4=19."
@@ -10,7 +15,12 @@
   {
     "id": 502,
     "question": "5, 11, 17, 23, ?",
-    "options": ["27", "28", "29", "30"],
+    "options": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
     "correctIndex": 2,
     "correctText": "29",
     "explanation": "Common difference is 6. 23+6=29."
@@ -18,7 +28,12 @@
   {
     "id": 503,
     "question": "100, 93, 86, 79, ?",
-    "options": ["70", "71", "72", "73"],
+    "options": [
+      "70",
+      "71",
+      "72",
+      "73"
+    ],
     "correctIndex": 2,
     "correctText": "72",
     "explanation": "Each term decreases by 7. 79-7=72."
@@ -26,7 +41,12 @@
   {
     "id": 504,
     "question": "3, 6, 12, 24, ?",
-    "options": ["36", "42", "48", "54"],
+    "options": [
+      "36",
+      "42",
+      "48",
+      "54"
+    ],
     "correctIndex": 2,
     "correctText": "48",
     "explanation": "Common ratio is 2 (GP). 24×2=48."
@@ -34,7 +54,12 @@
   {
     "id": 505,
     "question": "2, 6, 18, 54, ?",
-    "options": ["108", "144", "162", "180"],
+    "options": [
+      "108",
+      "144",
+      "162",
+      "180"
+    ],
     "correctIndex": 2,
     "correctText": "162",
     "explanation": "Common ratio is 3. 54×3=162."
@@ -42,7 +67,12 @@
   {
     "id": 506,
     "question": "256, 128, 64, 32, ?",
-    "options": ["8", "12", "16", "20"],
+    "options": [
+      "8",
+      "12",
+      "16",
+      "20"
+    ],
     "correctIndex": 2,
     "correctText": "16",
     "explanation": "Each term is halved (r=1/2). 32÷2=16."
@@ -50,7 +80,12 @@
   {
     "id": 507,
     "question": "1, 3, 9, 27, 81, ?",
-    "options": ["162", "243", "324", "486"],
+    "options": [
+      "162",
+      "243",
+      "324",
+      "486"
+    ],
     "correctIndex": 1,
     "correctText": "243",
     "explanation": "GP with ratio 3. 81×3=243."
@@ -58,47 +93,77 @@
   {
     "id": 508,
     "question": "1, 4, 9, 16, 25, ?",
-    "options": ["30", "35", "36", "49"],
+    "options": [
+      "30",
+      "35",
+      "36",
+      "49"
+    ],
     "correctIndex": 2,
     "correctText": "36",
-    "explanation": "Series of perfect squares (n²). 6²=36."
+    "explanation": "Series of perfect squares (n^2). 6^2=36."
   },
   {
     "id": 509,
     "question": "1, 8, 27, 64, ?",
-    "options": ["100", "112", "120", "125"],
+    "options": [
+      "100",
+      "112",
+      "120",
+      "125"
+    ],
     "correctIndex": 3,
     "correctText": "125",
-    "explanation": "Series of perfect cubes (n³). 5³=125."
+    "explanation": "Series of perfect cubes (n^3). 5^3=125."
   },
   {
     "id": 510,
     "question": "4, 9, 16, 25, 36, ?",
-    "options": ["42", "45", "48", "49"],
+    "options": [
+      "42",
+      "45",
+      "48",
+      "49"
+    ],
     "correctIndex": 3,
     "correctText": "49",
-    "explanation": "Squares of 2,3,4,5,6,... → 7²=49."
+    "explanation": "Squares of 2,3,4,5,6,... → 7^2=49."
   },
   {
     "id": 511,
     "question": "2, 5, 10, 17, 26, ?",
-    "options": ["35", "36", "37", "38"],
+    "options": [
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
     "correctIndex": 2,
     "correctText": "37",
-    "explanation": "Pattern: n²+1. For n=6: 36+1=37."
+    "explanation": "Pattern: n^2+1. For n=6: 36+1=37."
   },
   {
     "id": 512,
     "question": "0, 7, 26, 63, ?",
-    "options": ["100", "112", "120", "124"],
+    "options": [
+      "100",
+      "112",
+      "120",
+      "124"
+    ],
     "correctIndex": 3,
     "correctText": "124",
-    "explanation": "Pattern: n³-1. For n=5: 125-1=124."
+    "explanation": "Pattern: n^3-1. For n=5: 125-1=124."
   },
   {
     "id": 513,
     "question": "1, 1, 2, 3, 5, 8, ?",
-    "options": ["11", "12", "13", "14"],
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
     "correctIndex": 2,
     "correctText": "13",
     "explanation": "Fibonacci: each term = sum of two preceding. 5+8=13."
@@ -106,7 +171,12 @@
   {
     "id": 514,
     "question": "2, 2, 4, 6, 10, 16, ?",
-    "options": ["22", "24", "26", "28"],
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28"
+    ],
     "correctIndex": 2,
     "correctText": "26",
     "explanation": "Each term = sum of two before (Lucas-like). 10+16=26."
@@ -114,7 +184,12 @@
   {
     "id": 515,
     "question": "1, 2, 4, 7, 11, 16, ?",
-    "options": ["20", "21", "22", "23"],
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
     "correctIndex": 2,
     "correctText": "22",
     "explanation": "Differences: 1,2,3,4,5,6,... Next diff=6 → 16+6=22."
@@ -122,7 +197,12 @@
   {
     "id": 516,
     "question": "3, 4, 6, 9, 13, 18, ?",
-    "options": ["22", "23", "24", "25"],
+    "options": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
     "correctIndex": 2,
     "correctText": "24",
     "explanation": "Differences increase by 1 each time: 1,2,3,4,5,6 → 18+6=24."
@@ -130,7 +210,12 @@
   {
     "id": 517,
     "question": "2, 3, 5, 9, 17, 33, ?",
-    "options": ["55", "61", "65", "67"],
+    "options": [
+      "55",
+      "61",
+      "65",
+      "67"
+    ],
     "correctIndex": 2,
     "correctText": "65",
     "explanation": "Each term = (previous × 2) − 1. 33×2−1=65."
@@ -138,7 +223,12 @@
   {
     "id": 518,
     "question": "1, 3, 7, 15, 31, ?",
-    "options": ["55", "60", "63", "65"],
+    "options": [
+      "55",
+      "60",
+      "63",
+      "65"
+    ],
     "correctIndex": 2,
     "correctText": "63",
     "explanation": "Each term = previous × 2 + 1. 31×2+1=63."
@@ -146,7 +236,12 @@
   {
     "id": 519,
     "question": "5, 7, 10, 14, 19, ?",
-    "options": ["24", "25", "26", "27"],
+    "options": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
     "correctIndex": 1,
     "correctText": "25",
     "explanation": "Differences: 2,3,4,5,6 → next diff=6 → 19+6=25."
@@ -154,7 +249,12 @@
   {
     "id": 520,
     "question": "2, 6, 12, 20, 30, ?",
-    "options": ["36", "40", "42", "44"],
+    "options": [
+      "36",
+      "40",
+      "42",
+      "44"
+    ],
     "correctIndex": 2,
     "correctText": "42",
     "explanation": "Pattern: n(n+1). For n=6: 6×7=42."
@@ -162,7 +262,12 @@
   {
     "id": 521,
     "question": "1, 2, 4, 8, 16, 32, ?",
-    "options": ["48", "56", "64", "72"],
+    "options": [
+      "48",
+      "56",
+      "64",
+      "72"
+    ],
     "correctIndex": 2,
     "correctText": "64",
     "explanation": "GP with ratio 2. 32×2=64."
@@ -170,7 +275,12 @@
   {
     "id": 522,
     "question": "2, 4, 8, 14, 22, 32, ?",
-    "options": ["42", "44", "46", "48"],
+    "options": [
+      "42",
+      "44",
+      "46",
+      "48"
+    ],
     "correctIndex": 1,
     "correctText": "44",
     "explanation": "Differences: 2,4,6,8,10,12 → 32+12=44."
@@ -178,7 +288,12 @@
   {
     "id": 523,
     "question": "3, 7, 5, 9, 7, 11, 9, ?",
-    "options": ["11", "12", "13", "14"],
+    "options": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
     "correctIndex": 2,
     "correctText": "13",
     "explanation": "Two interleaved APs: odd-position terms 3,5,7,9 (+2); even-position 7,9,11,13 (+2). Next=13."
@@ -186,7 +301,12 @@
   {
     "id": 524,
     "question": "1, 5, 3, 7, 5, 9, 7, ?",
-    "options": ["9", "10", "11", "12"],
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
     "correctIndex": 2,
     "correctText": "11",
     "explanation": "Two interleaved APs: odd positions 1,3,5,7 (+2); even positions 5,7,9,11 (+2). Next=11."
@@ -194,7 +314,12 @@
   {
     "id": 525,
     "question": "1, 2, 6, 24, 120, ?",
-    "options": ["480", "600", "720", "840"],
+    "options": [
+      "480",
+      "600",
+      "720",
+      "840"
+    ],
     "correctIndex": 2,
     "correctText": "720",
     "explanation": "Factorials: 1!,2!,3!,4!,5!,6! → 6!=720."
@@ -202,7 +327,12 @@
   {
     "id": 526,
     "question": "2, 6, 24, 120, ?",
-    "options": ["480", "600", "720", "840"],
+    "options": [
+      "480",
+      "600",
+      "720",
+      "840"
+    ],
     "correctIndex": 2,
     "correctText": "720",
     "explanation": "Each term multiplied by increasing integer: ×3,×4,×5,×6 → 120×6=720."
@@ -210,7 +340,12 @@
   {
     "id": 527,
     "question": "3, 6, 18, 72, ?",
-    "options": ["288", "360", "420", "450"],
+    "options": [
+      "288",
+      "360",
+      "420",
+      "450"
+    ],
     "correctIndex": 1,
     "correctText": "360",
     "explanation": "Multiply by 2,3,4,5,... → 72×5=360."
@@ -218,7 +353,12 @@
   {
     "id": 528,
     "question": "4, 8, 24, 96, ?",
-    "options": ["384", "420", "480", "512"],
+    "options": [
+      "384",
+      "420",
+      "480",
+      "512"
+    ],
     "correctIndex": 2,
     "correctText": "480",
     "explanation": "Multiply by 2,3,4,5,... → 96×5=480."
@@ -226,15 +366,25 @@
   {
     "id": 529,
     "question": "3, 8, 15, 24, 35, ?",
-    "options": ["44", "46", "48", "50"],
+    "options": [
+      "44",
+      "46",
+      "48",
+      "50"
+    ],
     "correctIndex": 2,
     "correctText": "48",
-    "explanation": "Pattern: n²+2n = n(n+2). For n=6: 6×8=48."
+    "explanation": "Pattern: n^2+2n = n(n+2). For n=6: 6×8=48."
   },
   {
     "id": 530,
     "question": "6, 11, 18, 27, 38, ?",
-    "options": ["48", "49", "50", "51"],
+    "options": [
+      "48",
+      "49",
+      "50",
+      "51"
+    ],
     "correctIndex": 3,
     "correctText": "51",
     "explanation": "Differences: 5,7,9,11,13 (increase by 2). 38+13=51."
@@ -242,7 +392,12 @@
   {
     "id": 531,
     "question": "2, 5, 11, 20, 32, ?",
-    "options": ["44", "45", "47", "50"],
+    "options": [
+      "44",
+      "45",
+      "47",
+      "50"
+    ],
     "correctIndex": 2,
     "correctText": "47",
     "explanation": "1st differences: 3,6,9,12,15 (AP with d=3). 32+15=47."
@@ -250,7 +405,12 @@
   {
     "id": 532,
     "question": "1, 3, 8, 16, 27, ?",
-    "options": ["38", "40", "41", "43"],
+    "options": [
+      "38",
+      "40",
+      "41",
+      "43"
+    ],
     "correctIndex": 2,
     "correctText": "41",
     "explanation": "1st differences: 2,5,8,11,14 (AP with d=3). 27+14=41."
@@ -258,15 +418,25 @@
   {
     "id": 533,
     "question": "5, 6, 10, 19, 35, ?",
-    "options": ["55", "58", "60", "64"],
+    "options": [
+      "55",
+      "58",
+      "60",
+      "64"
+    ],
     "correctIndex": 2,
     "correctText": "60",
-    "explanation": "Differences are perfect squares: 1, 4, 9, 16, 25. 35+25=60."
+    "explanation": "Differences are perfect squares: 1^2, 2^2, 3^2, 4^2, 5^2 → i.e. 1,4,9,16,25. Next diff=25, so 35+25=60."
   },
   {
     "id": 534,
     "question": "3, 5, 9, 15, 23, 33, ?",
-    "options": ["42", "43", "44", "45"],
+    "options": [
+      "42",
+      "43",
+      "44",
+      "45"
+    ],
     "correctIndex": 3,
     "correctText": "45",
     "explanation": "Differences: 2,4,6,8,10,12 (even numbers). 33+12=45."
@@ -274,7 +444,12 @@
   {
     "id": 535,
     "question": "2, 3, 5, 7, 11, 13, ?",
-    "options": ["14", "15", "17", "19"],
+    "options": [
+      "14",
+      "15",
+      "17",
+      "19"
+    ],
     "correctIndex": 2,
     "correctText": "17",
     "explanation": "Series of prime numbers: 2,3,5,7,11,13,17,..."
@@ -282,15 +457,25 @@
   {
     "id": 536,
     "question": "6, 11, 21, 36, 56, ?",
-    "options": ["76", "78", "80", "81"],
+    "options": [
+      "76",
+      "78",
+      "80",
+      "81"
+    ],
     "correctIndex": 3,
     "correctText": "81",
-    "explanation": "Differences are multiples of 5: 5, 10, 15, 20, 25. 56+25=81."
+    "explanation": "Differences are multiples of 5: 5, 10, 15, 20, 25. Next difference = 25, so 56 + 25 = 81."
   },
   {
     "id": 537,
     "question": "1, 4, 13, 40, 121, ?",
-    "options": ["320", "340", "360", "364"],
+    "options": [
+      "320",
+      "340",
+      "360",
+      "364"
+    ],
     "correctIndex": 3,
     "correctText": "364",
     "explanation": "Each term = previous × 3 + 1. 121×3+1=364."
@@ -298,7 +483,12 @@
   {
     "id": 538,
     "question": "5, 11, 23, 47, 95, ?",
-    "options": ["180", "185", "191", "200"],
+    "options": [
+      "180",
+      "185",
+      "191",
+      "200"
+    ],
     "correctIndex": 2,
     "correctText": "191",
     "explanation": "Each term = previous × 2 + 1. 95×2+1=191."
@@ -306,7 +496,12 @@
   {
     "id": 539,
     "question": "7, 8, 18, 57, ?",
-    "options": ["200", "220", "228", "232"],
+    "options": [
+      "200",
+      "220",
+      "228",
+      "232"
+    ],
     "correctIndex": 3,
     "correctText": "232",
     "explanation": "Rule: ×1+1, ×2+2, ×3+3, ×4+4. 57×4+4=232."
@@ -314,31 +509,51 @@
   {
     "id": 540,
     "question": "2, 9, 28, 65, 126, ?",
-    "options": ["196", "210", "215", "217"],
+    "options": [
+      "196",
+      "210",
+      "215",
+      "217"
+    ],
     "correctIndex": 3,
     "correctText": "217",
-    "explanation": "Pattern: n³+1. For n=6: 216+1=217."
+    "explanation": "Pattern: n^3+1. For n=6: 216+1=217."
   },
   {
     "id": 541,
     "question": "36, 49, 64, 81, ?",
-    "options": ["90", "95", "99", "100"],
+    "options": [
+      "90",
+      "95",
+      "99",
+      "100"
+    ],
     "correctIndex": 3,
     "correctText": "100",
-    "explanation": "Perfect squares: 6²,7²,8²,9²,10²=100."
+    "explanation": "Perfect squares: 6^2,7^2,8^2,9^2,10^2=100."
   },
   {
     "id": 542,
     "question": "125, 64, 27, 8, ?",
-    "options": ["0", "1", "2", "4"],
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
     "correctIndex": 1,
     "correctText": "1",
-    "explanation": "Cubes in descending order: 5³,4³,3³,2³,1³=1."
+    "explanation": "Cubes in descending order: 5^3,4^3,3^3,2^3,1^3=1."
   },
   {
     "id": 543,
     "question": "8, 14, ?, 32, 44",
-    "options": ["20", "21", "22", "24"],
+    "options": [
+      "20",
+      "21",
+      "22",
+      "24"
+    ],
     "correctIndex": 2,
     "correctText": "22",
     "explanation": "Differences increase by 2: 6,8,10,12. 14+8=22."
@@ -346,7 +561,12 @@
   {
     "id": 544,
     "question": "6, 13, 27, 55, ?",
-    "options": ["101", "109", "111", "115"],
+    "options": [
+      "101",
+      "109",
+      "111",
+      "115"
+    ],
     "correctIndex": 2,
     "correctText": "111",
     "explanation": "Each term = previous × 2 + 1. 55×2+1=111."
@@ -354,7 +574,12 @@
   {
     "id": 545,
     "question": "11, 14, 19, 26, 35, ?",
-    "options": ["44", "45", "46", "48"],
+    "options": [
+      "44",
+      "45",
+      "46",
+      "48"
+    ],
     "correctIndex": 2,
     "correctText": "46",
     "explanation": "Differences are consecutive odd numbers: 3,5,7,9,11. 35+11=46."
@@ -362,15 +587,25 @@
   {
     "id": 546,
     "question": "0, 6, 24, 60, 120, ?",
-    "options": ["180", "200", "210", "240"],
+    "options": [
+      "180",
+      "200",
+      "210",
+      "240"
+    ],
     "correctIndex": 2,
     "correctText": "210",
-    "explanation": "Pattern: n³-n. For n=6: 216-6=210."
+    "explanation": "Pattern: n^3-n = n(n-1)(n+1). For n=6: 216-6=210."
   },
   {
     "id": 547,
     "question": "7, 14, 28, 56, ?",
-    "options": ["96", "100", "108", "112"],
+    "options": [
+      "96",
+      "100",
+      "108",
+      "112"
+    ],
     "correctIndex": 3,
     "correctText": "112",
     "explanation": "GP with ratio 2. 56×2=112."
@@ -378,23 +613,38 @@
   {
     "id": 548,
     "question": "13, 21, 34, 55, 89, ?",
-    "options": ["124", "134", "144", "154"],
+    "options": [
+      "124",
+      "134",
+      "144",
+      "154"
+    ],
     "correctIndex": 2,
     "correctText": "144",
-    "explanation": "Fibonacci pattern: 55+89=144."
+    "explanation": "Each term = sum of two preceding (Fibonacci pattern). 55+89=144."
   },
   {
     "id": 549,
     "question": "1, 5, 14, 30, 55, ?",
-    "options": ["84", "88", "91", "96"],
+    "options": [
+      "84",
+      "88",
+      "91",
+      "96"
+    ],
     "correctIndex": 2,
     "correctText": "91",
-    "explanation": "Sum of squares: 1+4+9+16+25+36=91."
+    "explanation": "Sum of squares: 1^2, 1^2+2^2, ...+6^2 = 1+4+9+16+25+36=91."
   },
   {
     "id": 550,
     "question": "4, 7, 13, 25, 49, ?",
-    "options": ["90", "95", "97", "99"],
+    "options": [
+      "90",
+      "95",
+      "97",
+      "99"
+    ],
     "correctIndex": 2,
     "correctText": "97",
     "explanation": "Each term = previous × 2 − 1. 49×2−1=97."
