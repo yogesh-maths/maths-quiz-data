@@ -1,162 +1,177 @@
 [
   {
-    "id": 301,
-    "question": "What is 25% of 400?",
-    "options": ["100", "75", "125", "150"],
-    "correctIndex": 0,
-    "correctText": "100",
-    "explanation": "25% of 400 = (25/100) × 400 = 100."
+    "id": 201,
+    "question": "What is a polygon with seven sides called?",
+    "options": ["Hexagon", "Heptagon", "Octagon", "Nonagon"],
+    "answer": "Heptagon",
+    "explanation": "A heptagon is a seven-sided polygon. The sum of its interior angles is 900 degrees."
   },
   {
-    "id": 302,
-    "question": "A man buys an item for Rs. 400 and sells it for Rs. 500. Profit %?",
-    "options": ["20%", "25%", "30%", "15%"],
-    "correctIndex": 1,
-    "correctText": "25%",
-    "explanation": "Profit = 100. Profit% = (100/400) × 100 = 25%."
+    "id": 202,
+    "question": "Which mathematician is known as the 'Father of Geometry'?",
+    "options": ["Pythagoras", "Euclid", "Archimedes", "Newton"],
+    "answer": "Euclid",
+    "explanation": "Euclid's 'Elements' is one of the most influential works in the history of mathematics, serving as the main textbook for teaching geometry."
   },
   {
-    "id": 303,
-    "question": "Average of 10, 20, 30 is?",
-    "options": ["20", "25", "15", "60"],
-    "correctIndex": 0,
-    "correctText": "20",
-    "explanation": "(10 + 20 + 30) / 3 = 20."
+    "id": 203,
+    "question": "What do you call an angle that is greater than 90° but less than 180°?",
+    "options": ["Acute", "Right", "Obtuse", "Reflex"],
+    "answer": "Obtuse",
+    "explanation": "An obtuse angle is wider than a right angle but smaller than a straight line."
   },
   {
-    "id": 304,
-    "question": "Simplify: 2 + 3 × 4 - 1?",
-    "options": ["15", "13", "9", "20"],
-    "correctIndex": 1,
-    "correctText": "13",
-    "explanation": "Using BODMAS: 2 + 12 - 1 = 13."
+    "id": 204,
+    "question": "What is the only even prime number?",
+    "options": ["0", "2", "4", "6"],
+    "answer": "2",
+    "explanation": "2 is the smallest prime number and the only one that is even; all other even numbers are divisible by 2."
   },
   {
-    "id": 305,
-    "question": "LCM of 12, 18, 24?",
-    "options": ["72", "36", "48", "24"],
-    "correctIndex": 0,
-    "correctText": "72",
-    "explanation": "LCM(12, 18, 24) = 72."
+    "id": 205,
+    "question": "What is the name for a triangle that has all three sides of different lengths?",
+    "options": ["Equilateral", "Isosceles", "Scalene", "Right"],
+    "answer": "Scalene",
+    "explanation": "In a scalene triangle, all three sides have different lengths and all three interior angles are different."
   },
   {
-    "id": 306,
-    "question": "A train 100 m long at 36 km/h crosses a pole in?",
-    "options": ["10 sec", "5 sec", "20 sec", "15 sec"],
-    "correctIndex": 0,
-    "correctText": "10 sec",
-    "explanation": "36 km/h = 10 m/s. Time = 100 / 10 = 10 sec."
+    "id": 206,
+    "question": "Which property states that $a + b = b + a$?",
+    "options": ["Associative", "Distributive", "Commutative", "Identity"],
+    "answer": "Commutative",
+    "explanation": "The Commutative Property states that the order of the numbers does not change the sum or product."
   },
   {
-    "id": 307,
-    "question": "Simple Interest on Rs. 1000 at 5% for 2 years?",
-    "options": ["Rs.100", "Rs.200", "Rs.50", "Rs.150"],
-    "correctIndex": 0,
-    "correctText": "Rs.100",
-    "explanation": "SI = (1000 × 5 × 2) / 100 = 100."
+    "id": 207,
+    "question": "What is the term for a number that cannot be expressed as a simple fraction?",
+    "options": ["Rational", "Irrational", "Integer", "Natural"],
+    "answer": "Irrational",
+    "explanation": "Irrational numbers, like $\\pi$ or $\\sqrt{2}$, have decimal expansions that neither terminate nor repeat."
   },
   {
-    "id": 308,
-    "question": "Ratio 2:3, sum 50. Larger part?",
-    "options": ["30", "20", "25", "35"],
-    "correctIndex": 0,
-    "correctText": "30",
-    "explanation": "Total parts = 5. Larger part = (3/5) × 50 = 30."
+    "id": 208,
+    "question": "The Pythagorean theorem can only be applied to which type of triangle?",
+    "options": ["Acute", "Obtuse", "Right-angled", "Equilateral"],
+    "answer": "Right-angled",
+    "explanation": "The theorem states that $a^2 + b^2 = c^2$, where $c$ is the hypotenuse of a right triangle."
   },
   {
-    "id": 309,
-    "question": "Number × 3 + 5 = 20. Number?",
-    "options": ["5", "4", "6", "7"],
-    "correctIndex": 0,
-    "correctText": "5",
-    "explanation": "3x + 5 = 20 → 3x = 15 → x = 5."
+    "id": 209,
+    "question": "What is the sum of the interior angles of a quadrilateral?",
+    "options": ["180°", "270°", "360°", "540°"],
+    "answer": "360°",
+    "explanation": "Any quadrilateral can be divided into two triangles, each having a sum of 180°, totaling 360°."
   },
   {
-    "id": 310,
-    "question": "20% discount on Rs. 500. Sale price?",
-    "options": ["Rs.400", "Rs.450", "Rs.600", "Rs.300"],
-    "correctIndex": 0,
-    "correctText": "Rs.400",
-    "explanation": "Discount = 100. Sale price = 500 − 100 = 400."
+    "id": 210,
+    "question": "What do you call a line that touches a circle at exactly one point?",
+    "options": ["Chord", "Secant", "Tangent", "Diameter"],
+    "answer": "Tangent",
+    "explanation": "A tangent line is perpendicular to the radius of the circle at the point of contact."
   },
   {
-    "id": 311,
-    "question": "A:B = 3:2, B = 20. A = ?",
-    "options": ["30", "25", "35", "40"],
-    "correctIndex": 0,
-    "correctText": "30",
-    "explanation": "A = (3/2) × 20 = 30."
+    "id": 211,
+    "question": "What is the reciprocal of a number?",
+    "options": ["Its negative", "Its square root", "1 divided by the number", "The number itself"],
+    "answer": "1 divided by the number",
+    "explanation": "The product of a number and its reciprocal is always 1."
   },
   {
-    "id": 312,
-    "question": "HCF of 18, 24?",
-    "options": ["6", "3", "9", "12"],
-    "correctIndex": 0,
-    "correctText": "6",
-    "explanation": "HCF(18, 24) = 6."
+    "id": 212,
+    "question": "Who developed the coordinate system (Cartesian plane)?",
+    "options": ["Blaise Pascal", "René Descartes", "Leonhard Euler", "Gottfried Leibniz"],
+    "answer": "René Descartes",
+    "explanation": "The Cartesian plane allows geometric shapes to be described by algebraic equations."
   },
   {
-    "id": 313,
-    "question": "Speed 60 km/h = ? m/s",
-    "options": ["16.67", "20", "15", "18"],
-    "correctIndex": 0,
-    "correctText": "16.67",
-    "explanation": "(60 × 5) / 18 = 16.67 m/s."
+    "id": 213,
+    "question": "What is a 'Prime Number'?",
+    "options": ["A number divisible by 2", "A number with only two factors", "A number ending in 1, 3, or 7", "A number greater than 10"],
+    "answer": "A number with only two factors",
+    "explanation": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself."
   },
   {
-    "id": 314,
-    "question": "Profit 20% on CP Rs. 250. SP?",
-    "options": ["Rs.300", "Rs.200", "Rs.270", "Rs.320"],
-    "correctIndex": 0,
-    "correctText": "Rs.300",
-    "explanation": "Profit = 50. SP = 250 + 50 = 300."
+    "id": 214,
+    "question": "What is the name for a 10-sided polygon?",
+    "options": ["Decagon", "Octagon", "Dodecagon", "Hexagon"],
+    "answer": "Decagon",
+    "explanation": "A decagon has 10 sides and 10 vertices."
   },
   {
-    "id": 315,
-    "question": "1/4 + 1/2 + 1/5 = ?",
-    "options": ["19/20", "1", "1/2", "3/4"],
-    "correctIndex": 0,
-    "correctText": "19/20",
-    "explanation": "LCM = 20 → (5 + 10 + 4) / 20 = 19/20."
+    "id": 215,
+    "question": "Which branch of mathematics deals with the relationship between sides and angles of triangles?",
+    "options": ["Algebra", "Calculus", "Trigonometry", "Statistics"],
+    "answer": "Trigonometry",
+    "explanation": "Trigonometry is essential in fields like architecture, engineering, and physics."
   },
   {
-    "id": 316,
-    "question": "If 20% of A = 30% of B, then A:B = ?",
-    "options": ["3:2", "2:3", "5:3", "3:5"],
-    "correctIndex": 0,
-    "correctText": "3:2",
-    "explanation": "0.2A = 0.3B → A/B = 3/2."
-  },
- {
-  "id": 317,
-  "question": "A can complete a work in 12 days and B can complete it in 18 days. In how many days will they finish the work together?",
-  "options": ["6 days", "7.2 days", "8 days", "9 days"],
-  "correctIndex": 1,
-  "correctText": "7.2 days",
-  "explanation": "A's 1-day work = 1/12, B's 1-day work = 1/18. Together = (1/12 + 1/18) = (3+2)/36 = 5/36. Total time = 36/5 = 7.2 days."
-},
-  {
-    "id": 318,
-    "question": "Successive 10%, 20% increase on 100. Final value?",
-    "options": ["120", "132", "130", "110"],
-    "correctIndex": 1,
-    "correctText": "132",
-    "explanation": "100 × 1.1 × 1.2 = 132."
+    "id": 216,
+    "question": "What is the identity element for multiplication?",
+    "options": ["0", "1", "-1", "Infinity"],
+    "answer": "1",
+    "explanation": "Any number multiplied by 1 remains unchanged."
   },
   {
-    "id": 319,
-    "question": "Two numbers' sum = 15, product = 56. Smaller number?",
-    "options": ["4", "7", "8", "11"],
-    "correctIndex": 1,
-    "correctText": "7",
-    "explanation": "x² − 15x + 56 = 0 → roots are 7 and 8."
+    "id": 217,
+    "question": "What do you call the set of all possible output values of a function?",
+    "options": ["Domain", "Range", "Interval", "Variable"],
+    "answer": "Range",
+    "explanation": "While the 'Domain' is the set of inputs, the 'Range' is the resulting set of outputs."
   },
   {
-    "id": 320,
-    "question": "Area of circle, radius 7 cm (π = 22/7)?",
-    "options": ["154 cm²", "144 cm²", "150 cm²", "160 cm²"],
-    "correctIndex": 0,
-    "correctText": "154 cm²",
-    "explanation": "πr² = (22/7) × 49 = 154 cm²."
+    "id": 218,
+    "question": "What is the Golden Ratio approximately equal to?",
+    "options": ["1.414", "1.618", "2.718", "3.141"],
+    "answer": "1.618",
+    "explanation": "The Golden Ratio (phi) is often found in nature, art, and architecture."
+  },
+  {
+    "id": 219,
+    "question": "What is a 'Null Set'?",
+    "options": ["A set containing zero", "An empty set", "A set with infinite elements", "A negative set"],
+    "answer": "An empty set",
+    "explanation": "A null set is a set that contains no elements, represented by the symbol $\\emptyset$."
+  },
+  {
+    "id": 220,
+    "question": "How many degrees are in a full circle?",
+    "options": ["90°", "180°", "270°", "360°"],
+    "answer": "360°",
+    "explanation": "The 360-degree system is thought to originate from ancient Babylonian calendars."
+  },
+  {
+    "id": 221,
+    "question": "What is the term for two lines that never intersect and are always the same distance apart?",
+    "options": ["Perpendicular", "Parallel", "Intersecting", "Coincident"],
+    "answer": "Parallel",
+    "explanation": "Parallel lines have the same slope but different y-intercepts."
+  },
+  {
+    "id": 222,
+    "question": "In probability, what is the value of an event that is certain to happen?",
+    "options": ["0", "0.5", "1", "100"],
+    "answer": "1",
+    "explanation": "Probability values range from 0 (impossible) to 1 (certain)."
+  },
+  {
+    "id": 223,
+    "question": "What is the 'mode' in a set of data?",
+    "options": ["The average value", "The middle value", "The most frequent value", "The highest value"],
+    "answer": "The most frequent value",
+    "explanation": "A data set can have one mode, more than one mode (multimodal), or no mode at all."
+  },
+  {
+    "id": 224,
+    "question": "What is the value of $5!$ (5 factorial)?",
+    "options": ["15", "25", "120", "500"],
+    "answer": "120",
+    "explanation": "Factorial is the product of all positive integers up to that number ($5 \\times 4 \\times 3 \\times 2 \\times 1 = 120$)."
+  },
+  {
+    "id": 225,
+    "question": "What is a 'Monomial'?",
+    "options": ["An expression with one term", "An expression with two terms", "An expression with three terms", "An expression with no variables"],
+    "answer": "An expression with one term",
+    "explanation": "Examples of monomials include $3x$, $5$, or $4xy^2$."
   }
-]                   
+]
