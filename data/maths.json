@@ -1,177 +1,152 @@
 [
   {
-    "id": 201,
-    "question": "What is a polygon with seven sides called?",
-    "options": ["Hexagon", "Heptagon", "Octagon", "Nonagon"],
-    "answer": "Heptagon",
-    "explanation": "A heptagon is a seven-sided polygon. The sum of its interior angles is 900 degrees."
+    "question": "What is the name of a chord that passes through the center of a circle?",
+    "options": ["Radius", "Secant", "Diameter", "Tangent"],
+    "correctIndex": 2,
+    "explanation": "The diameter is the longest possible chord in a circle and is exactly twice the length of the radius."
   },
   {
-    "id": 202,
-    "question": "Which mathematician is known as the 'Father of Geometry'?",
-    "options": ["Pythagoras", "Euclid", "Archimedes", "Newton"],
-    "answer": "Euclid",
-    "explanation": "Euclid's 'Elements' is one of the most influential works in the history of mathematics, serving as the main textbook for teaching geometry."
+    "question": "Which mathematical constant represents the base of natural logarithms?",
+    "options": ["pi", "e", "phi", "i"],
+    "correctIndex": 1,
+    "explanation": "Known as Euler's number, 'e' is approximately 2.71828."
   },
   {
-    "id": 203,
-    "question": "What do you call an angle that is greater than 90° but less than 180°?",
-    "options": ["Acute", "Right", "Obtuse", "Reflex"],
-    "answer": "Obtuse",
-    "explanation": "An obtuse angle is wider than a right angle but smaller than a straight line."
+    "question": "What is a 'Proper Fraction'?",
+    "options": ["Numerator is greater than denominator", "Numerator is equal to denominator", "Numerator is less than denominator", "Denominator is zero"],
+    "correctIndex": 2,
+    "explanation": "A proper fraction always has a value less than 1."
   },
   {
-    "id": 204,
-    "question": "What is the only even prime number?",
-    "options": ["0", "2", "4", "6"],
-    "answer": "2",
-    "explanation": "2 is the smallest prime number and the only one that is even; all other even numbers are divisible by 2."
+    "question": "What is the sum of the exterior angles of any convex polygon?",
+    "options": ["180°", "270°", "360°", "Depends on number of sides"],
+    "correctIndex": 2,
+    "explanation": "The exterior angles of any convex polygon always sum to 360°."
   },
   {
-    "id": 205,
-    "question": "What is the name for a triangle that has all three sides of different lengths?",
-    "options": ["Equilateral", "Isosceles", "Scalene", "Right"],
-    "answer": "Scalene",
-    "explanation": "In a scalene triangle, all three sides have different lengths and all three interior angles are different."
+    "question": "What do you call two angles that add up to exactly 90°?",
+    "options": ["Supplementary", "Complementary", "Adjacent", "Vertical"],
+    "correctIndex": 1,
+    "explanation": "Angles that sum to 90° are complementary."
   },
   {
-    "id": 206,
-    "question": "Which property states that $a + b = b + a$?",
-    "options": ["Associative", "Distributive", "Commutative", "Identity"],
-    "answer": "Commutative",
-    "explanation": "The Commutative Property states that the order of the numbers does not change the sum or product."
+    "question": "Which term describes a number that has more than two factors?",
+    "options": ["Prime Number", "Composite Number", "Odd Number", "Even Number"],
+    "correctIndex": 1,
+    "explanation": "A composite number has more than two factors."
   },
   {
-    "id": 207,
-    "question": "What is the term for a number that cannot be expressed as a simple fraction?",
-    "options": ["Rational", "Irrational", "Integer", "Natural"],
-    "answer": "Irrational",
-    "explanation": "Irrational numbers, like $\\pi$ or $\\sqrt{2}$, have decimal expansions that neither terminate nor repeat."
+    "question": "In a right-angled triangle, what is the side opposite to the 90° angle called?",
+    "options": ["Adjacent", "Opposite", "Hypotenuse", "Base"],
+    "correctIndex": 2,
+    "explanation": "The hypotenuse is the longest side of a right triangle."
   },
   {
-    "id": 208,
-    "question": "The Pythagorean theorem can only be applied to which type of triangle?",
-    "options": ["Acute", "Obtuse", "Right-angled", "Equilateral"],
-    "answer": "Right-angled",
-    "explanation": "The theorem states that $a^2 + b^2 = c^2$, where $c$ is the hypotenuse of a right triangle."
+    "question": "What is an 'Integer'?",
+    "options": ["Only positive numbers", "Only negative numbers", "Whole numbers and their negatives", "Fractions and decimals"],
+    "correctIndex": 2,
+    "explanation": "Integers include negative numbers, zero, and positive numbers."
   },
   {
-    "id": 209,
-    "question": "What is the sum of the interior angles of a quadrilateral?",
-    "options": ["180°", "270°", "360°", "540°"],
-    "answer": "360°",
-    "explanation": "Any quadrilateral can be divided into two triangles, each having a sum of 180°, totaling 360°."
+    "question": "What is the value of any non-zero number raised to the power of 0?",
+    "options": ["0", "1", "The number itself", "Infinity"],
+    "correctIndex": 1,
+    "explanation": "Any non-zero number raised to the power of 0 equals 1."
   },
   {
-    "id": 210,
-    "question": "What do you call a line that touches a circle at exactly one point?",
-    "options": ["Chord", "Secant", "Tangent", "Diameter"],
-    "answer": "Tangent",
-    "explanation": "A tangent line is perpendicular to the radius of the circle at the point of contact."
+    "question": "What is the 'Arithmetic Mean'?",
+    "options": ["The middle value", "The most frequent value", "The average of the numbers", "The difference between highest and lowest"],
+    "correctIndex": 2,
+    "explanation": "Mean is calculated by dividing the sum of values by the number of values."
   },
   {
-    "id": 211,
-    "question": "What is the reciprocal of a number?",
-    "options": ["Its negative", "Its square root", "1 divided by the number", "The number itself"],
-    "answer": "1 divided by the number",
-    "explanation": "The product of a number and its reciprocal is always 1."
+    "question": "What is a 'Polyhedron'?",
+    "options": ["A 2D shape with straight sides", "A 3D solid with flat faces", "A circle-based 3D object", "A shape with curved edges"],
+    "correctIndex": 1,
+    "explanation": "Polyhedra are 3D solids with flat polygon faces."
   },
   {
-    "id": 212,
-    "question": "Who developed the coordinate system (Cartesian plane)?",
-    "options": ["Blaise Pascal", "René Descartes", "Leonhard Euler", "Gottfried Leibniz"],
-    "answer": "René Descartes",
-    "explanation": "The Cartesian plane allows geometric shapes to be described by algebraic equations."
+    "question": "Which property states that a(b + c) = ab + ac?",
+    "options": ["Associative", "Commutative", "Distributive", "Identity"],
+    "correctIndex": 2,
+    "explanation": "The distributive property distributes multiplication over addition."
   },
   {
-    "id": 213,
-    "question": "What is a 'Prime Number'?",
-    "options": ["A number divisible by 2", "A number with only two factors", "A number ending in 1, 3, or 7", "A number greater than 10"],
-    "answer": "A number with only two factors",
-    "explanation": "A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself."
+    "question": "What is a 'Quadratic Equation'?",
+    "options": ["An equation with degree 1", "An equation with degree 2", "An equation with degree 3", "An equation with no variables"],
+    "correctIndex": 1,
+    "explanation": "A quadratic equation has degree 2."
   },
   {
-    "id": 214,
-    "question": "What is the name for a 10-sided polygon?",
-    "options": ["Decagon", "Octagon", "Dodecagon", "Hexagon"],
-    "answer": "Decagon",
-    "explanation": "A decagon has 10 sides and 10 vertices."
+    "question": "What is the name for a line segment connecting two points on a circle?",
+    "options": ["Radius", "Tangent", "Chord", "Arc"],
+    "correctIndex": 2,
+    "explanation": "A chord connects two points on the circumference."
   },
   {
-    "id": 215,
-    "question": "Which branch of mathematics deals with the relationship between sides and angles of triangles?",
-    "options": ["Algebra", "Calculus", "Trigonometry", "Statistics"],
-    "answer": "Trigonometry",
-    "explanation": "Trigonometry is essential in fields like architecture, engineering, and physics."
+    "question": "What is the 'Median' of a data set?",
+    "options": ["The average", "The middle value when ordered", "The sum of all values", "The range"],
+    "correctIndex": 1,
+    "explanation": "Median is the middle value when data is ordered."
   },
   {
-    "id": 216,
-    "question": "What is the identity element for multiplication?",
-    "options": ["0", "1", "-1", "Infinity"],
-    "answer": "1",
-    "explanation": "Any number multiplied by 1 remains unchanged."
+    "question": "What is the term for a polygon with 12 sides?",
+    "options": ["Decagon", "Undecagon", "Dodecagon", "Icosagon"],
+    "correctIndex": 2,
+    "explanation": "A dodecagon has 12 sides."
   },
   {
-    "id": 217,
-    "question": "What do you call the set of all possible output values of a function?",
-    "options": ["Domain", "Range", "Interval", "Variable"],
-    "answer": "Range",
-    "explanation": "While the 'Domain' is the set of inputs, the 'Range' is the resulting set of outputs."
+    "question": "What is an 'Identity' in algebra?",
+    "options": ["An equation that is true for all values of the variable", "An equation with no solution", "An equation with one specific solution", "A variable with no value"],
+    "correctIndex": 0,
+    "explanation": "An identity is true for every value of the variable."
   },
   {
-    "id": 218,
-    "question": "What is the Golden Ratio approximately equal to?",
-    "options": ["1.414", "1.618", "2.718", "3.141"],
-    "answer": "1.618",
-    "explanation": "The Golden Ratio (phi) is often found in nature, art, and architecture."
+    "question": "Which type of number is represented by 'i'?",
+    "options": ["Irrational", "Integer", "Imaginary", "Inverse"],
+    "correctIndex": 2,
+    "explanation": "The imaginary unit i satisfies i² = -1."
   },
   {
-    "id": 219,
-    "question": "What is a 'Null Set'?",
-    "options": ["A set containing zero", "An empty set", "A set with infinite elements", "A negative set"],
-    "answer": "An empty set",
-    "explanation": "A null set is a set that contains no elements, represented by the symbol $\\emptyset$."
+    "question": "What is the 'Slope' of a vertical line?",
+    "options": ["0", "1", "Undefined", "-1"],
+    "correctIndex": 2,
+    "explanation": "Vertical lines have undefined slope."
   },
   {
-    "id": 220,
-    "question": "How many degrees are in a full circle?",
-    "options": ["90°", "180°", "270°", "360°"],
-    "answer": "360°",
-    "explanation": "The 360-degree system is thought to originate from ancient Babylonian calendars."
+    "question": "What is a 'Bivariate' data set?",
+    "options": ["Data with one variable", "Data with two variables", "Data with three variables", "Data with no variables"],
+    "correctIndex": 1,
+    "explanation": "Bivariate data involves two variables."
   },
   {
-    "id": 221,
-    "question": "What is the term for two lines that never intersect and are always the same distance apart?",
-    "options": ["Perpendicular", "Parallel", "Intersecting", "Coincident"],
-    "answer": "Parallel",
-    "explanation": "Parallel lines have the same slope but different y-intercepts."
+    "question": "Which mathematician created the Sieve method for prime numbers?",
+    "options": ["Archimedes", "Eratosthenes", "Pythagoras", "Thales"],
+    "correctIndex": 1,
+    "explanation": "The Sieve of Eratosthenes finds prime numbers efficiently."
   },
   {
-    "id": 222,
-    "question": "In probability, what is the value of an event that is certain to happen?",
-    "options": ["0", "0.5", "1", "100"],
-    "answer": "1",
-    "explanation": "Probability values range from 0 (impossible) to 1 (certain)."
+    "question": "What is a 'Regular Polygon'?",
+    "options": ["A polygon with at least one right angle", "A polygon where all sides and angles are equal", "A polygon with 4 sides", "A polygon that is not a circle"],
+    "correctIndex": 1,
+    "explanation": "All sides and angles are equal in a regular polygon."
   },
   {
-    "id": 223,
-    "question": "What is the 'mode' in a set of data?",
-    "options": ["The average value", "The middle value", "The most frequent value", "The highest value"],
-    "answer": "The most frequent value",
-    "explanation": "A data set can have one mode, more than one mode (multimodal), or no mode at all."
+    "question": "What is the 'Range' in statistics?",
+    "options": ["The middle value", "The most common value", "The difference between the maximum and minimum values", "The average"],
+    "correctIndex": 2,
+    "explanation": "Range = maximum − minimum."
   },
   {
-    "id": 224,
-    "question": "What is the value of $5!$ (5 factorial)?",
-    "options": ["15", "25", "120", "500"],
-    "answer": "120",
-    "explanation": "Factorial is the product of all positive integers up to that number ($5 \\times 4 \\times 3 \\times 2 \\times 1 = 120$)."
+    "question": "What is a 'Tessellation'?",
+    "options": ["A type of long division", "A pattern of shapes fitting together with no gaps or overlaps", "The process of solving for x", "A complex geometric proof"],
+    "correctIndex": 1,
+    "explanation": "Tessellations cover a plane without gaps."
   },
   {
-    "id": 225,
-    "question": "What is a 'Monomial'?",
-    "options": ["An expression with one term", "An expression with two terms", "An expression with three terms", "An expression with no variables"],
-    "answer": "An expression with one term",
-    "explanation": "Examples of monomials include $3x$, $5$, or $4xy^2$."
+    "question": "What is the 'Apex' of a pyramid?",
+    "options": ["The base", "The surface area", "The top vertex where the triangular faces meet", "The volume"],
+    "correctIndex": 2,
+    "explanation": "The apex is the top point of a pyramid."
   }
 ]
