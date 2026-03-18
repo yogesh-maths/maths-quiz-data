@@ -1,202 +1,162 @@
 [
   {
-    "id": 401,
-    "question": "What is the capital city of France?",
-    "options": ["Berlin", "Madrid", "Paris", "Rome"],
-    "correctIndex": 2,
-    "correctText": "Paris",
-    "explanation": "Paris is the most populous city of France and has been a major European center of finance, diplomacy, and fashion since the 17th century."
-  },
-  {
-    "id": 402,
-    "question": "Which city serves as the capital of Japan?",
-    "options": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+    "question": "Which of the following is NOT a natural number?",
+    "options": ["1", "0", "25", "100"],
     "correctIndex": 1,
-    "correctText": "Tokyo",
-    "explanation": "Tokyo is the political and economic center of Japan, as well as the seat of the Emperor of Japan and the national government."
+    "explanation": "Natural numbers start from 1 (1, 2, 3, ...). Zero belongs to whole numbers but not natural numbers."
   },
   {
-    "id": 403,
-    "question": "What is the capital of Australia?",
-    "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+    "question": "What is the place value of 6 in 46,813?",
+    "options": ["6", "60", "600", "6000"],
+    "correctIndex": 3,
+    "explanation": "In 46,813, the digit 6 is in the thousands place, so its place value is 6000."
+  },
+  {
+    "question": "Which set of numbers includes all negative numbers, zero, and positive whole numbers?",
+    "options": ["Natural numbers", "Whole numbers", "Integers", "Rational numbers"],
     "correctIndex": 2,
-    "correctText": "Canberra",
-    "explanation": "Canberra was chosen as the capital in 1908 as a compromise between rivals Sydney and Melbourne."
+    "explanation": "Integers include ..., -3, -2, -1, 0, 1, 2, 3, ... covering all negative numbers, zero, and positive whole numbers."
   },
   {
-    "id": 404,
-    "question": "Ottawa is the capital city of which country?",
-    "options": ["USA", "Canada", "United Kingdom", "Norway"],
+    "question": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "correctIndex": 2,
+    "explanation": "2 is the smallest and only even prime number. 0 and 1 are neither prime nor composite."
+  },
+  {
+    "question": "What is the LCM of 8 and 12?",
+    "options": ["4", "24", "48", "96"],
     "correctIndex": 1,
-    "correctText": "Canada",
-    "explanation": "Ottawa is located in the province of Ontario and is the fourth-largest city in Canada."
+    "explanation": "LCM(8, 12) = 24. It is the smallest number divisible by both 8 and 12."
   },
   {
-    "id": 405,
-    "question": "What is the capital of Brazil?",
-    "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "question": "The HCF of 36 and 48 is:",
+    "options": ["6", "9", "12", "18"],
     "correctIndex": 2,
-    "correctText": "Brasília",
-    "explanation": "Brasília is a planned city that was inaugurated as the capital in 1960 to encourage development in the interior of Brazil."
+    "explanation": "Factors of 36: 1,2,3,4,6,9,12,18,36. Factors of 48: 1,2,3,4,6,8,12,16,24,48. The highest common factor is 12."
   },
   {
-    "id": 406,
-    "question": "Which city is the capital of Egypt?",
-    "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+    "question": "Which of the following is a composite number?",
+    "options": ["2", "7", "11", "15"],
+    "correctIndex": 3,
+    "explanation": "15 = 3 × 5. It has factors other than 1 and itself, making it composite."
+  },
+  {
+    "question": "What is the face value of 9 in 59,302?",
+    "options": ["9", "90", "900", "9000"],
     "correctIndex": 0,
-    "correctText": "Cairo",
-    "explanation": "Cairo is the largest city in the Arab world and is located near the Nile Delta."
+    "explanation": "Face value is the digit itself regardless of its position. The face value of 9 is always 9."
   },
   {
-    "id": 407,
-    "question": "What is the capital of Italy?",
-    "options": ["Venice", "Florence", "Naples", "Rome"],
+    "question": "A number divisible by both 2 and 3 is also divisible by:",
+    "options": ["4", "5", "6", "9"],
+    "correctIndex": 2,
+    "explanation": "Since 6 = 2 × 3, any number divisible by both 2 and 3 must be divisible by 6."
+  },
+  {
+    "question": "How many prime numbers exist between 1 and 30?",
+    "options": ["8", "9", "10", "11"],
+    "correctIndex": 2,
+    "explanation": "Primes between 1 and 30: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 — exactly 10 primes."
+  },
+  {
+    "question": "What is the value of 5³?",
+    "options": ["15", "25", "125", "625"],
+    "correctIndex": 2,
+    "explanation": "5³ = 5 × 5 × 5 = 125."
+  },
+  {
+    "question": "Which of the following is a perfect square?",
+    "options": ["18", "32", "50", "81"],
     "correctIndex": 3,
-    "correctText": "Rome",
-    "explanation": "Rome is often referred to as the 'Eternal City' and has a history spanning over 2,500 years."
+    "explanation": "81 = 9². It is a perfect square because it equals an integer multiplied by itself."
   },
   {
-    "id": 408,
-    "question": "What is the capital of Germany?",
-    "options": ["Munich", "Frankfurt", "Berlin", "Hamburg"],
+    "question": "What is √225?",
+    "options": ["13", "14", "15", "16"],
     "correctIndex": 2,
-    "correctText": "Berlin",
-    "explanation": "Berlin became the capital of a reunified Germany in 1990 following the fall of the Berlin Wall."
+    "explanation": "15 × 15 = 225, so √225 = 15."
   },
   {
-    "id": 409,
-    "question": "Which city is the capital of India?",
-    "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+    "question": "The predecessor of −10 is:",
+    "options": ["−9", "−11", "9", "11"],
     "correctIndex": 1,
-    "correctText": "New Delhi",
-    "explanation": "New Delhi was inaugurated as the capital of India in 1931, replacing Calcutta (now Kolkata)."
+    "explanation": "Predecessor = n − 1. Predecessor of −10 is −10 − 1 = −11."
   },
   {
-    "id": 410,
-    "question": "What is the capital of Russia?",
-    "options": ["Saint Petersburg", "Moscow", "Novosibirsk", "Ekaterinburg"],
-    "correctIndex": 1,
-    "correctText": "Moscow",
-    "explanation": "Moscow is the northernmost and coldest megacity on Earth and is the cultural and political heart of Russia."
-  },
-  {
-    "id": 411,
-    "question": "Beijing is the capital of which country?",
-    "options": ["Japan", "Vietnam", "China", "Thailand"],
-    "correctIndex": 2,
-    "correctText": "China",
-    "explanation": "Beijing is one of the oldest cities in the world and has been the political center of China for most of the past eight centuries."
-  },
-  {
-    "id": 412,
-    "question": "What is the capital of South Africa?",
-    "options": ["Johannesburg", "Durban", "Pretoria", "Nairobi"],
-    "correctIndex": 2,
-    "correctText": "Pretoria",
-    "explanation": "South Africa has three capitals: Pretoria (Executive), Cape Town (Legislative), and Bloemfontein (Judicial)."
-  },
-  {
-    "id": 413,
-    "question": "What is the capital of Argentina?",
-    "options": ["Santiago", "Lima", "Buenos Aires", "Bogotá"],
-    "correctIndex": 2,
-    "correctText": "Buenos Aires",
-    "explanation": "Buenos Aires is located on the western shore of the estuary of the Río de la Plata."
-  },
-  {
-    "id": 414,
-    "question": "What is the capital of Mexico?",
-    "options": ["Cancún", "Mexico City", "Guadalajara", "Monterrey"],
-    "correctIndex": 1,
-    "correctText": "Mexico City",
-    "explanation": "Mexico City was built by the Spanish on the ruins of Tenochtitlan, the capital of the Aztec Empire."
-  },
-  {
-    "id": 415,
-    "question": "Madrid is the capital of which European country?",
-    "options": ["Portugal", "Spain", "Greece", "Italy"],
-    "correctIndex": 1,
-    "correctText": "Spain",
-    "explanation": "Madrid is the largest city in Spain and is the seat of the Spanish government and the Spanish monarch."
-  },
-  {
-    "id": 416,
-    "question": "What is the capital of the United Kingdom?",
-    "options": ["Edinburgh", "Belfast", "London", "Manchester"],
-    "correctIndex": 2,
-    "correctText": "London",
-    "explanation": "London is a global city and is the largest metropolitan area in the United Kingdom."
-  },
-  {
-    "id": 417,
-    "question": "What is the capital of South Korea?",
-    "options": ["Busan", "Incheon", "Seoul", "Daegu"],
-    "correctIndex": 2,
-    "correctText": "Seoul",
-    "explanation": "Seoul is a huge metropolis where modern skyscrapers and high-tech subways meet Buddhist temples and palaces."
-  },
-  {
-    "id": 418,
-    "question": "Which city is the capital of Thailand?",
-    "options": ["Phuket", "Bangkok", "Chiang Mai", "Pattaya"],
-    "correctIndex": 1,
-    "correctText": "Bangkok",
-    "explanation": "Bangkok is known in Thai as 'Krung Thep Maha Nakhon' and is famous for its vibrant street life and ornate shrines."
-  },
-  {
-    "id": 419,
-    "question": "What is the capital of Greece?",
-    "options": ["Thessaloniki", "Athens", "Patras", "Heraklion"],
-    "correctIndex": 1,
-    "correctText": "Athens",
-    "explanation": "Athens is one of the world's oldest cities and is often referred to as the 'Cradle of Western Civilization'."
-  },
-  {
-    "id": 420,
-    "question": "What is the capital of Turkey?",
-    "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
-    "correctIndex": 1,
-    "correctText": "Ankara",
-    "explanation": "While Istanbul is the largest city, Ankara replaced it as the capital in 1923 after the Turkish War of Independence."
-  },
-  {
-    "id": 421,
-    "question": "Lisbon is the capital of which country?",
-    "options": ["Spain", "Italy", "Portugal", "France"],
-    "correctIndex": 2,
-    "correctText": "Portugal",
-    "explanation": "Lisbon is one of the oldest cities in the world and the oldest in Western Europe."
-  },
-  {
-    "id": 422,
-    "question": "What is the capital of Kenya?",
-    "options": ["Mombasa", "Nairobi", "Kisumu", "Nakuru"],
-    "correctIndex": 1,
-    "correctText": "Nairobi",
-    "explanation": "Nairobi is established as the 'Green City in the Sun' and is a major hub for business and culture in East Africa."
-  },
-  {
-    "id": 423,
-    "question": "What is the capital of Switzerland?",
-    "options": ["Zurich", "Geneva", "Bern", "Basel"],
-    "correctIndex": 2,
-    "correctText": "Bern",
-    "explanation": "While Zurich is the largest city, Bern is the 'federal city' and de facto capital of Switzerland."
-  },
-  {
-    "id": 424,
-    "question": "What is the capital of New Zealand?",
-    "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
-    "correctIndex": 1,
-    "correctText": "Wellington",
-    "explanation": "Wellington is the world's southernmost capital of a sovereign state."
-  },
-  {
-    "id": 425,
-    "question": "Which city is the capital of Saudi Arabia?",
-    "options": ["Mecca", "Medina", "Jeddah", "Riyadh"],
+    "question": "What is the sum of the first 15 natural numbers?",
+    "options": ["105", "110", "115", "120"],
     "correctIndex": 3,
-    "correctText": "Riyadh",
-    "explanation": "Riyadh is the largest city on the Arabian Peninsula and is situated in the center of the an-Nafud desert."
+    "explanation": "Sum = n(n+1)/2 = 15 × 16 / 2 = 120."
+  },
+  {
+    "question": "Which rule is used to check divisibility by 11?",
+    "options": [
+      "Sum of all digits divisible by 11",
+      "Last two digits divisible by 11",
+      "Difference of alternating digit sums is 0 or 11",
+      "Last digit is 0 or 1"
+    ],
+    "correctIndex": 2,
+    "explanation": "For divisibility by 11, the absolute difference between the sum of digits at odd positions and even positions must be 0 or 11."
+  },
+  {
+    "question": "What is the absolute value of −48?",
+    "options": ["−48", "−1", "1", "48"],
+    "correctIndex": 3,
+    "explanation": "Absolute value is the distance from zero on the number line, always non-negative. |−48| = 48."
+  },
+  {
+    "question": "Which of the following numbers is divisible by 9?",
+    "options": ["324", "251", "473", "502"],
+    "correctIndex": 0,
+    "explanation": "Divisibility rule for 9: sum of digits must be divisible by 9. For 324: 3+2+4 = 9, which is divisible by 9."
+  },
+  {
+    "question": "What is the largest 5-digit number?",
+    "options": ["9,999", "99,000", "99,999", "1,00,000"],
+    "correctIndex": 2,
+    "explanation": "The largest 5-digit number is 99,999. The next number, 1,00,000, is the smallest 6-digit number."
+  },
+  {
+    "question": "What is the result of 2⁴ × 2³?",
+    "options": ["2⁷", "2¹²", "4⁷", "2¹"],
+    "correctIndex": 0,
+    "explanation": "When multiplying numbers with the same base, add exponents: 2⁴ × 2³ = 2^(4+3) = 2⁷."
+  },
+  {
+    "question": "Which of the following is an irrational number?",
+    "options": ["0.5", "¾", "√2", "0.333..."],
+    "correctIndex": 2,
+    "explanation": "√2 is non-terminating and non-repeating, making it irrational. The others can be expressed as fractions."
+  },
+  {
+    "question": "What is the co-prime pair among the following?",
+    "options": ["4 and 8", "6 and 9", "8 and 15", "12 and 18"],
+    "correctIndex": 2,
+    "explanation": "Two numbers are co-prime if their HCF = 1. HCF(8, 15) = 1, so they are co-prime."
+  },
+  {
+    "question": "How many zeros does 1 crore have?",
+    "options": ["5", "6", "7", "8"],
+    "correctIndex": 2,
+    "explanation": "1 crore = 1,00,00,000 — it has 7 zeros."
+  },
+  {
+    "question": "What is a 'Rational Number'?",
+    "options": [
+      "Any positive number",
+      "A number that cannot be expressed as a fraction",
+      "A number that can be expressed as p/q where q ≠ 0",
+      "Only whole numbers"
+    ],
+    "correctIndex": 2,
+    "explanation": "A rational number can always be written in the form p/q where p and q are integers and q is not zero."
+  },
+  {
+    "question": "What is the cube root of 512?",
+    "options": ["6", "7", "8", "9"],
+    "correctIndex": 2,
+    "explanation": "8 × 8 × 8 = 512, so the cube root of 512 is 8."
   }
 ]
