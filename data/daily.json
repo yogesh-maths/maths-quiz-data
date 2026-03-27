@@ -1,162 +1,152 @@
 [
   {
-    "question": "Which of the following is NOT a natural number?",
-    "options": ["1", "0", "25", "100"],
+    "question": "What is the area of a square with side 9 cm?",
+    "options": ["18 cm²", "36 cm²", "81 cm²", "72 cm²"],
+    "correctIndex": 2,
+    "explanation": "Area of square = side × side = 9 × 9 = 81 cm²."
+  },
+  {
+    "question": "What is the area of a rectangle with length 12 cm and breadth 5 cm?",
+    "options": ["17 cm²", "34 cm²", "60 cm²", "70 cm²"],
+    "correctIndex": 2,
+    "explanation": "Area of rectangle = length × breadth = 12 × 5 = 60 cm²."
+  },
+  {
+    "question": "What is the formula for area of a triangle?",
+    "options": ["base × height", "2 × base × height", "½ × base × height", "¼ × base × height"],
+    "correctIndex": 2,
+    "explanation": "Area of triangle = ½ × base × height. The half accounts for the triangle being half of a rectangle."
+  },
+  {
+    "question": "A triangle has base 10 cm and height 6 cm. What is its area?",
+    "options": ["60 cm²", "30 cm²", "16 cm²", "8 cm²"],
     "correctIndex": 1,
-    "explanation": "Natural numbers start from 1 (1, 2, 3, ...). Zero belongs to whole numbers but not natural numbers."
+    "explanation": "Area = ½ × base × height = ½ × 10 × 6 = 30 cm²."
   },
   {
-    "question": "What is the place value of 6 in 46,813?",
-    "options": ["6", "60", "600", "6000"],
-    "correctIndex": 3,
-    "explanation": "In 46,813, the digit 6 is in the thousands place, so its place value is 6000."
-  },
-  {
-    "question": "Which set of numbers includes all negative numbers, zero, and positive whole numbers?",
-    "options": ["Natural numbers", "Whole numbers", "Integers", "Rational numbers"],
-    "correctIndex": 2,
-    "explanation": "Integers include ..., -3, -2, -1, 0, 1, 2, 3, ... covering all negative numbers, zero, and positive whole numbers."
-  },
-  {
-    "question": "What is the smallest prime number?",
-    "options": ["0", "1", "2", "3"],
-    "correctIndex": 2,
-    "explanation": "2 is the smallest and only even prime number. 0 and 1 are neither prime nor composite."
-  },
-  {
-    "question": "What is the LCM of 8 and 12?",
-    "options": ["4", "24", "48", "96"],
+    "question": "What is the area of a circle with radius 7 cm? (π = 22/7)",
+    "options": ["44 cm²", "154 cm²", "22 cm²", "308 cm²"],
     "correctIndex": 1,
-    "explanation": "LCM(8, 12) = 24. It is the smallest number divisible by both 8 and 12."
+    "explanation": "Area of circle = π × r² = 22/7 × 7 × 7 = 22 × 7 = 154 cm²."
   },
   {
-    "question": "The HCF of 36 and 48 is:",
-    "options": ["6", "9", "12", "18"],
+    "question": "The area of a parallelogram is:",
+    "options": ["base + height", "2 × (base + height)", "base × height", "½ × base × height"],
     "correctIndex": 2,
-    "explanation": "Factors of 36: 1,2,3,4,6,9,12,18,36. Factors of 48: 1,2,3,4,6,8,12,16,24,48. The highest common factor is 12."
+    "explanation": "Area of parallelogram = base × height. The height must be perpendicular to the base."
   },
   {
-    "question": "Which of the following is a composite number?",
-    "options": ["2", "7", "11", "15"],
-    "correctIndex": 3,
-    "explanation": "15 = 3 × 5. It has factors other than 1 and itself, making it composite."
-  },
-  {
-    "question": "What is the face value of 9 in 59,302?",
-    "options": ["9", "90", "900", "9000"],
-    "correctIndex": 0,
-    "explanation": "Face value is the digit itself regardless of its position. The face value of 9 is always 9."
-  },
-  {
-    "question": "A number divisible by both 2 and 3 is also divisible by:",
-    "options": ["4", "5", "6", "9"],
+    "question": "A parallelogram has base 8 cm and height 5 cm. What is its area?",
+    "options": ["13 cm²", "20 cm²", "40 cm²", "80 cm²"],
     "correctIndex": 2,
-    "explanation": "Since 6 = 2 × 3, any number divisible by both 2 and 3 must be divisible by 6."
+    "explanation": "Area = base × height = 8 × 5 = 40 cm²."
   },
   {
-    "question": "How many prime numbers exist between 1 and 30?",
-    "options": ["8", "9", "10", "11"],
-    "correctIndex": 2,
-    "explanation": "Primes between 1 and 30: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29 — exactly 10 primes."
-  },
-  {
-    "question": "What is the value of 5³?",
-    "options": ["15", "25", "125", "625"],
-    "correctIndex": 2,
-    "explanation": "5³ = 5 × 5 × 5 = 125."
-  },
-  {
-    "question": "Which of the following is a perfect square?",
-    "options": ["18", "32", "50", "81"],
-    "correctIndex": 3,
-    "explanation": "81 = 9². It is a perfect square because it equals an integer multiplied by itself."
-  },
-  {
-    "question": "What is √225?",
-    "options": ["13", "14", "15", "16"],
-    "correctIndex": 2,
-    "explanation": "15 × 15 = 225, so √225 = 15."
-  },
-  {
-    "question": "The predecessor of −10 is:",
-    "options": ["−9", "−11", "9", "11"],
+    "question": "What is the area of a rhombus with diagonals 10 cm and 8 cm?",
+    "options": ["80 cm²", "40 cm²", "18 cm²", "36 cm²"],
     "correctIndex": 1,
-    "explanation": "Predecessor = n − 1. Predecessor of −10 is −10 − 1 = −11."
+    "explanation": "Area of rhombus = ½ × d₁ × d₂ = ½ × 10 × 8 = 40 cm²."
   },
   {
-    "question": "What is the sum of the first 15 natural numbers?",
-    "options": ["105", "110", "115", "120"],
+    "question": "What is the area of a trapezium with parallel sides 6 cm and 10 cm, and height 4 cm?",
+    "options": ["64 cm²", "32 cm²", "24 cm²", "40 cm²"],
+    "correctIndex": 1,
+    "explanation": "Area of trapezium = ½ × (sum of parallel sides) × height = ½ × (6 + 10) × 4 = ½ × 16 × 4 = 32 cm²."
+  },
+  {
+    "question": "If the side of a square is doubled, its area becomes:",
+    "options": ["2 times", "3 times", "4 times", "8 times"],
+    "correctIndex": 2,
+    "explanation": "If side = s, area = s². If side = 2s, area = (2s)² = 4s². So area becomes 4 times."
+  },
+  {
+    "question": "A rectangular garden is 20 m long and 15 m wide. What is its area?",
+    "options": ["35 m²", "70 m²", "150 m²", "300 m²"],
     "correctIndex": 3,
-    "explanation": "Sum = n(n+1)/2 = 15 × 16 / 2 = 120."
+    "explanation": "Area = length × breadth = 20 × 15 = 300 m²."
   },
   {
-    "question": "Which rule is used to check divisibility by 11?",
-    "options": [
-      "Sum of all digits divisible by 11",
-      "Last two digits divisible by 11",
-      "Difference of alternating digit sums is 0 or 11",
-      "Last digit is 0 or 1"
-    ],
+    "question": "What is the area of an equilateral triangle with side 6 cm? (√3 ≈ 1.73)",
+    "options": ["9√3 cm²", "6√3 cm²", "12√3 cm²", "36 cm²"],
+    "correctIndex": 0,
+    "explanation": "Area of equilateral triangle = (√3/4) × side² = (√3/4) × 36 = 9√3 cm² ≈ 15.57 cm²."
+  },
+  {
+    "question": "The diameter of a circle is 14 cm. What is its area? (π = 22/7)",
+    "options": ["44 cm²", "88 cm²", "154 cm²", "616 cm²"],
     "correctIndex": 2,
-    "explanation": "For divisibility by 11, the absolute difference between the sum of digits at odd positions and even positions must be 0 or 11."
+    "explanation": "Radius = 14/2 = 7 cm. Area = π × r² = 22/7 × 49 = 154 cm²."
   },
   {
-    "question": "What is the absolute value of −48?",
-    "options": ["−48", "−1", "1", "48"],
+    "question": "What is the area of a right triangle with legs 6 cm and 8 cm?",
+    "options": ["48 cm²", "24 cm²", "14 cm²", "28 cm²"],
+    "correctIndex": 1,
+    "explanation": "For a right triangle, base and height are the two legs. Area = ½ × 6 × 8 = 24 cm²."
+  },
+  {
+    "question": "If the area of a square is 144 cm², what is its side?",
+    "options": ["11 cm", "12 cm", "13 cm", "14 cm"],
+    "correctIndex": 1,
+    "explanation": "Side = √Area = √144 = 12 cm."
+  },
+  {
+    "question": "A room is 8 m × 6 m. How many square tiles of side 2 m are needed to cover the floor?",
+    "options": ["6", "12", "24", "48"],
+    "correctIndex": 1,
+    "explanation": "Area of room = 8 × 6 = 48 m². Area of one tile = 2 × 2 = 4 m². Number of tiles = 48 ÷ 4 = 12."
+  },
+  {
+    "question": "What is the area of a semicircle with radius 7 cm? (π = 22/7)",
+    "options": ["77 cm²", "154 cm²", "44 cm²", "22 cm²"],
+    "correctIndex": 0,
+    "explanation": "Area of semicircle = ½ × π × r² = ½ × 22/7 × 49 = ½ × 154 = 77 cm²."
+  },
+  {
+    "question": "The length of a rectangle is 3 times its breadth. If breadth is 4 cm, what is the area?",
+    "options": ["16 cm²", "28 cm²", "48 cm²", "12 cm²"],
+    "correctIndex": 2,
+    "explanation": "Breadth = 4 cm, Length = 3 × 4 = 12 cm. Area = 12 × 4 = 48 cm²."
+  },
+  {
+    "question": "Which shape has the largest area if all have the same perimeter of 24 cm?",
+    "options": ["Rectangle 10×2", "Rectangle 8×4", "Square 6×6", "All are equal"],
+    "correctIndex": 2,
+    "explanation": "Square 6×6 has area 36 cm². Rectangle 10×2 = 20 cm², Rectangle 8×4 = 32 cm². A square gives the maximum area for a given perimeter."
+  },
+  {
+    "question": "A path 1 m wide is built around a 6 m × 4 m garden. What is the area of the path?",
+    "options": ["10 m²", "20 m²", "22 m²", "24 m²"],
     "correctIndex": 3,
-    "explanation": "Absolute value is the distance from zero on the number line, always non-negative. |−48| = 48."
+    "explanation": "Inner area = 6 × 4 = 24 m². Adding 1 m path on all sides, outer dimensions = (6+2) × (4+2) = 8 × 6 = 48 m². Path area = 48 − 24 = 24 m²."
   },
   {
-    "question": "Which of the following numbers is divisible by 9?",
-    "options": ["324", "251", "473", "502"],
-    "correctIndex": 0,
-    "explanation": "Divisibility rule for 9: sum of digits must be divisible by 9. For 324: 3+2+4 = 9, which is divisible by 9."
+    "question": "What is the area of a kite with diagonals 12 cm and 9 cm?",
+    "options": ["108 cm²", "54 cm²", "21 cm²", "42 cm²"],
+    "correctIndex": 1,
+    "explanation": "Area of kite = ½ × d₁ × d₂ = ½ × 12 × 9 = 54 cm²."
   },
   {
-    "question": "What is the largest 5-digit number?",
-    "options": ["9,999", "99,000", "99,999", "1,00,000"],
+    "question": "If the radius of a circle is tripled, its area becomes:",
+    "options": ["3 times", "6 times", "9 times", "12 times"],
     "correctIndex": 2,
-    "explanation": "The largest 5-digit number is 99,999. The next number, 1,00,000, is the smallest 6-digit number."
+    "explanation": "Area = πr². If r becomes 3r, new area = π(3r)² = 9πr². So area becomes 9 times."
   },
   {
-    "question": "What is the result of 2⁴ × 2³?",
-    "options": ["2⁷", "2¹²", "4⁷", "2¹"],
-    "correctIndex": 0,
-    "explanation": "When multiplying numbers with the same base, add exponents: 2⁴ × 2³ = 2^(4+3) = 2⁷."
-  },
-  {
-    "question": "Which of the following is an irrational number?",
-    "options": ["0.5", "¾", "√2", "0.333..."],
+    "question": "A triangle has area 36 cm² and base 9 cm. What is its height?",
+    "options": ["4 cm", "6 cm", "8 cm", "12 cm"],
     "correctIndex": 2,
-    "explanation": "√2 is non-terminating and non-repeating, making it irrational. The others can be expressed as fractions."
+    "explanation": "Area = ½ × base × height → 36 = ½ × 9 × h → h = 72/9 = 8 cm."
   },
   {
-    "question": "What is the co-prime pair among the following?",
-    "options": ["4 and 8", "6 and 9", "8 and 15", "12 and 18"],
-    "correctIndex": 2,
-    "explanation": "Two numbers are co-prime if their HCF = 1. HCF(8, 15) = 1, so they are co-prime."
+    "question": "What unit is used to measure area?",
+    "options": ["cm", "cm²", "cm³", "m"],
+    "correctIndex": 1,
+    "explanation": "Area is a 2-dimensional measurement, so it is expressed in square units such as cm², m², or km²."
   },
   {
-    "question": "How many zeros does 1 crore have?",
-    "options": ["5", "6", "7", "8"],
+    "question": "The area of a square field is 625 m². What is the length of its fence?",
+    "options": ["25 m", "50 m", "100 m", "125 m"],
     "correctIndex": 2,
-    "explanation": "1 crore = 1,00,00,000 — it has 7 zeros."
-  },
-  {
-    "question": "What is a 'Rational Number'?",
-    "options": [
-      "Any positive number",
-      "A number that cannot be expressed as a fraction",
-      "A number that can be expressed as p/q where q ≠ 0",
-      "Only whole numbers"
-    ],
-    "correctIndex": 2,
-    "explanation": "A rational number can always be written in the form p/q where p and q are integers and q is not zero."
-  },
-  {
-    "question": "What is the cube root of 512?",
-    "options": ["6", "7", "8", "9"],
-    "correctIndex": 2,
-    "explanation": "8 × 8 × 8 = 512, so the cube root of 512 is 8."
+    "explanation": "Side = √625 = 25 m. Perimeter (fence length) = 4 × 25 = 100 m."
   }
 ]
