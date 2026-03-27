@@ -2,295 +2,301 @@
   {
     "question": "Which planet spins 'backwards' compared to most others?",
     "options": ["Mars", "Venus", "Jupiter", "Uranus"],
-    "correctIndex": 1,
+    "answer": "Venus",
     "explanation": "Venus rotates clockwise on its axis, opposite to most planets, so the Sun rises in the west there."
   },
   {
     "question": "Which animal has three hearts?",
     "options": ["Octopus", "Shark", "Frog", "Squirrel"],
-    "correctIndex": 0,
+    "answer": "Octopus",
     "explanation": "An octopus has three hearts: two pump blood to the gills and one pumps it to the rest of the body."
   },
   {
     "question": "What is the only metal that is liquid at room temperature?",
     "options": ["Iron", "Copper", "Mercury", "Silver"],
-    "correctIndex": 2,
+    "answer": "Mercury",
     "explanation": "Mercury is a metal but stays liquid at normal room temperature and is used in old‑style thermometers."
   },
   {
     "question": "Which of these flies the fastest?",
     "options": ["Housefly", "Dragonfly", "Honeybee", "Hummingbird"],
-    "correctIndex": 1,
+    "answer": "Dragonfly",
     "explanation": "Dragonflies are among the fastest insects and can fly over 50 km/h, outspeeding most common flying creatures."
   },
   {
     "question": "How much of Earth is covered with water?",
     "options": ["About 30%", "About 50%", "About 70%", "About 90%"],
-    "correctIndex": 2,
+    "answer": "About 70%",
     "explanation": "Roughly 71% of Earth's surface is covered with water, mostly oceans, which is why Earth looks blue from space."
   },
   {
     "question": "Which planet has the shortest day?",
     "options": ["Earth", "Mars", "Jupiter", "Venus"],
-    "correctIndex": 2,
+    "answer": "Jupiter",
     "explanation": "Jupiter spins very fast; one Jupiter day is about 10 Earth hours, the shortest day in the solar system."
   },
   {
     "question": "Which part of the body is the only one fully grown at birth?",
     "options": ["Heart", "Lungs", "Eyes", "Brain"],
-    "correctIndex": 2,
+    "answer": "Eyes",
     "explanation": "Human eyes are about their adult size at birth and grow very little compared with the rest of the body."
   },
   {
     "question": "What gets bigger the more you take away?",
     "options": ["A shadow", "A hole", "A wave", "A crater"],
-    "correctIndex": 1,
+    "answer": "A hole",
     "explanation": "A hole grows larger as you remove more material from it; it’s a classic riddle that makes you think differently."
   },
   {
     "question": "Which gas makes soda fizzy?",
     "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-    "correctIndex": 2,
+    "answer": "Carbon dioxide",
     "explanation": "Carbon dioxide is bubbled into drinks under pressure, and when the bottle opens, the gas escapes as fizz."
   },
   {
     "question": "In some rare cases, scientists have observed that hot water can freeze faster than cold water. What is this curious effect called?",
     "options": ["Doppler effect", "Greenhouse effect", "Mpemba effect", "Photoelectric effect"],
-    "correctIndex": 2,
+    "answer": "Mpemba effect",
     "explanation": "The Mpemba effect is a debated phenomenon where, under very specific conditions, hot water may freeze faster than cold water. It is not a reliable rule and is still studied by scientists."
   },
   {
     "question": "Which organ is known as the 'powerhouse of the cell'?",
     "options": ["Nucleus", "Ribosome", "Mitochondria", "Lysosome"],
-    "correctIndex": 2,
+    "answer": "Mitochondria",
     "explanation": "Mitochondria produce energy in the form of ATP, so they are called the 'powerhouses' of the cell."
   },
   {
     "question": "Which planet has the most moons?",
     "options": ["Earth", "Mars", "Jupiter", "Saturn"],
-    "correctIndex": 3,
+    "answer": "Saturn",
     "explanation": "As of now, Saturn has the most confirmed moons, exceeding 100. However, this number changes over time as astronomers discover new small moons, and the lead sometimes swaps between Saturn and Jupiter."
   },
   {
     "question": "Which of these is NOT a state of matter?",
     "options": ["Solid", "Liquid", "Gas", "Shadow"],
-    "correctIndex": 3,
+    "answer": "Shadow",
     "explanation": "Solid, liquid, and gas are states of matter; shadow is just a dark area where light is blocked."
   },
   {
     "question": "What is the closest star to Earth?",
     "options": ["Polaris", "Betelgeuse", "Sirius", "Sun"],
-    "correctIndex": 3,
+    "answer": "Sun",
     "explanation": "The Sun is by far the closest star to Earth, located about 150 million km away."
   },
   {
     "question": "Which unit measures the loudness of sound?",
     "options": ["Hertz", "Decibel", "Newton", "Joule"],
-    "correctIndex": 1,
+    "answer": "Decibel",
     "explanation": "Decibel (dB) measures how loud a sound is; higher decibels mean louder sound."
   },
   {
     "question": "Which gas protects us from harmful UV rays in the atmosphere?",
     "options": ["Oxygen", "Nitrogen", "Ozone", "Carbon dioxide"],
-    "correctIndex": 2,
+    "answer": "Ozone",
     "explanation": "The ozone layer in the stratosphere absorbs most of the Sun’s harmful ultraviolet radiation."
   },
   {
     "question": "Which planet is known as the 'Red Planet'?",
     "options": ["Venus", "Jupiter", "Mars", "Saturn"],
-    "correctIndex": 2,
+    "answer": "Mars",
     "explanation": "Mars appears reddish due to iron oxide on its surface and is commonly called the Red Planet."
   },
   {
     "question": "Which animal can change its color to match its surroundings?",
     "options": ["Squirrel", "Chameleon", "Rabbit", "Pigeon"],
-    "correctIndex": 1,
+    "answer": "Chameleon",
     "explanation": "Chameleons change their skin color to camouflage, express mood, or control temperature."
   },
   {
     "question": "What gas do plants take in during photosynthesis?",
     "options": ["Oxygen", "Nitrogen", "Hydrogen", "Carbon dioxide"],
-    "correctIndex": 3,
+    "answer":"Carbon dioxide",
     "explanation": "Plants take in carbon dioxide and use sunlight to make food, releasing oxygen as a by‑product."
   },
   {
     "question": "Which of these is a renewable source of energy?",
     "options": ["Coal", "Petroleum", "Natural gas", "Solar energy"],
-    "correctIndex": 3,
+    "answer": "Solar energy",
     "explanation": "Solar energy comes from the Sun and is renewable; coal, petroleum, and natural gas are non‑renewable."
   },
   {
     "question": "Which organ produces insulin in the human body?",
     "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
-    "correctIndex": 1,
+    "answer": "Pancreas",
     "explanation": "The pancreas releases insulin, a hormone that helps control blood sugar levels after eating."
   },
   {
     "question": "Which device converts sunlight directly into electricity?",
     "options": ["Solar heater", "Battery", "Solar cell", "Generator"],
-    "correctIndex": 2,
+    "answer": "Solar cell",
     "explanation": "A solar cell (photovoltaic cell) converts sunlight into electrical energy without moving parts."
   },
   {
     "question": "Which planet has the strongest winds in the solar system?",
     "options": ["Earth", "Mars", "Neptune", "Venus"],
-    "correctIndex": 2,
+    "answer": "Neptune",
     "explanation": "Neptune has the fastest winds in the solar system, sometimes over 2000 km/h in the atmosphere."
   },
   {
     "question": "What is the hardest natural substance on Earth?",
     "options": ["Gold", "Iron", "Diamond", "Quartz"],
-    "correctIndex": 2,
+    "answer": "Diamond",
     "explanation": "Diamond is made of tightly bonded carbon atoms and is the hardest known natural material."
   },
   {
     "question": "Which part of the human body is responsible for balance?",
     "options": ["Heart", "Lungs", "Inner ear", "Stomach"],
-    "correctIndex": 2,
+    "answer": "Inner ear",
     "explanation": "The inner ear contains semicircular canals that sense balance and motion, helping you stay steady."
   },
   {
     "question": "Which gas do humans mainly exhale?",
     "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-    "correctIndex": 2,
+    "answer": "Carbon dioxide",
     "explanation": "When we breathe out, most of the gas is carbon dioxide, a waste product of cell respiration."
   },
   {
     "question": "Which of these animals is NOT a mammal?",
     "options": ["Dolphin", "Bat", "Penguin", "Elephant"],
-    "correctIndex": 2,
+    "answer": "Penguin",
     "explanation": "Penguins are birds; dolphins, bats, and elephants are mammals that feed their young with milk."
   },
   {
     "question": "What is the main element in the Sun?",
     "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
-    "correctIndex": 2,
+    "answer": "Hydrogen",
     "explanation": "Hydrogen makes up most of the Sun’s mass and is used in nuclear fusion to release heat and light."
   },
   {
     "question": "Which of these is a non‑metal?",
     "options": ["Iron", "Copper", "Sodium", "Oxygen"],
-    "correctIndex": 3,
+    "answer": "Oxygen",
     "explanation": "Oxygen is a non‑metal gas; iron, copper, and sodium are metals."
   },
   {
     "question": "Which part of a plant absorbs water and minerals from the soil?",
     "options": ["Leaves", "Stem", "Roots", "Flowers"],
-    "correctIndex": 2,
+    "answer": "Roots",
     "explanation": "Roots absorb water and minerals from the soil and anchor the plant to the ground."
   },
   {
     "question": "Which machine works on the principle of electromagnetism?",
     "options": ["Bicycle", "Computer", "Electric motor", "Clock"],
-    "correctIndex": 2,
+    "answer": "Electric motor",
     "explanation": "An electric motor uses electromagnetism to convert electrical energy into spinning motion."
   },
   {
     "question": "Which planet is the hottest in the solar system?",
     "options": ["Earth", "Mars", "Venus", "Mercury"],
-    "correctIndex": 2,
+    "answer": "Venus",
     "explanation": "Venus is hotter than Mercury due to its thick atmosphere and extreme greenhouse effect."
   },
   {
     "question": "What color is oxygen in its liquid state?",
     "options": ["Red", "Blue", "Yellow", "Clear"],
-    "correctIndex": 1,
+    "answer": "Blue",
     "explanation": "Liquid oxygen has a pale blue color and is used in some rockets and medical applications."
   },
   {
     "question": "Which of these is a greenhouse gas?",
     "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Neon"],
-    "correctIndex": 2,
+    "answer": "Carbon dioxide",
     "explanation": "Carbon dioxide traps heat in the atmosphere and is a major greenhouse gas causing global warming."
   },
   {
     "question": "Which blood cells fight infections?",
     "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
-    "correctIndex": 1,
+    "answer": "White blood cells",
     "explanation": "White blood cells attack bacteria and viruses to protect the body from infections."
   },
   {
     "question": "What is the normal pH of pure water at room temperature?",
     "options": ["0", "7", "10", "14"],
-    "correctIndex": 1,
+    "answer": "7",
     "explanation": "Pure water is neutral and has a pH of 7 at room temperature."
   },
   {
     "question": "Which planet has the great red spot?",
     "options": ["Saturn", "Jupiter", "Mars", "Uranus"],
-    "correctIndex": 1,
+    "answer": "Jupiter",
     "explanation": "Jupiter’s Great Red Spot is a giant storm that has been swirling for hundreds of years."
   },
   {
     "question": "Which of these can live in the vacuum of space for a short time?",
     "options": ["Human", "Tardigrade", "Spider", "Frog"],
-    "correctIndex": 1,
+    "answer": "Tardigrade",
     "explanation": "Tardigrades (water bears) can survive extreme conditions, including space vacuum, for a while."
   },
   {
     "question": "Which organ filters waste from the blood?",
     "options": ["Liver", "Lungs", "Kidneys", "Stomach"],
-    "correctIndex": 2,
+    "answer": "Kidneys",
     "explanation": "Kidneys filter waste and extra fluid from the blood and form urine."
   },
   {
     "question": "What is the SI unit of electric current?",
     "options": ["Volt", "Ohm", "Ampere", "Watt"],
-    "correctIndex": 2,
+    "answer": "Ampere",
     "explanation": "The ampere (A) is the SI unit of electric current, named after the scientist André‑Marie Ampère."
   },
   {
     "question": "Which of these animals sleeps the most in a day?",
     "options": ["Cat", "Elephant", "Human", "Bat"],
-    "correctIndex": 3,
+    "answer": "Bat",
     "explanation": "Bats can sleep up to 20 hours a day, making them one of the sleepiest animals."
   },
   {
     "question": "Which planet is closest to the Sun?",
     "options": ["Venus", "Earth", "Mars", "Mercury"],
-    "correctIndex": 3,
+    "answer": "Mercury",
     "explanation": "Mercury orbits closest to the Sun, so its years are very short—about 88 Earth days."
   },
   {
     "question": "Which gas is most abundant in Earth's atmosphere?",
     "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
-    "correctIndex": 2,
+    "answer": "Nitrogen",
     "explanation": "Nitrogen makes up about 78% of Earth's atmosphere, making it the most common gas."
   },
   {
     "question": "Which metal is used to make the filament in old‑style light bulbs?",
     "options": ["Copper", "Aluminum", "Tungsten", "Iron"],
-    "correctIndex": 2,
+    "answer": "Tungsten",
     "explanation": "Tungsten is used because it has a very high melting point and can glow brightly without melting quickly."
   },
   {
     "question": "Which of these is the fastest land animal?",
     "options": ["Lion", "Cheetah", "Horse", "Deer"],
-    "correctIndex": 1,
+    "answer": "Cheetah",
     "explanation": "Cheetahs can run over 100 km/h for short bursts, making them the fastest land animals."
   },
   {
     "question": "Which planet looks like it has a ring around it?",
     "options": ["Jupiter", "Saturn", "Mars", "Venus"],
-    "correctIndex": 1,
+    "answer": "Saturn",
     "explanation": "Saturn’s bright rings of ice and rock make it look different from other planets through a telescope."
   },
   {
     "question": "Which of these is NOT a function of the human brain?",
     "options": ["Storing memories", "Pumping blood", "Processing thoughts", "Controling movement"],
-    "correctIndex": 1,
+    "answer": "Pumping blood",
     "explanation": "The brain stores memories, processes thoughts, and controls movement; the heart pumps blood."
   },
   {
     "question": "Which material is commonly used as an electrical insulator in wires?",
     "options": ["Copper", "Aluminum", "Plastic", "Silver"],
-    "correctIndex": 2,
+    "answer": "Plastic",
     "explanation": "Plastic is an electrical insulator that prevents current from leaking out of wires, while metals like copper and aluminum are good conductors."
   },
   {
     "question": "Which organ helps you smell?",
     "options": ["Lungs", "Nose", "Ears", "Tongue"],
-    "correctIndex": 1,
+    "answer": "Nose",
     "explanation": "The nose contains smell receptors that send signals to the brain about different odors."
-  }
+  },
+  {
+  "question": "Which force pulls objects toward the center of the Earth?",
+  "options": ["Magnetism", "Gravity", "Friction", "Electricity"],
+  "answer": "Gravity",
+  "explanation": "Gravity is the force that attracts objects with mass toward each other; on Earth, it keeps us on the ground and causes objects to fall."
+}
 ]
