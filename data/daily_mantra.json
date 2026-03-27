@@ -3,181 +3,181 @@
     {
       "id": 1,
       "title": "Maths: The Power of Zero",
-      "text": "Zero is the ultimate stop sign of math: anything multiplied by 0 instantly becomes 0. But watch this twist—any number (except 0) raised to the power of 0 magically becomes 1!",
+      "text": "Any number multiplied by 0 is always 0. Any number (except 0) raised to the power of 0 is always 1!",
       "type": "text"
     },
     {
       "id": 2,
       "title": "Science: Space Silence",
-      "text": "Even the biggest explosion in space would be completely silent. Sound needs air to travel, and space is almost empty—so it’s the quietest place in the universe.",
+      "text": "Sound needs air to travel. Since there is no air in space, it is completely silent, no matter how loud an explosion is.",
       "type": "text"
     },
     {
       "id": 3,
-      "title": "Maths: The Lone Even Prime",
-      "text": "The number 2 is a math superstar: it’s the only even prime number. Every other prime is odd, making 2 the loneliest and most special prime in the whole number line.",
+      "title": "Maths: Prime Number Fact",
+      "text": "The number 2 is very special—it is the only even prime number in the entire universe. Every other prime number is odd.",
       "type": "text"
     },
     {
       "id": 4,
-      "title": "Science: Why the Sky is Blue",
-      "text": "The sky is blue because tiny air molecules scatter blue sunlight more than other colors. Without our atmosphere, the daytime sky would look black—even on Earth!",
+      "title": "Science: The Blue Sky",
+      "text": "The sky is blue because Earth's atmosphere scatters blue light from the sun more than other colors.",
       "type": "text"
     },
     {
       "id": 5,
       "title": "Maths: Palindrome Numbers",
-      "text": "A palindrome number reads the same backward as forward. 121, 1331, and 1001 are all ‘mirror’ numbers that love symmetry and playing tricks on the eye.",
+      "text": "A palindrome is a number that reads the same backward and forward, like 121 or 1331.",
       "type": "text"
     },
     {
       "id": 6,
-      "title": "Science: Water’s Triple Identity",
-      "text": "Water is the only common substance on Earth that naturally exists as solid ice, liquid water, and invisible steam—all at once, depending on the temperature.",
+      "title": "Science: Water's Three States",
+      "text": "Water is the only substance on Earth that naturally exists as a solid (ice), liquid (water), and gas (steam).",
       "type": "text"
     },
     {
       "id": 7,
-      "title": "Maths: The 10x Shortcut",
-      "text": "To multiply any whole number by 10, just slap a 0 at the end! It’s the easiest math trick in the world, and it works every single time.",
+      "title": "Maths: Multiplying by 10",
+      "text": "The easiest trick in math: to multiply a whole number by 10, just stick a 0 at the end of it!",
       "type": "text"
     },
     {
       "id": 8,
-      "title": "Science: Octopus with Three Hearts",
-      "text": "An octopus has three hearts: two pump blood to the gills, and one moves blood around the rest of its squishy body. No wonder it can squeeze through tiny spaces!",
+      "title": "Science: Octopus Hearts",
+      "text": "An octopus has three hearts! Two pump blood to the gills, and one pumps it to the rest of the body.",
       "type": "text"
     },
     {
       "id": 9,
-      "title": "Maths: Shapes with Edge-count Names",
-      "text": "A hexagon has 6 sides, an octagon 8, and a decagon 10. Think of ‘octo‑pus’ for 8 legs and ‘decade’ for 10 years to never forget the side count again.",
+      "title": "Maths: Shape Sides",
+      "text": "A hexagon has 6 sides, an octagon has 8, and a decagon has 10. Think of an 'Octo'-pus to remember 8!",
       "type": "text"
     },
     {
       "id": 10,
-      "title": "Science: The Mpemba Magic",
-      "text": "In some strange cases, hot water actually freezes faster than cold water. This unexpected trick is called the Mpemba effect—and scientists are still arguing about why it works.",
+      "title": "Science: Hot Water Freeze",
+      "text": "Surprisingly, hot water can sometimes freeze faster than cold water. This is called the Mpemba effect.",
       "type": "text"
     },
     {
       "id": 11,
-      "title": "Maths: Roman Zero Mystery",
-      "text": "The Romans had no zero symbol. They counted with I (1), V (5), X (10), L (50), and C (100)—but they had no way to write ‘nothing’ as a number.",
+      "title": "Maths: Roman Numerals",
+      "text": "The Romans didn't have a symbol for zero. They used letters like I (1), V (5), X (10), L (50), and C (100).",
       "type": "text"
     },
     {
       "id": 12,
-      "title": "Science: Moon Bounce Gravity",
-      "text": "Moon gravity is about 1/6th of Earth’s. On the Moon, you could jump like a superhero—6 times higher than on Earth, without even trying.",
+      "title": "Science: Gravity on Moon",
+      "text": "Gravity on the Moon is only about 1/6th as strong as on Earth. You could jump 6 times higher there!",
       "type": "text"
     },
     {
       "id": 13,
-      "title": "Maths: The Magic of 9",
-      "text": "Multiply 9 by any number from 1 to 10, then add the digits of the answer—surprise! They always add up to 9. Math never fails at this cute little pattern.",
+      "title": "Maths: Magic of 9",
+      "text": "Multiply 9 by any number from 1 to 10, and the digits of the answer will always add up to 9. (Example: 9x5=45, 4+5=9).",
       "type": "text"
     },
     {
       "id": 14,
-      "title": "Science: Plants Are Air Swappers",
-      "text": "Plants breathe in Carbon Dioxide and breathe out Oxygen—the opposite of humans. Thanks to plants, every breath you take is a borrowed plant exhale.",
+      "title": "Science: Plant Breathing",
+      "text": "Plants 'breathe' in Carbon Dioxide and 'breathe' out Oxygen, which is exactly the opposite of what humans do.",
       "type": "text"
     },
     {
       "id": 15,
-      "title": "Maths: The Never‑Ending Pi",
-      "text": "Pi (3.14159...) is the ratio of a circle’s circumference to its diameter, and its digits go on forever and do not settle into a repeating pattern. It’s an endless number that fits a perfect circle!",
+      "title": "Maths: The Number 'Pi'",
+      "text": "Pi (3.14...) is the ratio of a circle's circumference to its diameter. It is an infinite number that never ends!",
       "type": "text"
     },
     {
       "id": 16,
-      "title": "Science: Lightning Fireball",
-      "text": "A single lightning bolt can be up to 5 times hotter than the surface of the Sun—over 50,000 degrees Fahrenheit—yet it lasts only fractions of a second.",
+      "title": "Science: Lightning Heat",
+      "text": "A bolt of lightning is 5 times hotter than the surface of the sun!",
       "type": "text"
     },
     {
       "id": 17,
-      "title": "Maths: Even vs Odd Rules",
-      "text": "Even + Even = Even. Odd + Odd = Even. But Even + Odd is always Odd. These little rules make even and odd numbers behave like best friends and rivals in math.",
+      "title": "Maths: Even and Odd",
+      "text": "Even + Even = Even. Odd + Odd = Even. But Even + Odd is always Odd!",
       "type": "text"
     },
     {
       "id": 18,
-      "title": "Science: Human–Banana Family",
-      "text": "Humans share almost 50% of their DNA with bananas. That means you’re essentially half‑banana at the molecular level!",
+      "title": "Science: Banana DNA",
+      "text": "Humans share about 50% of their DNA with bananas. We are more related to fruit than we think!",
       "type": "text"
     },
     {
       "id": 19,
-      "title": "Maths: Centi, Milli, Kilo Metric Hacks",
-      "text": "Centi, milli, and kilo are metric word hacks. Centi means 1/100 (100 centimeters in a meter), milli means 1/1,000 (1,000 milligrams in a gram), and kilo means 1,000 (1,000 grams in a kilogram). These prefixes are tiny math cheat codes!",
+      "title": "Maths: Centi, Milli, Kilo",
+      "text": "Centi means 100, Milli means 1,000, and Kilo also means 1,000. 1 Kilogram is 1,000 grams.",
       "type": "text"
     },
     {
       "id": 20,
-      "title": "Science: Clouds That Weigh Elephants",
-      "text": "Even though they look light and fluffy, a normal cloud can weigh as much as 1,000,000 pounds—about 100 adult elephants packed into the sky!",
+      "title": "Science: Heavy Clouds",
+      "text": "Even though they float, an average white fluffy cloud weighs about 1 million pounds (the weight of 100 elephants)!",
       "type": "text"
     },
     {
       "id": 21,
-      "title": "Maths: Triangle Angle Secret",
-      "text": "No matter how crazy a triangle looks, if you add up its three inside angles, they always exactly equal 180 degrees. It’s a triangle rule that never breaks.",
+      "title": "Maths: Triangle Angles",
+      "text": "If you add up the three inside angles of any triangle, they will always equal exactly 180 degrees.",
       "type": "text"
     },
     {
       "id": 22,
-      "title": "Science: Platypus Without a Stomach",
-      "text": "Platypuses do not have a proper stomach—food goes from their esophagus straight to the intestine. Evolution skipped the stomach step for this weird egg‑laying mammal.",
+      "title": "Science: No Stomach?",
+      "text": "Platypuses do not have stomachs. Their food goes straight from the esophagus to their intestines.",
       "type": "text"
     },
     {
       "id": 23,
-      "title": "Maths: The Even Divisibility Trick",
-      "text": "Any number that ends in 0, 2, 4, 6, or 8 is even—and can be cleanly divided by 2. Just look at the last digit and you’ll know instantly whether it’s even!",
+      "title": "Maths: Dividing by 2",
+      "text": "Any number that ends in 0, 2, 4, 6, or 8 is even and can always be divided by 2 without a remainder.",
       "type": "text"
     },
     {
       "id": 24,
-      "title": "Science: Rust as a Three‑Ingredient Recipe",
-      "text": "Iron rusts only when it touches both water and oxygen at the same time. No water or no oxygen—and the iron stays shine‑bright.",
+      "title": "Science: Rusting Iron",
+      "text": "Iron rusts when it reacts with both water and oxygen. Without one of those, it won't rust!",
       "type": "text"
     },
     {
       "id": 25,
-      "title": "Maths: Hours in the Year",
-      "text": "A normal year has 8,760 hours and a leap year has 8,784. That’s over 8,000 chances to learn, play, and discover something new.",
+      "title": "Maths: Hours in a Year",
+      "text": "There are 8,760 hours in a normal year and 8,784 hours in a leap year.",
       "type": "text"
     },
     {
       "id": 26,
-      "title": "Science: Jupiter, the Giant Swallower",
-      "text": "Jupiter is so huge that all the other planets could fit inside it—twice over. It’s the heavyweight champion of our solar system.",
+      "title": "Science: Solar System King",
+      "text": "Jupiter is so big that all the other planets in the solar system could fit inside it twice!",
       "type": "text"
     },
     {
       "id": 27,
-      "title": "Maths: Square Numbers Are Perfect Squares",
-      "text": "A square number is what you get when you multiply a number by itself. 1×1=1, 2×2=4, 3×3=9—each forms a perfect grid you can draw on paper.",
+      "title": "Maths: Square Numbers",
+      "text": "A square number is what you get when you multiply a number by itself. 3x3=9, so 9 is a square number.",
       "type": "text"
     },
     {
       "id": 28,
-      "title": "Science: Human Teeth vs Shark Teeth",
-      "text": "Human teeth are as strong, pound‑for‑pound, as shark teeth. The difference? Sharks can regrow theirs over and over, while we get only one spare set.",
+      "title": "Science: Human Teeth",
+      "text": "Human teeth are just as strong as shark teeth! However, we can't regrow them as fast as sharks can.",
       "type": "text"
     },
     {
       "id": 29,
-      "title": "Maths: The Clock’s 6‑Degree Tick",
-      "text": "A clock is a circle of 360 degrees. Since there are 60 minutes, every minute pushes the minute hand forward by 6 degrees—math is ticking along all day!",
+      "title": "Maths: Clock Math",
+      "text": "A circle has 360 degrees. Since a clock is a circle, each minute represents a 6-degree turn for the minute hand.",
       "type": "text"
     },
     {
       "id": 30,
-      "title": "Science: Earth’s Hidden Speed",
-      "text": "Earth spins at about 1,000 miles per hour at the equator and orbits the Sun at around 67,000 miles per hour. Yet we feel nothing—an invisible cosmic roller‑coaster!",
+      "title": "Science: Speed of Earth",
+      "text": "Earth is spinning at about 1,000 miles per hour and orbiting the sun at 67,000 miles per hour, but we can't feel it!",
       "type": "text"
     }
   ]
