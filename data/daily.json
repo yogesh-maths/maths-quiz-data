@@ -1,177 +1,302 @@
 [
   {
-    "question": "A shopkeeper buys an item for ₹100 and sells it for ₹150. What is his profit?",
-    "options": ["₹25", "₹50", "₹75", "₹100"],
-    "correctIndex": 1,
-    "explanation": "Profit = SP - CP = 150 - 100 = ₹50."
-  },
-  {
-    "question": "Cost Price = ₹200, Selling Price = ₹160. What is the loss?",
-    "options": ["₹20", "₹30", "₹40", "₹50"],
+    "question": "What is the area of a square with side 9 cm?",
+    "options": ["18 cm²", "36 cm²", "81 cm²", "72 cm²"],
     "correctIndex": 2,
-    "explanation": "Loss = CP - SP = 200 - 160 = ₹40."
+    "explanation": "Area of square = side × side = 9 × 9 = 81 cm²."
   },
   {
-    "question": "What is the formula for Profit?",
-    "options": ["CP - SP", "SP - CP", "CP + SP", "CP ÷ SP"],
-    "correctIndex": 1,
-    "explanation": "Profit = SP - CP."
-  },
-  {
-    "question": "A vendor buys apples for ₹50 per kg and sells for ₹70 per kg. What is profit per kg?",
-    "options": ["₹10", "₹15", "₹20", "₹25"],
+    "question": "What is the area of a rectangle with length 12 cm and breadth 5 cm?",
+    "options": ["17 cm²", "34 cm²", "60 cm²", "70 cm²"],
     "correctIndex": 2,
-    "explanation": "Profit = 70 - 50 = ₹20."
+    "explanation": "Area of rectangle = length × breadth = 12 × 5 = 60 cm²."
   },
   {
-    "question": "What is the formula for Profit Percentage?",
-    "options": ["(Profit/SP) × 100", "(Profit/CP) × 100", "(CP/SP) × 100", "(SP/CP) × 100"],
-    "correctIndex": 1,
-    "explanation": "Profit % = (Profit / CP) × 100."
-  },
-  {
-    "question": "CP = ₹100, SP = ₹125. What is profit percentage?",
-    "options": ["15%", "20%", "25%", "30%"],
+    "question": "What is the formula for area of a triangle?",
+    "options": ["base × height", "2 × base × height", "½ × base × height", "¼ × base × height"],
     "correctIndex": 2,
-    "explanation": "Profit = 25, Profit % = (25/100) × 100 = 25%."
+    "explanation": "Area of triangle = ½ × base × height. The half accounts for the triangle being half of a rectangle."
   },
   {
-    "question": "CP = ₹200, SP = ₹160. What is loss percentage?",
-    "options": ["15%", "20%", "25%", "30%"],
+    "question": "A triangle has base 10 cm and height 6 cm. What is its area?",
+    "options": ["60 cm²", "30 cm²", "16 cm²", "8 cm²"],
     "correctIndex": 1,
-    "explanation": "Loss = 40, Loss % = (40/200) × 100 = 20%."
+    "explanation": "Area = ½ × base × height = ½ × 10 × 6 = 30 cm²."
   },
   {
-    "question": "An item costs ₹500 and is sold at 10% profit. What is SP?",
-    "options": ["₹450", "₹550", "₹600", "₹650"],
+    "question": "What is the area of a circle with radius 7 cm? (π = 22/7)",
+    "options": ["44 cm²", "154 cm²", "22 cm²", "308 cm²"],
     "correctIndex": 1,
-    "explanation": "SP = 500 + (10% of 500) = 500 × 1.10 = ₹550."
+    "explanation": "Area of circle = π × r² = 22/7 × 7 × 7 = 22 × 7 = 154 cm²."
   },
   {
-    "question": "An article costs ₹300 and is sold at 20% loss. What is SP?",
-    "options": ["₹200", "₹220", "₹240", "₹260"],
+    "question": "The area of a parallelogram is:",
+    "options": ["base + height", "2 × (base + height)", "base × height", "½ × base × height"],
     "correctIndex": 2,
-    "explanation": "SP = 300 - (20% of 300) = 300 × 0.80 = ₹240."
+    "explanation": "Area of parallelogram = base × height. The height must be perpendicular to the base."
   },
   {
-    "question": "An item is sold for ₹480 at 20% profit. What is CP?",
-    "options": ["₹350", "₹380", "₹400", "₹420"],
+    "question": "A parallelogram has base 8 cm and height 5 cm. What is its area?",
+    "options": ["13 cm²", "20 cm²", "40 cm²", "80 cm²"],
     "correctIndex": 2,
-    "explanation": "CP = SP / (1 + Profit%) = 480 / 1.20 = ₹400."
+    "explanation": "Area = base × height = 8 × 5 = 40 cm²."
   },
   {
-    "question": "Marked Price = ₹500, Discount = ₹50. What is SP?",
-    "options": ["₹400", "₹450", "₹550", "₹600"],
+    "question": "What is the area of a rhombus with diagonals 10 cm and 8 cm?",
+    "options": ["80 cm²", "40 cm²", "18 cm²", "36 cm²"],
     "correctIndex": 1,
-    "explanation": "SP = Marked Price - Discount = 500 - 50 = ₹450."
+    "explanation": "Area of rhombus = ½ × d₁ × d₂ = ½ × 10 × 8 = 40 cm²."
   },
   {
-    "question": "MP = ₹1000, Discount = 10%. What is SP?",
-    "options": ["₹850", "₹900", "₹950", "₹990"],
+    "question": "What is the area of a trapezium with parallel sides 6 cm and 10 cm, and height 4 cm?",
+    "options": ["64 cm²", "32 cm²", "24 cm²", "40 cm²"],
     "correctIndex": 1,
-    "explanation": "SP = 1000 - (10% of 1000) = 1000 × 0.90 = ₹900."
+    "explanation": "Area of trapezium = ½ × (sum of parallel sides) × height = ½ × (6 + 10) × 4 = ½ × 16 × 4 = 32 cm²."
   },
   {
-    "id": 13,
-    "question": "MP = ₹800, SP = ₹720. What is discount %?",
-    "options": ["8%", "10%", "12%", "15%"],
-    "correctIndex": 1,
-    "explanation": "Discount = 80. Discount % = (80/800) × 100 = 10%."
-  },
-  {
-    "question": "CP = ₹200, Markup = 50%. What is MP?",
-    "options": ["₹250", "₹300", "₹350", "₹400"],
-    "correctIndex": 1,
-    "explanation": "MP = CP + (50% of CP) = 200 × 1.5 = ₹300."
-  },
-  {
-    "question": "CP = ₹400, MP = ₹600. What is markup %?",
-    "options": ["25%", "33.33%", "50%", "66.67%"],
+    "question": "If the side of a square is doubled, its area becomes:",
+    "options": ["2 times", "3 times", "4 times", "8 times"],
     "correctIndex": 2,
-    "explanation": "Markup = 200. Markup % = (200/400) × 100 = 50%."
+    "explanation": "If side = s, area = s². If side = 2s, area = (2s)² = 4s². So area becomes 4 times."
   },
   {
-    "question": "CP = ₹600, SP = ₹900. What is profit %?",
-    "options": ["33.33%", "50%", "66.67%", "75%"],
-    "correctIndex": 1,
-    "explanation": "Profit = 300. Profit % = (300/600) × 100 = 50%."
+    "question": "A rectangular garden is 20 m long and 15 m wide. What is its area?",
+    "options": ["35 m²", "70 m²", "150 m²", "300 m²"],
+    "correctIndex": 3,
+    "explanation": "Area = length × breadth = 20 × 15 = 300 m²."
   },
   {
-    "question": "A book costs ₹150 and is sold at ₹180. What is profit %?",
-    "options": ["15%", "20%", "25%", "30%"],
-    "correctIndex": 1,
-    "explanation": "Profit = 30. Profit % = (30/150) × 100 = 20%."
-  },
-  {
-    "question": "If CP = ₹250 and profit is ₹50, what is SP?",
-    "options": ["₹200", "₹250", "₹300", "₹350"],
-    "correctIndex": 2,
-    "explanation": "SP = CP + Profit = 250 + 50 = ₹300."
-  },
-  {
-    "question": "If SP = ₹400 and loss is ₹100, what is CP?",
-    "options": ["₹300", "₹400", "₹500", "₹600"],
-    "correctIndex": 2,
-    "explanation": "CP = SP + Loss = 400 + 100 = ₹500."
-  },
-  {
-    "question": "An item marked ₹1000 has 30% discount. What is SP?",
-    "options": ["₹650", "₹700", "₹750", "₹800"],
-    "correctIndex": 1,
-    "explanation": "SP = 1000 - (30% of 1000) = 1000 × 0.70 = ₹700."
-  },
-  {
-    "question": "A shopkeeper marks ₹500, gives 20% discount, CP ₹300. Profit %?",
-    "options": ["20%", "25%", "33.33%", "40%"],
-    "correctIndex": 2,
-    "explanation": "SP = 400. Profit = 100. Profit % = (100/300) × 100 = 33.33%."
-  },
-  {
-    "question": "A merchant buys ₹5000 + ₹500 cost, sells ₹6200. Profit %?",
-    "options": ["10%", "12.73%", "15%", "20%"],
-    "correctIndex": 1,
-    "explanation": "Total CP = 5500. Profit = 700. Profit % = (700/5500) × 100 = 12.73%."
-  },
-  {
-    "question": "CP = ₹80, MP = ₹120, Discount = 20%. Profit %?",
-    "options": ["20%", "30%", "40%", "50%"],
+    "question": "What is the area of an equilateral triangle with side 6 cm? (√3 ≈ 1.73)",
+    "options": ["9√3 cm²", "6√3 cm²", "12√3 cm²", "36 cm²"],
     "correctIndex": 0,
-    "explanation": "SP = 120 - 24 = 96. Profit = 16. Profit % = (16/80) × 100 = 20%."
+    "explanation": "Area of equilateral triangle = (√3/4) × side² = (√3/4) × 36 = 9√3 cm² ≈ 15.57 cm²."
   },
   {
-    "question": "An article costs ₹300 and profit is 20%. What is SP?",
-    "options": ["₹320", "₹340", "₹360", "₹380"],
+    "question": "The diameter of a circle is 14 cm. What is its area? (π = 22/7)",
+    "options": ["44 cm²", "88 cm²", "154 cm²", "616 cm²"],
     "correctIndex": 2,
-    "explanation": "SP = 300 × 1.20 = ₹360."
+    "explanation": "Radius = 14/2 = 7 cm. Area = π × r² = 22/7 × 49 = 154 cm²."
   },
   {
-    "question": "Price increased from ₹500 to ₹600. % increase?",
-    "options": ["16.67%", "18%", "20%", "22%"],
-    "correctIndex": 2,
-    "explanation": "Increase = 100. % Increase = (100/500) × 100 = 20%."
-  },
-  {
-    "question": "A person buys 100 items at ₹10, sells at ₹12. Profit %?",
-    "options": ["15%", "20%", "25%", "30%"],
+    "question": "What is the area of a right triangle with legs 6 cm and 8 cm?",
+    "options": ["48 cm²", "24 cm²", "14 cm²", "28 cm²"],
     "correctIndex": 1,
-    "explanation": "Profit per item = 2. Profit % = (2/10) × 100 = 20%."
+    "explanation": "For a right triangle, base and height are the two legs. Area = ½ × 6 × 8 = 24 cm²."
   },
   {
-    "question": "An article sold at ₹500 at 20% loss. CP?",
-    "options": ["₹600", "₹625", "₹650", "₹700"],
+    "question": "If the area of a square is 144 cm², what is its side?",
+    "options": ["11 cm", "12 cm", "13 cm", "14 cm"],
     "correctIndex": 1,
-    "explanation": "CP = SP / 0.80 = 500 / 0.80 = ₹625."
+    "explanation": "Side = √Area = √144 = 12 cm."
   },
   {
-    "question": "If Profit = ₹45 and Profit % = 15%, find CP.",
-    "options": ["₹250", "₹275", "₹300", "₹325"],
-    "correctIndex": 2,
-    "explanation": "CP = (Profit / Profit%) × 100 = (45 / 15) × 100 = ₹300."
+    "question": "A room is 8 m × 6 m. How many square tiles of side 2 m are needed to cover the floor?",
+    "options": ["6", "12", "24", "48"],
+    "correctIndex": 1,
+    "explanation": "Area of room = 8 × 6 = 48 m². Area of one tile = 2 × 2 = 4 m². Number of tiles = 48 ÷ 4 = 12."
   },
   {
-    "question": "MP ₹900, 20% discount, 25% profit. Find CP.",
-    "options": ["₹576", "₹600", "₹625", "₹650"],
+    "question": "What is the area of a semicircle with radius 7 cm? (π = 22/7)",
+    "options": ["77 cm²", "154 cm²", "44 cm²", "22 cm²"],
     "correctIndex": 0,
-    "explanation": "SP = 900 × 0.8 = 720. CP = 720 / 1.25 = ₹576."
+    "explanation": "Area of semicircle = ½ × π × r² = ½ × 22/7 × 49 = ½ × 154 = 77 cm²."
+  },
+  {
+    "question": "The length of a rectangle is 3 times its breadth. If breadth is 4 cm, what is the area?",
+    "options": ["16 cm²", "28 cm²", "48 cm²", "12 cm²"],
+    "correctIndex": 2,
+    "explanation": "Breadth = 4 cm, Length = 3 × 4 = 12 cm. Area = 12 × 4 = 48 cm²."
+  },
+  {
+    "question": "Which shape has the largest area if all have the same perimeter of 24 cm?",
+    "options": ["Rectangle 10×2", "Rectangle 8×4", "Square 6×6", "All are equal"],
+    "correctIndex": 2,
+    "explanation": "Square 6×6 has area 36 cm². Rectangle 10×2 = 20 cm², Rectangle 8×4 = 32 cm². A square gives the maximum area for a given perimeter."
+  },
+  {
+    "question": "A path 1 m wide is built around a 6 m × 4 m garden. What is the area of the path?",
+    "options": ["10 m²", "20 m²", "22 m²", "24 m²"],
+    "correctIndex": 3,
+    "explanation": "Inner area = 6 × 4 = 24 m². Adding 1 m path on all sides, outer dimensions = (6+2) × (4+2) = 8 × 6 = 48 m². Path area = 48 − 24 = 24 m²."
+  },
+  {
+    "question": "What is the area of a kite with diagonals 12 cm and 9 cm?",
+    "options": ["108 cm²", "54 cm²", "21 cm²", "42 cm²"],
+    "correctIndex": 1,
+    "explanation": "Area of kite = ½ × d₁ × d₂ = ½ × 12 × 9 = 54 cm²."
+  },
+  {
+    "question": "If the radius of a circle is tripled, its area becomes:",
+    "options": ["3 times", "6 times", "9 times", "12 times"],
+    "correctIndex": 2,
+    "explanation": "Area = πr². If r becomes 3r, new area = π(3r)² = 9πr². So area becomes 9 times."
+  },
+  {
+    "question": "A triangle has area 36 cm² and base 9 cm. What is its height?",
+    "options": ["4 cm", "6 cm", "8 cm", "12 cm"],
+    "correctIndex": 2,
+    "explanation": "Area = ½ × base × height → 36 = ½ × 9 × h → h = 72/9 = 8 cm."
+  },
+  {
+    "question": "What unit is used to measure area?",
+    "options": ["cm", "cm²", "cm³", "m"],
+    "correctIndex": 1,
+    "explanation": "Area is a 2-dimensional measurement, so it is expressed in square units such as cm², m², or km²."
+  },
+  {
+    "question": "The area of a square field is 625 m². What is the length of its fence?",
+    "options": ["25 m", "50 m", "100 m", "125 m"],
+    "correctIndex": 2,
+    "explanation": "Side = √625 = 25 m. Perimeter (fence length) = 4 × 25 = 100 m."
+  },
+  {
+    "question": "What is the area of a trapezium with parallel sides 9 cm and 5 cm, and height 6 cm?",
+    "options": ["42 cm²", "84 cm²", "54 cm²", "30 cm²"],
+    "correctIndex": 0,
+    "explanation": "Area = ½ × (9 + 5) × 6 = ½ × 14 × 6 = 42 cm²."
+  },
+  {
+    "question": "A square has perimeter 48 cm. What is its area?",
+    "options": ["36 cm²", "72 cm²", "144 cm²", "192 cm²"],
+    "correctIndex": 2,
+    "explanation": "Perimeter = 4 × side → side = 48 ÷ 4 = 12 cm. Area = 12 × 12 = 144 cm²."
+  },
+  {
+    "question": "A rectangle has area 96 cm² and length 12 cm. What is its breadth?",
+    "options": ["6 cm", "7 cm", "8 cm", "9 cm"],
+    "correctIndex": 2,
+    "explanation": "Area = length × breadth → breadth = 96 ÷ 12 = 8 cm."
+  },
+  {
+    "question": "What is the area of a rhombus with diagonals 16 cm and 12 cm?",
+    "options": ["192 cm²", "96 cm²", "56 cm²", "28 cm²"],
+    "correctIndex": 1,
+    "explanation": "Area of rhombus = ½ × d₁ × d₂ = ½ × 16 × 12 = 96 cm²."
+  },
+  {
+    "question": "The area of a circle is 314 cm². What is its radius? (π ≈ 3.14)",
+    "options": ["5 cm", "10 cm", "15 cm", "20 cm"],
+    "correctIndex": 1,
+    "explanation": "Area = π × r² → r² = 314 ÷ 3.14 = 100 → r = √100 = 10 cm."
+  },
+  {
+    "question": "Two squares have sides 5 cm and 3 cm. What is the difference in their areas?",
+    "options": ["4 cm²", "8 cm²", "16 cm²", "34 cm²"],
+    "correctIndex": 2,
+    "explanation": "Area of larger square = 5² = 25 cm². Area of smaller = 3² = 9 cm². Difference = 25 − 9 = 16 cm²."
+  },
+  {
+    "question": "A rectangular plot is 50 m × 40 m. What is the cost of levelling it at ₹2 per m²?",
+    "options": ["₹180", "₹2000", "₹4000", "₹8000"],
+    "correctIndex": 2,
+    "explanation": "Area = 50 × 40 = 2000 m². Cost = 2000 × ₹2 = ₹4000."
+  },
+  {
+    "question": "A triangle has sides 5 cm, 12 cm, and 13 cm. What is its area?",
+    "options": ["30 cm²", "32.5 cm²", "60 cm²", "65 cm²"],
+    "correctIndex": 0,
+    "explanation": "Since 5² + 12² = 25 + 144 = 169 = 13², it is a right triangle with legs 5 and 12. Area = ½ × 5 × 12 = 30 cm²."
+  },
+  {
+    "question": "If the length of a rectangle is increased by 10% and breadth is decreased by 10%, what happens to its area?",
+    "options": ["Stays the same", "Increases by 1%", "Decreases by 1%", "Decreases by 10%"],
+    "correctIndex": 2,
+    "explanation": "New area = 1.1l × 0.9b = 0.99lb. So area decreases by 1% of the original."
+  },
+  {
+    "question": "What is the area of a quarter circle with radius 14 cm? (π = 22/7)",
+    "options": ["154 cm²", "308 cm²", "44 cm²", "616 cm²"],
+    "correctIndex": 0,
+    "explanation": "Area of full circle = 22/7 × 14 × 14 = 616 cm². Quarter circle = 616 ÷ 4 = 154 cm²."
+  },
+  {
+    "question": "A parallelogram and a rectangle have the same base and height. Which has greater area?",
+    "options": ["Rectangle", "Parallelogram", "Both have equal area", "Cannot be determined"],
+    "correctIndex": 2,
+    "explanation": "Both have area = base × height. Since base and height are the same, their areas are always equal."
+  },
+  {
+    "question": "What is the area of a square whose diagonal is 10 cm?",
+    "options": ["25 cm²", "50 cm²", "100 cm²", "70.7 cm²"],
+    "correctIndex": 1,
+    "explanation": "For a square with diagonal d, Area = d²/2 = 10²/2 = 100/2 = 50 cm²."
+  },
+  {
+    "question": "A path 2 m wide surrounds a rectangular field 30 m × 20 m. What is the area of the path?",
+    "options": ["100 m²", "216 m²", "600 m²", "816 m²"],
+    "correctIndex": 1,
+    "explanation": "Outer dimensions = (30+4) × (20+4) = 34 × 24 = 816 m². Inner area = 30 × 20 = 600 m². Path area = 816 − 600 = 216 m²."
+  },
+  {
+    "question": "The base of a triangle is 4 times its height. If height is 5 cm, what is the area?",
+    "options": ["20 cm²", "50 cm²", "40 cm²", "100 cm²"],
+    "correctIndex": 1,
+    "explanation": "Base = 4 × 5 = 20 cm. Area = ½ × 20 × 5 = 50 cm²."
+  },
+  {
+    "question": "1 hectare is equal to how many square metres?",
+    "options": ["100 m²", "1000 m²", "10000 m²", "100000 m²"],
+    "correctIndex": 2,
+    "explanation": "1 hectare = 10,000 m². It is commonly used to measure large land areas like fields and forests."
+  },
+  {
+    "question": "What is the area of a circle whose circumference is 44 cm? (π = 22/7)",
+    "options": ["77 cm²", "154 cm²", "44 cm²", "308 cm²"],
+    "correctIndex": 1,
+    "explanation": "Circumference = 2πr → 44 = 2 × 22/7 × r → r = 7 cm. Area = 22/7 × 7² = 154 cm²."
+  },
+  {
+    "question": "The length and breadth of a rectangle are in ratio 3:2. If area is 150 cm², what is the length?",
+    "options": ["10 cm", "12 cm", "15 cm", "18 cm"],
+    "correctIndex": 2,
+    "explanation": "Let length = 3x, breadth = 2x. Area = 3x × 2x = 6x² = 150 → x² = 25 → x = 5. Length = 3 × 5 = 15 cm."
+  },
+  {
+    "question": "A square and a rectangle have the same area of 64 cm². The rectangle is 16 cm long. What is the difference in their perimeters?",
+    "options": ["0 cm", "8 cm", "16 cm", "4 cm"],
+    "correctIndex": 1,
+    "explanation": "Square side = √64 = 8 cm, perimeter = 32 cm. Rectangle breadth = 64 ÷ 16 = 4 cm, perimeter = 2(16+4) = 40 cm. Difference = 40 − 32 = 8 cm."
+  },
+  {
+    "question": "What is the area of a regular hexagon with side 6 cm? (√3 ≈ 1.73)",
+    "options": ["54√3 cm²", "36√3 cm²", "18√3 cm²", "72√3 cm²"],
+    "correctIndex": 0,
+    "explanation": "Area of regular hexagon = (3√3/2) × side² = (3√3/2) × 36 = 54√3 cm² ≈ 93.5 cm²."
+  },
+  {
+    "question": "A floor is 10 m × 8 m. Tiles of size 50 cm × 40 cm are used. How many tiles are needed?",
+    "options": ["200", "300", "400", "500"],
+    "correctIndex": 2,
+    "explanation": "Floor area = 1000 cm × 800 cm = 800000 cm². Tile area = 50 × 40 = 2000 cm². Tiles = 800000 ÷ 2000 = 400."
+  },
+  {
+    "question": "The area of a trapezium is 80 cm². The parallel sides are 12 cm and 8 cm. What is its height?",
+    "options": ["4 cm", "6 cm", "8 cm", "10 cm"],
+    "correctIndex": 2,
+    "explanation": "Area = ½ × (a + b) × h → 80 = ½ × (12 + 8) × h → 80 = 10h → h = 8 cm."
+  },
+  {
+    "question": "What is the area of a shaded ring if the outer radius is 7 cm and inner radius is 3.5 cm? (π = 22/7)",
+    "options": ["115.5 cm²", "77 cm²", "38.5 cm²", "154 cm²"],
+    "correctIndex": 0,
+    "explanation": "Outer area = 22/7 × 7² = 154 cm². Inner area = 22/7 × 3.5² = 38.5 cm². Ring area = 154 − 38.5 = 115.5 cm²."
+  },
+  {
+    "question": "How many times does the area of an equilateral triangle increase if its side is doubled?",
+    "options": ["2 times", "3 times", "4 times", "6 times"],
+    "correctIndex": 2,
+    "explanation": "Area = (√3/4) × s². If s doubles, area = (√3/4) × (2s)² = (√3/4) × 4s² = 4 times the original."
+  },
+  {
+    "question": "A square carpet covers an area of 3.24 m². What is the length of its side?",
+    "options": ["1.6 m", "1.7 m", "1.8 m", "1.9 m"],
+    "correctIndex": 2,
+    "explanation": "Side = √3.24 = 1.8 m. So the carpet is 1.8 m × 1.8 m."
+  },
+  {
+    "question": "The diagonal of a rectangle is 13 cm and one side is 5 cm. What is its area?",
+    "options": ["30 cm²", "60 cm²", "65 cm²", "120 cm²"],
+    "correctIndex": 1,
+    "explanation": "Using Pythagoras: other side = √(13² − 5²) = √(169 − 25) = √144 = 12 cm. Area = 5 × 12 = 60 cm²."
   }
-]                   
+]
