@@ -1,177 +1,332 @@
 [
   {
-    "question": "A shopkeeper buys an item for ₹100 and sells it for ₹150. What is his profit?",
-    "options": ["₹25", "₹50", "₹75", "₹100"],
+    "question": "What is the average of 10, 20, 30, 40, 50?",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
     "correctIndex": 1,
-    "explanation": "Profit = SP - CP = 150 - 100 = ₹50."
+    "explanation": "Average = Sum / Count = (10+20+30+40+50) / 5 = 150 / 5 = 30."
   },
   {
-    "question": "Cost Price = ₹200, Selling Price = ₹160. What is the loss?",
-    "options": ["₹20", "₹30", "₹40", "₹50"],
+    "question": "What is the formula for Average?",
+    "options": [
+      "Sum x Count",
+      "Sum / Count",
+      "Count / Sum",
+      "Sum - Count"
+    ],
+    "correctIndex": 1,
+    "explanation": "Average = Sum of all values / Number of values."
+  },
+  {
+    "question": "Average of first 5 natural numbers?",
+    "options": [
+      "2",
+      "2.5",
+      "3",
+      "3.5"
+    ],
     "correctIndex": 2,
-    "explanation": "Loss = CP - SP = 200 - 160 = ₹40."
+    "explanation": "First 5 natural numbers: 1,2,3,4,5. Sum = 15. Average = 15/5 = 3."
   },
   {
-    "question": "What is the formula for Profit?",
-    "options": ["CP - SP", "SP - CP", "CP + SP", "CP ÷ SP"],
+    "question": "The average of 6, 8, 10, 12 is?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
     "correctIndex": 1,
-    "explanation": "Profit = SP - CP."
+    "explanation": "Sum = 6+8+10+12 = 36. Average = 36/4 = 9."
   },
   {
-    "question": "A vendor buys apples for ₹50 per kg and sells for ₹70 per kg. What is profit per kg?",
-    "options": ["₹10", "₹15", "₹20", "₹25"],
+    "question": "Average of first 10 natural numbers?",
+    "options": [
+      "5",
+      "5.5",
+      "6",
+      "6.5"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum of first 10 natural numbers = 10x11/2 = 55. Average = 55/10 = 5.5."
+  },
+  {
+    "question": "The average of 5 numbers is 20. What is their sum?",
+    "options": [
+      "25",
+      "40",
+      "100",
+      "200"
+    ],
     "correctIndex": 2,
-    "explanation": "Profit = 70 - 50 = ₹20."
+    "explanation": "Sum = Average x Count = 20 x 5 = 100."
   },
   {
-    "question": "What is the formula for Profit Percentage?",
-    "options": ["(Profit/SP) × 100", "(Profit/CP) × 100", "(CP/SP) × 100", "(SP/CP) × 100"],
+    "question": "The average of 4 numbers is 15. If one number is 10, what is the average of remaining 3?",
+    "options": [
+      "15",
+      "16.67",
+      "17",
+      "18"
+    ],
     "correctIndex": 1,
-    "explanation": "Profit % = (Profit / CP) × 100."
+    "explanation": "Total sum = 15 x 4 = 60. Remaining sum = 60 - 10 = 50. Average = 50/3 = 16.67."
   },
   {
-    "question": "CP = ₹100, SP = ₹125. What is profit percentage?",
-    "options": ["15%", "20%", "25%", "30%"],
+    "question": "Average of 7, 14, 21, 28, 35 is?",
+    "options": [
+      "14",
+      "21",
+      "28",
+      "35"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = 7+14+21+28+35 = 105. Average = 105/5 = 21."
+  },
+  {
+    "question": "A student scores 60, 70, 80, 90 in four subjects. What is the average score?",
+    "options": [
+      "70",
+      "75",
+      "80",
+      "85"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = 60+70+80+90 = 300. Average = 300/4 = 75."
+  },
+  {
+    "question": "The average of 3 numbers is 30. Two numbers are 25 and 35. Find the third.",
+    "options": [
+      "25",
+      "28",
+      "30",
+      "35"
+    ],
     "correctIndex": 2,
-    "explanation": "Profit = 25, Profit % = (25/100) × 100 = 25%."
+    "explanation": "Total sum = 30 x 3 = 90. Third number = 90 - 25 - 35 = 30."
   },
   {
-    "question": "CP = ₹200, SP = ₹160. What is loss percentage?",
-    "options": ["15%", "20%", "25%", "30%"],
+    "question": "Average of first 5 even numbers?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
     "correctIndex": 1,
-    "explanation": "Loss = 40, Loss % = (40/200) × 100 = 20%."
+    "explanation": "First 5 even numbers: 2,4,6,8,10. Sum = 30. Average = 30/5 = 6."
   },
   {
-    "question": "An item costs ₹500 and is sold at 10% profit. What is SP?",
-    "options": ["₹450", "₹550", "₹600", "₹650"],
+    "question": "Average of first 5 odd numbers?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
     "correctIndex": 1,
-    "explanation": "SP = 500 + (10% of 500) = 500 × 1.10 = ₹550."
+    "explanation": "First 5 odd numbers: 1,3,5,7,9. Sum = 25. Average = 25/5 = 5."
   },
   {
-    "question": "An article costs ₹300 and is sold at 20% loss. What is SP?",
-    "options": ["₹200", "₹220", "₹240", "₹260"],
-    "correctIndex": 2,
-    "explanation": "SP = 300 - (20% of 300) = 300 × 0.80 = ₹240."
+    "question": "If the average of x and y is 20, what is x + y?",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "correctIndex": 3,
+    "explanation": "(x + y) / 2 = 20, so x + y = 40."
   },
   {
-    "question": "An item is sold for ₹480 at 20% profit. What is CP?",
-    "options": ["₹350", "₹380", "₹400", "₹420"],
-    "correctIndex": 2,
-    "explanation": "CP = SP / (1 + Profit%) = 480 / 1.20 = ₹400."
-  },
-  {
-    "question": "Marked Price = ₹500, Discount = ₹50. What is SP?",
-    "options": ["₹400", "₹450", "₹550", "₹600"],
-    "correctIndex": 1,
-    "explanation": "SP = Marked Price - Discount = 500 - 50 = ₹450."
-  },
-  {
-    "question": "MP = ₹1000, Discount = 10%. What is SP?",
-    "options": ["₹850", "₹900", "₹950", "₹990"],
-    "correctIndex": 1,
-    "explanation": "SP = 1000 - (10% of 1000) = 1000 × 0.90 = ₹900."
-  },
-  {
-    "id": 13,
-    "question": "MP = ₹800, SP = ₹720. What is discount %?",
-    "options": ["8%", "10%", "12%", "15%"],
-    "correctIndex": 1,
-    "explanation": "Discount = 80. Discount % = (80/800) × 100 = 10%."
-  },
-  {
-    "question": "CP = ₹200, Markup = 50%. What is MP?",
-    "options": ["₹250", "₹300", "₹350", "₹400"],
-    "correctIndex": 1,
-    "explanation": "MP = CP + (50% of CP) = 200 × 1.5 = ₹300."
-  },
-  {
-    "question": "CP = ₹400, MP = ₹600. What is markup %?",
-    "options": ["25%", "33.33%", "50%", "66.67%"],
-    "correctIndex": 2,
-    "explanation": "Markup = 200. Markup % = (200/400) × 100 = 50%."
-  },
-  {
-    "question": "CP = ₹600, SP = ₹900. What is profit %?",
-    "options": ["33.33%", "50%", "66.67%", "75%"],
-    "correctIndex": 1,
-    "explanation": "Profit = 300. Profit % = (300/600) × 100 = 50%."
-  },
-  {
-    "question": "A book costs ₹150 and is sold at ₹180. What is profit %?",
-    "options": ["15%", "20%", "25%", "30%"],
-    "correctIndex": 1,
-    "explanation": "Profit = 30. Profit % = (30/150) × 100 = 20%."
-  },
-  {
-    "question": "If CP = ₹250 and profit is ₹50, what is SP?",
-    "options": ["₹200", "₹250", "₹300", "₹350"],
-    "correctIndex": 2,
-    "explanation": "SP = CP + Profit = 250 + 50 = ₹300."
-  },
-  {
-    "question": "If SP = ₹400 and loss is ₹100, what is CP?",
-    "options": ["₹300", "₹400", "₹500", "₹600"],
-    "correctIndex": 2,
-    "explanation": "CP = SP + Loss = 400 + 100 = ₹500."
-  },
-  {
-    "question": "An item marked ₹1000 has 30% discount. What is SP?",
-    "options": ["₹650", "₹700", "₹750", "₹800"],
-    "correctIndex": 1,
-    "explanation": "SP = 1000 - (30% of 1000) = 1000 × 0.70 = ₹700."
-  },
-  {
-    "question": "A shopkeeper marks ₹500, gives 20% discount, CP ₹300. Profit %?",
-    "options": ["20%", "25%", "33.33%", "40%"],
-    "correctIndex": 2,
-    "explanation": "SP = 400. Profit = 100. Profit % = (100/300) × 100 = 33.33%."
-  },
-  {
-    "question": "A merchant buys ₹5000 + ₹500 cost, sells ₹6200. Profit %?",
-    "options": ["10%", "12.73%", "15%", "20%"],
-    "correctIndex": 1,
-    "explanation": "Total CP = 5500. Profit = 700. Profit % = (700/5500) × 100 = 12.73%."
-  },
-  {
-    "question": "CP = ₹80, MP = ₹120, Discount = 20%. Profit %?",
-    "options": ["20%", "30%", "40%", "50%"],
+    "question": "The average age of 10 people is 25. A new person aged 35 joins. New average?",
+    "options": [
+      "25.9",
+      "26",
+      "26.67",
+      "27"
+    ],
     "correctIndex": 0,
-    "explanation": "SP = 120 - 24 = 96. Profit = 16. Profit % = (16/80) × 100 = 20%."
+    "explanation": "Total age = 10 x 25 = 250. New total = 250 + 35 = 285. New average = 285/11 = 25.9."
   },
   {
-    "question": "An article costs ₹300 and profit is 20%. What is SP?",
-    "options": ["₹320", "₹340", "₹360", "₹380"],
+    "question": "Average of 100, 200, 300, 400, 500 is?",
+    "options": [
+      "200",
+      "250",
+      "300",
+      "350"
+    ],
     "correctIndex": 2,
-    "explanation": "SP = 300 × 1.20 = ₹360."
+    "explanation": "Sum = 1500. Average = 1500/5 = 300."
   },
   {
-    "question": "Price increased from ₹500 to ₹600. % increase?",
-    "options": ["16.67%", "18%", "20%", "22%"],
+    "question": "The average of 5 consecutive numbers is 13. What is the largest number?",
+    "options": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
     "correctIndex": 2,
-    "explanation": "Increase = 100. % Increase = (100/500) × 100 = 20%."
+    "explanation": "For consecutive numbers, average = middle number = 13. Numbers are 11,12,13,14,15. Largest = 15."
   },
   {
-    "question": "A person buys 100 items at ₹10, sells at ₹12. Profit %?",
-    "options": ["15%", "20%", "25%", "30%"],
+    "question": "Average of 5 consecutive even numbers is 18. What is the smallest?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
     "correctIndex": 1,
-    "explanation": "Profit per item = 2. Profit % = (2/10) × 100 = 20%."
+    "explanation": "Middle number = 18. Numbers are 14,16,18,20,22. Smallest = 14."
   },
   {
-    "question": "An article sold at ₹500 at 20% loss. CP?",
-    "options": ["₹600", "₹625", "₹650", "₹700"],
-    "correctIndex": 1,
-    "explanation": "CP = SP / 0.80 = 500 / 0.80 = ₹625."
-  },
-  {
-    "question": "If Profit = ₹45 and Profit % = 15%, find CP.",
-    "options": ["₹250", "₹275", "₹300", "₹325"],
+    "question": "The average marks of 30 students is 60. 5 more students with average 40 join. New average?",
+    "options": [
+      "54.29",
+      "55",
+      "57.14",
+      "58"
+    ],
     "correctIndex": 2,
-    "explanation": "CP = (Profit / Profit%) × 100 = (45 / 15) × 100 = ₹300."
+    "explanation": "Total = 30x60 + 5x40 = 1800+200 = 2000. New average = 2000/35 = 57.14."
   },
   {
-    "question": "MP ₹900, 20% discount, 25% profit. Find CP.",
-    "options": ["₹576", "₹600", "₹625", "₹650"],
-    "correctIndex": 0,
-    "explanation": "SP = 900 × 0.8 = 720. CP = 720 / 1.25 = ₹576."
+    "question": "Average of 11, 22, 33, 44, 55, 66 is?",
+    "options": [
+      "33",
+      "38.5",
+      "44",
+      "38"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum = 11+22+33+44+55+66 = 231. Average = 231/6 = 38.5."
+  },
+  {
+    "question": "Average temp Mon-Wed is 30 C. Tue-Thu is 32 C. Thu = 36 C. What is Mon?",
+    "options": [
+      "28 C",
+      "30 C",
+      "32 C",
+      "34 C"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mon+Tue+Wed = 90. Tue+Wed+Thu = 96. Thu=36 so Tue+Wed=60. Mon = 90-60 = 30 C."
+  },
+  {
+    "question": "Average weight of 8 persons is 55 kg. One person weighing 85 kg leaves. New average?",
+    "options": [
+      "50",
+      "50.71",
+      "51",
+      "52"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total = 8x55 = 440. After removal = 440-85 = 355. New average = 355/7 = 50.71."
+  },
+  {
+    "question": "Average of 9 numbers is 18. A 10th number is added and average becomes 20. Find 10th number.",
+    "options": [
+      "30",
+      "35",
+      "38",
+      "40"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sum of 9 = 9x18 = 162. New sum = 20x10 = 200. 10th number = 200-162 = 38."
+  },
+  {
+    "question": "Average of 25 results is 18. First 12 average is 14 and last 12 average is 17. Find 13th result.",
+    "options": [
+      "74",
+      "76",
+      "78",
+      "80"
+    ],
+    "correctIndex": 2,
+    "explanation": "Total = 25x18 = 450. First 12 sum = 12x14 = 168. Last 12 sum = 12x17 = 204. 13th = 450-168-204 = 78."
+  },
+  {
+    "question": "If average of a, b, c is M, what is average of a+3, b+3, c+3?",
+    "options": [
+      "M",
+      "M+1",
+      "M+3",
+      "3M"
+    ],
+    "correctIndex": 2,
+    "explanation": "Each value increases by 3, so average also increases by 3. New average = M+3."
+  },
+  {
+    "question": "Average of 20 numbers is 35. Each number is multiplied by 2. New average?",
+    "options": [
+      "35",
+      "55",
+      "70",
+      "140"
+    ],
+    "correctIndex": 2,
+    "explanation": "When each value is multiplied by k, average also multiplies by k. New average = 35 x 2 = 70."
+  },
+  {
+    "question": "Average salary of 10 workers is Rs.2000. Manager's salary Rs.7000 is added. New average?",
+    "options": [
+      "Rs.2400",
+      "Rs.2454.55",
+      "Rs.2500",
+      "Rs.2600"
+    ],
+    "correctIndex": 1,
+    "explanation": "Total = 10x2000 = 20000. New total = 20000+7000 = 27000. New average = 27000/11 = 2454.55."
+  },
+  {
+    "question": "Average of first n natural numbers is?",
+    "options": [
+      "n/2",
+      "(n+1)/2",
+      "n(n+1)/2",
+      "(n-1)/2"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sum of first n = n(n+1)/2. Average = [n(n+1)/2] / n = (n+1)/2."
+  },
+  {
+    "question": "The average of squares of first 3 natural numbers is?",
+    "options": [
+      "4",
+      "4.67",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "explanation": "Squares: 1, 4, 9. Sum = 14. Average = 14/3 = 4.67."
+  },
+  {
+    "question": "A batsman's average after 10 innings is 40. He scores 100 in 11th innings. New average?",
+    "options": [
+      "44",
+      "45",
+      "45.45",
+      "46"
+    ],
+    "correctIndex": 2,
+    "explanation": "Total runs = 10x40 = 400. New total = 400+100 = 500. New average = 500/11 = 45.45."
+  },
+  {
+    "question": "Average of 6 numbers is 30. One number wrongly read as 16 instead of 61. Correct average?",
+    "options": [
+      "36",
+      "37",
+      "37.5",
+      "38"
+    ],
+    "correctIndex": 2,
+    "explanation": "Wrong sum = 30x6 = 180. Correct sum = 180-16+61 = 225. Correct average = 225/6 = 37.5."
   }
-]                   
+]
