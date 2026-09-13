@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is -18 + 11?",
+    "options": ["-29", "-7", "7", "29"],
+    "correctIndex": 1,
+    "explanation": "-18 + 11 = -7."
+  },
+  {
+    "question": "What is 24 + (-16)?",
+    "options": ["-40", "-8", "8", "40"],
+    "correctIndex": 2,
+    "explanation": "24 + (-16) = 8."
+  },
+  {
+    "question": "What is -21 - 9?",
+    "options": ["-30", "-12", "12", "30"],
+    "correctIndex": 0,
+    "explanation": "-21 - 9 = -30."
+  },
+  {
+    "question": "What is 17 - (-8)?",
+    "options": ["9", "25", "-25", "-9"],
+    "correctIndex": 1,
+    "explanation": "17 - (-8) = 17 + 8 = 25."
+  },
+  {
+    "question": "What is -13 + (-7)?",
+    "options": ["-20", "-6", "6", "20"],
+    "correctIndex": 0,
+    "explanation": "-13 + (-7) = -20."
+  },
+  {
+    "question": "What is 9 - 22?",
+    "options": ["-13", "-31", "13", "31"],
+    "correctIndex": 0,
+    "explanation": "9 - 22 = -13."
+  },
+  {
+    "question": "What is -19 + 25?",
+    "options": ["-44", "-6", "6", "44"],
+    "correctIndex": 2,
+    "explanation": "-19 + 25 = 6."
+  },
+  {
+    "question": "What is -32 - (-14)?",
+    "options": ["-46", "-18", "18", "46"],
+    "correctIndex": 1,
+    "explanation": "-32 - (-14) = -32 + 14 = -18."
+  },
+  {
+    "question": "What is (-9) × 4?",
+    "options": ["-36", "-13", "13", "36"],
+    "correctIndex": 0,
+    "explanation": "(-9) × 4 = -36."
+  },
+  {
+    "question": "What is (-8) × (-5)?",
+    "options": ["-40", "-13", "13", "40"],
+    "correctIndex": 3,
+    "explanation": "A negative multiplied by a negative gives a positive. (-8) × (-5) = 40."
+  },
+  {
+    "question": "What is 81 ÷ (-9)?",
+    "options": ["-9", "-8", "8", "9"],
+    "correctIndex": 0,
+    "explanation": "81 ÷ (-9) = -9."
+  },
+  {
+    "question": "What is (-64) ÷ (-8)?",
+    "options": ["-8", "-4", "4", "8"],
+    "correctIndex": 3,
+    "explanation": "A negative divided by a negative gives a positive. (-64) ÷ (-8) = 8."
+  },
+  {
+    "question": "What is the absolute value of -35?",
+    "options": ["-35", "-5", "5", "35"],
+    "correctIndex": 3,
+    "explanation": "The absolute value is the distance from zero, so |-35| = 35."
+  },
+  {
+    "question": "Which integer is greatest?",
+    "options": ["-12", "-4", "-9", "-7"],
+    "correctIndex": 1,
+    "explanation": "-4 is closest to zero, so it is the greatest."
+  },
+  {
+    "question": "Which integer is smallest?",
+    "options": ["-6", "-18", "3", "0"],
+    "correctIndex": 1,
+    "explanation": "-18 is farthest to the left on the number line, so it is the smallest."
+  },
+  {
+    "question": "What is (-7) + 19 - 6?",
+    "options": ["-2", "6", "12", "18"],
+    "correctIndex": 1,
+    "explanation": "-7 + 19 = 12, and 12 - 6 = 6."
+  },
+  {
+    "question": "What is 5 × (-4) + 13?",
+    "options": ["-33", "-7", "7", "33"],
+    "correctIndex": 1,
+    "explanation": "5 × (-4) = -20, and -20 + 13 = -7."
+  },
+  {
+    "question": "What is -25 + 10 - (-8)?",
+    "options": ["-23", "-7", "7", "23"],
+    "correctIndex": 1,
+    "explanation": "-25 + 10 = -15, and -15 - (-8) = -15 + 8 = -7."
+  },
+  {
+    "question": "What is (-4)²?",
+    "options": ["-16", "-8", "8", "16"],
+    "correctIndex": 3,
+    "explanation": "(-4)² = (-4) × (-4) = 16."
+  },
+  {
+    "question": "What is (-3)³?",
+    "options": ["-27", "-9", "9", "27"],
+    "correctIndex": 0,
+    "explanation": "(-3)³ = (-3) × (-3) × (-3) = -27."
+  }
+]
