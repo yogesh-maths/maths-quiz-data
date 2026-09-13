@@ -1,332 +1,57 @@
 [
   {
-    "question": "What is the average of 10, 20, 30, 40, 50?",
+    "question": "What is -5 + 3?",
     "options": [
-      "25",
-      "30",
-      "35",
-      "40"
-    ],
-    "correctIndex": 1,
-    "explanation": "Average = Sum / Count = (10+20+30+40+50) / 5 = 150 / 5 = 30."
-  },
-  {
-    "question": "What is the formula for Average?",
-    "options": [
-      "Sum x Count",
-      "Sum / Count",
-      "Count / Sum",
-      "Sum - Count"
-    ],
-    "correctIndex": 1,
-    "explanation": "Average = Sum of all values / Number of values."
-  },
-  {
-    "question": "Average of first 5 natural numbers?",
-    "options": [
+      "-8",
+      "-2",
       "2",
-      "2.5",
-      "3",
-      "3.5"
-    ],
-    "correctIndex": 2,
-    "explanation": "First 5 natural numbers: 1,2,3,4,5. Sum = 15. Average = 15/5 = 3."
-  },
-  {
-    "question": "The average of 6, 8, 10, 12 is?",
-    "options": [
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "correctIndex": 1,
-    "explanation": "Sum = 6+8+10+12 = 36. Average = 36/4 = 9."
-  },
-  {
-    "question": "Average of first 10 natural numbers?",
-    "options": [
-      "5",
-      "5.5",
-      "6",
-      "6.5"
-    ],
-    "correctIndex": 1,
-    "explanation": "Sum of first 10 natural numbers = 10x11/2 = 55. Average = 55/10 = 5.5."
-  },
-  {
-    "question": "The average of 5 numbers is 20. What is their sum?",
-    "options": [
-      "25",
-      "40",
-      "100",
-      "200"
-    ],
-    "correctIndex": 2,
-    "explanation": "Sum = Average x Count = 20 x 5 = 100."
-  },
-  {
-    "question": "The average of 4 numbers is 15. If one number is 10, what is the average of remaining 3?",
-    "options": [
-      "15",
-      "16.67",
-      "17",
-      "18"
-    ],
-    "correctIndex": 1,
-    "explanation": "Total sum = 15 x 4 = 60. Remaining sum = 60 - 10 = 50. Average = 50/3 = 16.67."
-  },
-  {
-    "question": "Average of 7, 14, 21, 28, 35 is?",
-    "options": [
-      "14",
-      "21",
-      "28",
-      "35"
-    ],
-    "correctIndex": 1,
-    "explanation": "Sum = 7+14+21+28+35 = 105. Average = 105/5 = 21."
-  },
-  {
-    "question": "A student scores 60, 70, 80, 90 in four subjects. What is the average score?",
-    "options": [
-      "70",
-      "75",
-      "80",
-      "85"
-    ],
-    "correctIndex": 1,
-    "explanation": "Sum = 60+70+80+90 = 300. Average = 300/4 = 75."
-  },
-  {
-    "question": "The average of 3 numbers is 30. Two numbers are 25 and 35. Find the third.",
-    "options": [
-      "25",
-      "28",
-      "30",
-      "35"
-    ],
-    "correctIndex": 2,
-    "explanation": "Total sum = 30 x 3 = 90. Third number = 90 - 25 - 35 = 30."
-  },
-  {
-    "question": "Average of first 5 even numbers?",
-    "options": [
-      "5",
-      "6",
-      "7",
       "8"
     ],
     "correctIndex": 1,
-    "explanation": "First 5 even numbers: 2,4,6,8,10. Sum = 30. Average = 30/5 = 6."
+    "explanation": "-5 + 3 = -2."
   },
   {
-    "question": "Average of first 5 odd numbers?",
+    "question": "What is 7 + (-4)?",
     "options": [
-      "4",
-      "5",
-      "6",
-      "7"
+      "-11",
+      "-3",
+      "3",
+      "11"
     ],
-    "correctIndex": 1,
-    "explanation": "First 5 odd numbers: 1,3,5,7,9. Sum = 25. Average = 25/5 = 5."
+    "correctIndex": 2,
+    "explanation": "7 + (-4) = 3."
   },
   {
-    "question": "If the average of x and y is 20, what is x + y?",
+    "question": "What is -8 - 5?",
     "options": [
-      "10",
-      "20",
-      "30",
-      "40"
-    ],
-    "correctIndex": 3,
-    "explanation": "(x + y) / 2 = 20, so x + y = 40."
-  },
-  {
-    "question": "The average age of 10 people is 25. A new person aged 35 joins. New average?",
-    "options": [
-      "25.9",
-      "26",
-      "26.67",
-      "27"
+      "-13",
+      "-3",
+      "3",
+      "13"
     ],
     "correctIndex": 0,
-    "explanation": "Total age = 10 x 25 = 250. New total = 250 + 35 = 285. New average = 285/11 = 25.9."
+    "explanation": "-8 - 5 = -13."
   },
   {
-    "question": "Average of 100, 200, 300, 400, 500 is?",
+    "question": "What is -6 - (-2)?",
     "options": [
-      "200",
-      "250",
-      "300",
-      "350"
-    ],
-    "correctIndex": 2,
-    "explanation": "Sum = 1500. Average = 1500/5 = 300."
-  },
-  {
-    "question": "The average of 5 consecutive numbers is 13. What is the largest number?",
-    "options": [
-      "13",
-      "14",
-      "15",
-      "16"
-    ],
-    "correctIndex": 2,
-    "explanation": "For consecutive numbers, average = middle number = 13. Numbers are 11,12,13,14,15. Largest = 15."
-  },
-  {
-    "question": "Average of 5 consecutive even numbers is 18. What is the smallest?",
-    "options": [
-      "12",
-      "14",
-      "16",
-      "18"
-    ],
-    "correctIndex": 1,
-    "explanation": "Middle number = 18. Numbers are 14,16,18,20,22. Smallest = 14."
-  },
-  {
-    "question": "The average marks of 30 students is 60. 5 more students with average 40 join. New average?",
-    "options": [
-      "54.29",
-      "55",
-      "57.14",
-      "58"
-    ],
-    "correctIndex": 2,
-    "explanation": "Total = 30x60 + 5x40 = 1800+200 = 2000. New average = 2000/35 = 57.14."
-  },
-  {
-    "question": "Average of 11, 22, 33, 44, 55, 66 is?",
-    "options": [
-      "33",
-      "38.5",
-      "44",
-      "38"
-    ],
-    "correctIndex": 1,
-    "explanation": "Sum = 11+22+33+44+55+66 = 231. Average = 231/6 = 38.5."
-  },
-  {
-    "question": "Average temp Mon-Wed is 30 C. Tue-Thu is 32 C. Thu = 36 C. What is Mon?",
-    "options": [
-      "28 C",
-      "30 C",
-      "32 C",
-      "34 C"
-    ],
-    "correctIndex": 1,
-    "explanation": "Mon+Tue+Wed = 90. Tue+Wed+Thu = 96. Thu=36 so Tue+Wed=60. Mon = 90-60 = 30 C."
-  },
-  {
-    "question": "Average weight of 8 persons is 55 kg. One person weighing 85 kg leaves. New average?",
-    "options": [
-      "50",
-      "50.71",
-      "51",
-      "52"
-    ],
-    "correctIndex": 1,
-    "explanation": "Total = 8x55 = 440. After removal = 440-85 = 355. New average = 355/7 = 50.71."
-  },
-  {
-    "question": "Average of 9 numbers is 18. A 10th number is added and average becomes 20. Find 10th number.",
-    "options": [
-      "30",
-      "35",
-      "38",
-      "40"
-    ],
-    "correctIndex": 2,
-    "explanation": "Sum of 9 = 9x18 = 162. New sum = 20x10 = 200. 10th number = 200-162 = 38."
-  },
-  {
-    "question": "Average of 25 results is 18. First 12 average is 14 and last 12 average is 17. Find 13th result.",
-    "options": [
-      "74",
-      "76",
-      "78",
-      "80"
-    ],
-    "correctIndex": 2,
-    "explanation": "Total = 25x18 = 450. First 12 sum = 12x14 = 168. Last 12 sum = 12x17 = 204. 13th = 450-168-204 = 78."
-  },
-  {
-    "question": "If average of a, b, c is M, what is average of a+3, b+3, c+3?",
-    "options": [
-      "M",
-      "M+1",
-      "M+3",
-      "3M"
-    ],
-    "correctIndex": 2,
-    "explanation": "Each value increases by 3, so average also increases by 3. New average = M+3."
-  },
-  {
-    "question": "Average of 20 numbers is 35. Each number is multiplied by 2. New average?",
-    "options": [
-      "35",
-      "55",
-      "70",
-      "140"
-    ],
-    "correctIndex": 2,
-    "explanation": "When each value is multiplied by k, average also multiplies by k. New average = 35 x 2 = 70."
-  },
-  {
-    "question": "Average salary of 10 workers is Rs.2000. Manager's salary Rs.7000 is added. New average?",
-    "options": [
-      "Rs.2400",
-      "Rs.2454.55",
-      "Rs.2500",
-      "Rs.2600"
-    ],
-    "correctIndex": 1,
-    "explanation": "Total = 10x2000 = 20000. New total = 20000+7000 = 27000. New average = 27000/11 = 2454.55."
-  },
-  {
-    "question": "Average of first n natural numbers is?",
-    "options": [
-      "n/2",
-      "(n+1)/2",
-      "n(n+1)/2",
-      "(n-1)/2"
-    ],
-    "correctIndex": 1,
-    "explanation": "Sum of first n = n(n+1)/2. Average = [n(n+1)/2] / n = (n+1)/2."
-  },
-  {
-    "question": "The average of squares of first 3 natural numbers is?",
-    "options": [
+      "-8",
+      "-4",
       "4",
-      "4.67",
-      "5",
-      "6"
+      "8"
     ],
     "correctIndex": 1,
-    "explanation": "Squares: 1, 4, 9. Sum = 14. Average = 14/3 = 4.67."
+    "explanation": "-6 - (-2) = -6 + 2 = -4."
   },
   {
-    "question": "A batsman's average after 10 innings is 40. He scores 100 in 11th innings. New average?",
+    "question": "What is 9 + (-12)?",
     "options": [
-      "44",
-      "45",
-      "45.45",
-      "46"
+      "-21",
+      "-3",
+      "3",
+      "21"
     ],
-    "correctIndex": 2,
-    "explanation": "Total runs = 10x40 = 400. New total = 400+100 = 500. New average = 500/11 = 45.45."
-  },
-  {
-    "question": "Average of 6 numbers is 30. One number wrongly read as 16 instead of 61. Correct average?",
-    "options": [
-      "36",
-      "37",
-      "37.5",
-      "38"
-    ],
-    "correctIndex": 2,
-    "explanation": "Wrong sum = 30x6 = 180. Correct sum = 180-16+61 = 225. Correct average = 225/6 = 37.5."
+    "correctIndex": 1,
+    "explanation": "9 + (-12) = -3."
   }
 ]
