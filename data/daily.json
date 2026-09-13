@@ -1,57 +1,122 @@
 [
   {
     "question": "What is -5 + 3?",
-    "options": [
-      "-8",
-      "-2",
-      "2",
-      "8"
-    ],
+    "options": ["-8", "-2", "2", "8"],
     "correctIndex": 1,
     "explanation": "-5 + 3 = -2."
   },
   {
     "question": "What is 7 + (-4)?",
-    "options": [
-      "-11",
-      "-3",
-      "3",
-      "11"
-    ],
+    "options": ["-11", "-3", "3", "11"],
     "correctIndex": 2,
     "explanation": "7 + (-4) = 3."
   },
   {
     "question": "What is -8 - 5?",
-    "options": [
-      "-13",
-      "-3",
-      "3",
-      "13"
-    ],
+    "options": ["-13", "-3", "3", "13"],
     "correctIndex": 0,
     "explanation": "-8 - 5 = -13."
   },
   {
     "question": "What is -6 - (-2)?",
-    "options": [
-      "-8",
-      "-4",
-      "4",
-      "8"
-    ],
+    "options": ["-8", "-4", "4", "8"],
     "correctIndex": 1,
     "explanation": "-6 - (-2) = -6 + 2 = -4."
   },
   {
     "question": "What is 9 + (-12)?",
-    "options": [
-      "-21",
-      "-3",
-      "3",
-      "21"
-    ],
+    "options": ["-21", "-3", "3", "21"],
     "correctIndex": 1,
     "explanation": "9 + (-12) = -3."
+  },
+  {
+    "question": "What is -15 + 8?",
+    "options": ["-23", "-7", "7", "23"],
+    "correctIndex": 1,
+    "explanation": "-15 + 8 = -7."
+  },
+  {
+    "question": "What is 12 - 19?",
+    "options": ["-7", "-5", "5", "7"],
+    "correctIndex": 0,
+    "explanation": "12 - 19 = -7."
+  },
+  {
+    "question": "What is -10 + (-6)?",
+    "options": ["-16", "-4", "4", "16"],
+    "correctIndex": 0,
+    "explanation": "-10 + (-6) = -16."
+  },
+  {
+    "question": "What is -20 - (-8)?",
+    "options": ["-28", "-12", "12", "28"],
+    "correctIndex": 1,
+    "explanation": "-20 - (-8) = -20 + 8 = -12."
+  },
+  {
+    "question": "What is (-4) × 6?",
+    "options": ["-24", "-10", "10", "24"],
+    "correctIndex": 0,
+    "explanation": "(-4) × 6 = -24."
+  },
+  {
+    "question": "What is (-7) × (-3)?",
+    "options": ["-21", "-10", "10", "21"],
+    "correctIndex": 3,
+    "explanation": "(-7) × (-3) = 21."
+  },
+  {
+    "question": "What is 48 ÷ (-6)?",
+    "options": ["-8", "-6", "6", "8"],
+    "correctIndex": 0,
+    "explanation": "48 ÷ (-6) = -8."
+  },
+  {
+    "question": "What is (-36) ÷ (-4)?",
+    "options": ["-9", "-8", "8", "9"],
+    "correctIndex": 3,
+    "explanation": "(-36) ÷ (-4) = 9."
+  },
+  {
+    "question": "Which is the greatest integer?",
+    "options": ["-9", "-3", "-1", "-7"],
+    "correctIndex": 2,
+    "explanation": "Among these negative integers, -1 is closest to zero and therefore greatest."
+  },
+  {
+    "question": "Which is the smallest integer?",
+    "options": ["-12", "-5", "0", "4"],
+    "correctIndex": 0,
+    "explanation": "-12 is the smallest number among the given integers."
+  },
+  {
+    "question": "What is the absolute value of -18?",
+    "options": ["-18", "-9", "9", "18"],
+    "correctIndex": 3,
+    "explanation": "The absolute value is the distance from zero, so |-18| = 18."
+  },
+  {
+    "question": "What is (-5) + (-9) + 6?",
+    "options": ["-20", "-8", "8", "20"],
+    "correctIndex": 1,
+    "explanation": "(-5) + (-9) + 6 = -14 + 6 = -8."
+  },
+  {
+    "question": "What is (-3) × 4 + 10?",
+    "options": ["-22", "-2", "2", "22"],
+    "correctIndex": 1,
+    "explanation": "(-3) × 4 = -12, and -12 + 10 = -2."
+  },
+  {
+    "question": "What is 20 - (-15)?",
+    "options": ["5", "15", "35", "45"],
+    "correctIndex": 2,
+    "explanation": "20 - (-15) = 20 + 15 = 35."
+  },
+  {
+    "question": "What is (-2)³?",
+    "options": ["-8", "-6", "6", "8"],
+    "correctIndex": 0,
+    "explanation": "(-2)³ = (-2) × (-2) × (-2) = -8."
   }
 ]
