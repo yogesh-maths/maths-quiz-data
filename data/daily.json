@@ -1,122 +1,222 @@
 [
   {
-    "question": "What is -18 + 11?",
-    "options": ["-29", "-7", "7", "29"],
-    "correctIndex": 1,
-    "explanation": "-18 + 11 = -7."
+    "question": "What is the value of -7 + 12?",
+    "options": [
+      "5",
+      "-5",
+      "19",
+      "-19"
+    ],
+    "correctIndex": 0,
+    "explanation": "Adding 12 to -7 gives 5."
   },
   {
-    "question": "What is 24 + (-16)?",
-    "options": ["-40", "-8", "8", "40"],
+    "question": "What is the value of 15 - 23?",
+    "options": [
+      "8",
+      "-8",
+      "38",
+      "-38"
+    ],
+    "correctIndex": 1,
+    "explanation": "15 - 23 = -8."
+  },
+  {
+    "question": "What is (-6) \u00d7 (-4)?",
+    "options": [
+      "-24",
+      "10",
+      "24",
+      "-10"
+    ],
     "correctIndex": 2,
-    "explanation": "24 + (-16) = 8."
+    "explanation": "The product of two negative integers is positive, and 6 \u00d7 4 = 24."
   },
   {
-    "question": "What is -21 - 9?",
-    "options": ["-30", "-12", "12", "30"],
-    "correctIndex": 0,
-    "explanation": "-21 - 9 = -30."
-  },
-  {
-    "question": "What is 17 - (-8)?",
-    "options": ["9", "25", "-25", "-9"],
+    "question": "What is (-45) \u00f7 9?",
+    "options": [
+      "5",
+      "-5",
+      "-36",
+      "36"
+    ],
     "correctIndex": 1,
-    "explanation": "17 - (-8) = 17 + 8 = 25."
+    "explanation": "A negative divided by a positive is negative, and 45 \u00f7 9 = 5."
   },
   {
-    "question": "What is -13 + (-7)?",
-    "options": ["-20", "-6", "6", "20"],
-    "correctIndex": 0,
-    "explanation": "-13 + (-7) = -20."
+    "question": "Which integer is greater?",
+    "options": [
+      "-12",
+      "-8",
+      "-15",
+      "-20"
+    ],
+    "correctIndex": 1,
+    "explanation": "Among negative integers, the one closer to zero is greater; -8 is greatest."
   },
   {
-    "question": "What is 9 - 22?",
-    "options": ["-13", "-31", "13", "31"],
-    "correctIndex": 0,
-    "explanation": "9 - 22 = -13."
-  },
-  {
-    "question": "What is -19 + 25?",
-    "options": ["-44", "-6", "6", "44"],
+    "question": "What is the absolute value of -27?",
+    "options": [
+      "-27",
+      "0",
+      "27",
+      "54"
+    ],
     "correctIndex": 2,
-    "explanation": "-19 + 25 = 6."
+    "explanation": "Absolute value is the distance from zero, so |-27| = 27."
   },
   {
-    "question": "What is -32 - (-14)?",
-    "options": ["-46", "-18", "18", "46"],
+    "question": "What is -9 + (-6)?",
+    "options": [
+      "15",
+      "-3",
+      "3",
+      "-15"
+    ],
+    "correctIndex": 3,
+    "explanation": "Adding two negative integers gives -15."
+  },
+  {
+    "question": "What is 18 + (-25)?",
+    "options": [
+      "7",
+      "-7",
+      "43",
+      "-43"
+    ],
     "correctIndex": 1,
-    "explanation": "-32 - (-14) = -32 + 14 = -18."
+    "explanation": "18 - 25 = -7."
   },
   {
-    "question": "What is (-9) × 4?",
-    "options": ["-36", "-13", "13", "36"],
+    "question": "What is (-8) \u00d7 7?",
+    "options": [
+      "56",
+      "-56",
+      "15",
+      "-15"
+    ],
+    "correctIndex": 1,
+    "explanation": "A negative multiplied by a positive is negative, and 8 \u00d7 7 = 56."
+  },
+  {
+    "question": "What is (-72) \u00f7 (-8)?",
+    "options": [
+      "-9",
+      "9",
+      "64",
+      "-64"
+    ],
+    "correctIndex": 1,
+    "explanation": "A negative divided by a negative is positive, and 72 \u00f7 8 = 9."
+  },
+  {
+    "question": "Which integer comes immediately before -3 on the number line?",
+    "options": [
+      "-2",
+      "-4",
+      "2",
+      "4"
+    ],
+    "correctIndex": 1,
+    "explanation": "Moving one unit left from -3 gives -4."
+  },
+  {
+    "question": "Which integer comes immediately after -9 on the number line?",
+    "options": [
+      "-10",
+      "-8",
+      "8",
+      "10"
+    ],
+    "correctIndex": 1,
+    "explanation": "Moving one unit right from -9 gives -8."
+  },
+  {
+    "question": "What is 6 - (-11)?",
+    "options": [
+      "-5",
+      "5",
+      "17",
+      "-17"
+    ],
+    "correctIndex": 2,
+    "explanation": "Subtracting a negative is equivalent to adding, so 6 + 11 = 17."
+  },
+  {
+    "question": "What is -14 - 9?",
+    "options": [
+      "-5",
+      "5",
+      "-23",
+      "23"
+    ],
+    "correctIndex": 2,
+    "explanation": "Starting at -14 and subtracting 9 gives -23."
+  },
+  {
+    "question": "What is (-3) \u00d7 5 \u00d7 (-2)?",
+    "options": [
+      "-30",
+      "30",
+      "10",
+      "-10"
+    ],
+    "correctIndex": 1,
+    "explanation": "(-3) \u00d7 5 = -15, and -15 \u00d7 (-2) = 30."
+  },
+  {
+    "question": "What is 96 \u00f7 (-12)?",
+    "options": [
+      "8",
+      "-8",
+      "108",
+      "-108"
+    ],
+    "correctIndex": 1,
+    "explanation": "A positive divided by a negative is negative, and 96 \u00f7 12 = 8."
+  },
+  {
+    "question": "Which statement is true?",
+    "options": [
+      "-4 > 2",
+      "-10 > -6",
+      "-3 < -1",
+      "5 < -5"
+    ],
+    "correctIndex": 2,
+    "explanation": "On the number line, -3 is to the left of -1, so -3 < -1."
+  },
+  {
+    "question": "What is the sum of -18 and 18?",
+    "options": [
+      "36",
+      "-36",
+      "0",
+      "18"
+    ],
+    "correctIndex": 2,
+    "explanation": "Opposite integers have a sum of zero: -18 + 18 = 0."
+  },
+  {
+    "question": "What is the value of (-5)\u00b2?",
+    "options": [
+      "-25",
+      "10",
+      "25",
+      "-10"
+    ],
+    "correctIndex": 2,
+    "explanation": "(-5) \u00d7 (-5) = 25."
+  },
+  {
+    "question": "A temperature is -4\u00b0C and rises by 13\u00b0C. What is the new temperature?",
+    "options": [
+      "9\u00b0C",
+      "-9\u00b0C",
+      "17\u00b0C",
+      "-17\u00b0C"
+    ],
     "correctIndex": 0,
-    "explanation": "(-9) × 4 = -36."
-  },
-  {
-    "question": "What is (-8) × (-5)?",
-    "options": ["-40", "-13", "13", "40"],
-    "correctIndex": 3,
-    "explanation": "A negative multiplied by a negative gives a positive. (-8) × (-5) = 40."
-  },
-  {
-    "question": "What is 81 ÷ (-9)?",
-    "options": ["-9", "-8", "8", "9"],
-    "correctIndex": 0,
-    "explanation": "81 ÷ (-9) = -9."
-  },
-  {
-    "question": "What is (-64) ÷ (-8)?",
-    "options": ["-8", "-4", "4", "8"],
-    "correctIndex": 3,
-    "explanation": "A negative divided by a negative gives a positive. (-64) ÷ (-8) = 8."
-  },
-  {
-    "question": "What is the absolute value of -35?",
-    "options": ["-35", "-5", "5", "35"],
-    "correctIndex": 3,
-    "explanation": "The absolute value is the distance from zero, so |-35| = 35."
-  },
-  {
-    "question": "Which integer is greatest?",
-    "options": ["-12", "-4", "-9", "-7"],
-    "correctIndex": 1,
-    "explanation": "-4 is closest to zero, so it is the greatest."
-  },
-  {
-    "question": "Which integer is smallest?",
-    "options": ["-6", "-18", "3", "0"],
-    "correctIndex": 1,
-    "explanation": "-18 is farthest to the left on the number line, so it is the smallest."
-  },
-  {
-    "question": "What is (-7) + 19 - 6?",
-    "options": ["-2", "6", "12", "18"],
-    "correctIndex": 1,
-    "explanation": "-7 + 19 = 12, and 12 - 6 = 6."
-  },
-  {
-    "question": "What is 5 × (-4) + 13?",
-    "options": ["-33", "-7", "7", "33"],
-    "correctIndex": 1,
-    "explanation": "5 × (-4) = -20, and -20 + 13 = -7."
-  },
-  {
-    "question": "What is -25 + 10 - (-8)?",
-    "options": ["-23", "-7", "7", "23"],
-    "correctIndex": 1,
-    "explanation": "-25 + 10 = -15, and -15 - (-8) = -15 + 8 = -7."
-  },
-  {
-    "question": "What is (-4)²?",
-    "options": ["-16", "-8", "8", "16"],
-    "correctIndex": 3,
-    "explanation": "(-4)² = (-4) × (-4) = 16."
-  },
-  {
-    "question": "What is (-3)³?",
-    "options": ["-27", "-9", "9", "27"],
-    "correctIndex": 0,
-    "explanation": "(-3)³ = (-3) × (-3) × (-3) = -27."
+    "explanation": "-4 + 13 = 9, so the new temperature is 9\u00b0C."
   }
 ]
